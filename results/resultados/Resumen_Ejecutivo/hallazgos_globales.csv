@@ -1,0 +1,7 @@
+﻿Fase,Hallazgo,Implicacion
+Global,La demanda aumentó 64.88% entre 2011 y 2012.,Considerar crecimiento y estacionalidad en la planificación de capacidad.
+Fase 1,La temperatura y la sensación térmica presentan asociación positiva con la demanda.,Incorporar variables meteorológicas en los modelos predictivos.
+Fase 2,La regresión múltiple redujo el MAE de validación en 56.56%.,Las variables adicionales aportan capacidad predictiva frente al modelo simple.
+Fase 3,Random Forest fue seleccionado en regresión por RMSE de validación y KNN en clasificación por F1 de validación temporal.,La selección debe respetar el protocolo de validación definido previamente.
+Fase 3,Los coeficientes de silueta de ambos algoritmos de clustering son bajos.,No se evidencia una separación fuerte entre los grupos identificados.
+Fase 4,La regresión logística alcanzó 90.0% de Accuracy en prueba estratificada.,El baseline supervisado supera al clasificador de referencia en este protocolo.

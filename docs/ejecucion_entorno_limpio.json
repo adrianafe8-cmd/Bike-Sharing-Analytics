@@ -1,0 +1,67 @@
+[
+    {
+        "fase": "fase1",
+        "notebook": "01_EDA_Bicicletas_Reconstruido.ipynb",
+        "estado": "OK",
+        "duracion_segundos": 14.96,
+        "celdas_codigo": 9,
+        "celdas_ejecutadas": 9,
+        "notebook_fuente_conservado": true,
+        "kernel_aislado_verificado": true,
+        "errores": [],
+        "detalle_error": null,
+        "evidencia": "results/validacion/entorno_limpio/fase1_entorno_limpio.ipynb"
+    },
+    {
+        "fase": "fase2",
+        "notebook": "02_Regresion_Bicicletas_Reproducible.ipynb",
+        "estado": "OK",
+        "duracion_segundos": 18.78,
+        "celdas_codigo": 20,
+        "celdas_ejecutadas": 20,
+        "notebook_fuente_conservado": true,
+        "kernel_aislado_verificado": true,
+        "errores": [],
+        "detalle_error": null,
+        "evidencia": "results/validacion/entorno_limpio/fase2_entorno_limpio.ipynb"
+    },
+    {
+        "fase": "fase3",
+        "notebook": "03_Modelado_Avanzado_Reproducible.ipynb",
+        "estado": "OK",
+        "duracion_segundos": 64.55,
+        "celdas_codigo": 24,
+        "celdas_ejecutadas": 24,
+        "notebook_fuente_conservado": true,
+        "kernel_aislado_verificado": true,
+        "errores": [],
+        "detalle_error": null,
+        "evidencia": "results/validacion/entorno_limpio/fase3_entorno_limpio.ipynb"
+    },
+    {
+        "fase": "fase4",
+        "notebook": "04_Preprocesamiento_Reproducible.ipynb",
+        "estado": "OK",
+        "duracion_segundos": 17.05,
+        "celdas_codigo": 17,
+        "celdas_ejecutadas": 17,
+        "notebook_fuente_conservado": true,
+        "kernel_aislado_verificado": true,
+        "errores": [],
+        "detalle_error": null,
+        "evidencia": "results/validacion/entorno_limpio/fase4_entorno_limpio.ipynb"
+    },
+    {
+        "fase": "dashboard",
+        "notebook": "05_Dashboard_Global_Reproducible.ipynb",
+        "estado": "OK",
+        "duracion_segundos": 38.13,
+        "celdas_codigo": 23,
+        "celdas_ejecutadas": 23,
+        "notebook_fuente_conservado": true,
+        "kernel_aislado_verificado": true,
+        "errores": [],
+        "detalle_error": null,
+        "evidencia": "results/validacion/entorno_limpio/dashboard_entorno_limpio.ipynb"
+    }
+]

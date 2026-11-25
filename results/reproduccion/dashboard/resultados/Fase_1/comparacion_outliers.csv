@@ -1,0 +1,8 @@
+﻿Variable,Outliers_IQR,Porcentaje_IQR,Outliers_Zscore,Porcentaje_Zscore,Umbral
+temp,0,0.0,0,0.0,3
+atemp,0,0.0,0,0.0,3
+hum,2,0.27359781121751026,2,0.27359781121751026,3
+windspeed,13,1.7783857729138166,2,0.27359781121751026,3
+casual,44,6.019151846785226,8,1.094391244870041,3
+registered,0,0.0,0,0.0,3
+cnt,0,0.0,0,0.0,3

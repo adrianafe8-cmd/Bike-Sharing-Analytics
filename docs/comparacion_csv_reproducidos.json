@@ -1,0 +1,1824 @@
+[
+    {
+        "archivo": "day.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/datos/day.csv",
+        "candidatos_originales": 0,
+        "estado": "SIN_REFERENCIA_DIRECTA"
+    },
+    {
+        "archivo": "categorias_aprendidas.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/evidencias/Fase_4/categorias_aprendidas.csv",
+        "candidatos_originales": 2,
+        "estado": "REFERENCIA_AMBIGUA",
+        "rutas_candidatas": [
+            "results/resultados/Fase_4/categorias_aprendidas.csv",
+            "results/evidencias/Fase_4/categorias_aprendidas.csv"
+        ]
+    },
+    {
+        "archivo": "categorias_desconocidas.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/evidencias/Fase_4/categorias_desconocidas.csv",
+        "candidatos_originales": 2,
+        "estado": "REFERENCIA_AMBIGUA",
+        "rutas_candidatas": [
+            "results/resultados/Fase_4/categorias_desconocidas.csv",
+            "results/evidencias/Fase_4/categorias_desconocidas.csv"
+        ]
+    },
+    {
+        "archivo": "cumplimiento_requerimientos.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/evidencias/Fase_4/cumplimiento_requerimientos.csv",
+        "candidatos_originales": 2,
+        "estado": "REFERENCIA_AMBIGUA",
+        "rutas_candidatas": [
+            "results/resultados/Fase_4/cumplimiento_requerimientos.csv",
+            "results/evidencias/Fase_4/cumplimiento_requerimientos.csv"
+        ]
+    },
+    {
+        "archivo": "detalle_outliers.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/evidencias/Fase_4/detalle_outliers.csv",
+        "candidatos_originales": 2,
+        "estado": "REFERENCIA_AMBIGUA",
+        "rutas_candidatas": [
+            "results/resultados/Fase_4/detalle_outliers.csv",
+            "results/evidencias/Fase_4/detalle_outliers.csv"
+        ]
+    },
+    {
+        "archivo": "estrategia_balanceo.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/evidencias/Fase_4/estrategia_balanceo.csv",
+        "candidatos_originales": 2,
+        "estado": "REFERENCIA_AMBIGUA",
+        "rutas_candidatas": [
+            "results/resultados/Fase_4/estrategia_balanceo.csv",
+            "results/evidencias/Fase_4/estrategia_balanceo.csv"
+        ]
+    },
+    {
+        "archivo": "estrategia_outliers.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/evidencias/Fase_4/estrategia_outliers.csv",
+        "candidatos_originales": 2,
+        "estado": "REFERENCIA_AMBIGUA",
+        "rutas_candidatas": [
+            "results/resultados/Fase_4/estrategia_outliers.csv",
+            "results/evidencias/Fase_4/estrategia_outliers.csv"
+        ]
+    },
+    {
+        "archivo": "limites_winsorization.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/evidencias/Fase_4/limites_winsorization.csv",
+        "candidatos_originales": 2,
+        "estado": "REFERENCIA_AMBIGUA",
+        "rutas_candidatas": [
+            "results/resultados/Fase_4/limites_winsorization.csv",
+            "results/evidencias/Fase_4/limites_winsorization.csv"
+        ]
+    },
+    {
+        "archivo": "matrices_finales.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/evidencias/Fase_4/matrices_finales.csv",
+        "candidatos_originales": 2,
+        "estado": "REFERENCIA_AMBIGUA",
+        "rutas_candidatas": [
+            "results/resultados/Fase_4/matrices_finales.csv",
+            "results/evidencias/Fase_4/matrices_finales.csv"
+        ]
+    },
+    {
+        "archivo": "metricas_baseline_clasificacion.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/evidencias/Fase_4/metricas_baseline_clasificacion.csv",
+        "candidatos_originales": 2,
+        "estado": "REFERENCIA_AMBIGUA",
+        "rutas_candidatas": [
+            "results/resultados/Fase_4/metricas_baseline_clasificacion.csv",
+            "results/evidencias/Fase_4/metricas_baseline_clasificacion.csv"
+        ]
+    },
+    {
+        "archivo": "metricas_baseline_regresion.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/evidencias/Fase_4/metricas_baseline_regresion.csv",
+        "candidatos_originales": 2,
+        "estado": "REFERENCIA_AMBIGUA",
+        "rutas_candidatas": [
+            "results/resultados/Fase_4/metricas_baseline_regresion.csv",
+            "results/evidencias/Fase_4/metricas_baseline_regresion.csv"
+        ]
+    },
+    {
+        "archivo": "parametros_standardscaler.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/evidencias/Fase_4/parametros_standardscaler.csv",
+        "candidatos_originales": 2,
+        "estado": "REFERENCIA_AMBIGUA",
+        "rutas_candidatas": [
+            "results/resultados/Fase_4/parametros_standardscaler.csv",
+            "results/evidencias/Fase_4/parametros_standardscaler.csv"
+        ]
+    },
+    {
+        "archivo": "pesos_clases.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/evidencias/Fase_4/pesos_clases.csv",
+        "candidatos_originales": 2,
+        "estado": "REFERENCIA_AMBIGUA",
+        "rutas_candidatas": [
+            "results/resultados/Fase_4/pesos_clases.csv",
+            "results/evidencias/Fase_4/pesos_clases.csv"
+        ]
+    },
+    {
+        "archivo": "resultados_codificacion.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/evidencias/Fase_4/resultados_codificacion.csv",
+        "candidatos_originales": 2,
+        "estado": "REFERENCIA_AMBIGUA",
+        "rutas_candidatas": [
+            "results/resultados/Fase_4/resultados_codificacion.csv",
+            "results/evidencias/Fase_4/resultados_codificacion.csv"
+        ]
+    },
+    {
+        "archivo": "resultados_winsorization.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/evidencias/Fase_4/resultados_winsorization.csv",
+        "candidatos_originales": 2,
+        "estado": "REFERENCIA_AMBIGUA",
+        "rutas_candidatas": [
+            "results/resultados/Fase_4/resultados_winsorization.csv",
+            "results/evidencias/Fase_4/resultados_winsorization.csv"
+        ]
+    },
+    {
+        "archivo": "resumen_final_clasificacion.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/evidencias/Fase_4/resumen_final_clasificacion.csv",
+        "candidatos_originales": 2,
+        "estado": "REFERENCIA_AMBIGUA",
+        "rutas_candidatas": [
+            "results/resultados/Fase_4/resumen_final_clasificacion.csv",
+            "results/evidencias/Fase_4/resumen_final_clasificacion.csv"
+        ]
+    },
+    {
+        "archivo": "resumen_final_regresion.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/evidencias/Fase_4/resumen_final_regresion.csv",
+        "candidatos_originales": 2,
+        "estado": "REFERENCIA_AMBIGUA",
+        "rutas_candidatas": [
+            "results/resultados/Fase_4/resumen_final_regresion.csv",
+            "results/evidencias/Fase_4/resumen_final_regresion.csv"
+        ]
+    },
+    {
+        "archivo": "resumen_mejoras.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/evidencias/Fase_4/resumen_mejoras.csv",
+        "candidatos_originales": 2,
+        "estado": "REFERENCIA_AMBIGUA",
+        "rutas_candidatas": [
+            "results/resultados/Fase_4/resumen_mejoras.csv",
+            "results/evidencias/Fase_4/resumen_mejoras.csv"
+        ]
+    },
+    {
+        "archivo": "resumen_preparacion.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/evidencias/Fase_4/resumen_preparacion.csv",
+        "candidatos_originales": 2,
+        "estado": "REFERENCIA_AMBIGUA",
+        "rutas_candidatas": [
+            "results/resultados/Fase_4/resumen_preparacion.csv",
+            "results/evidencias/Fase_4/resumen_preparacion.csv"
+        ]
+    },
+    {
+        "archivo": "verificacion_estandarizacion.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/evidencias/Fase_4/verificacion_estandarizacion.csv",
+        "candidatos_originales": 2,
+        "estado": "REFERENCIA_AMBIGUA",
+        "rutas_candidatas": [
+            "results/resultados/Fase_4/verificacion_estandarizacion.csv",
+            "results/evidencias/Fase_4/verificacion_estandarizacion.csv"
+        ]
+    },
+    {
+        "archivo": "calidad_datos.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/resultados/Fase_1/calidad_datos.csv",
+        "candidatos_originales": 1,
+        "ruta_original": "results/resultados/Fase_1/calidad_datos.csv",
+        "filas_original": 16,
+        "filas_reproducido": 16,
+        "columnas_original": 5,
+        "columnas_reproducido": 5,
+        "estructura_igual": true,
+        "valores_equivalentes": true,
+        "columnas_diferentes": [],
+        "max_diferencia_numerica": 0.0,
+        "estado": "EQUIVALENTE"
+    },
+    {
+        "archivo": "comparacion_outliers.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/resultados/Fase_1/comparacion_outliers.csv",
+        "candidatos_originales": 1,
+        "ruta_original": "results/resultados/Fase_1/comparacion_outliers.csv",
+        "filas_original": 7,
+        "filas_reproducido": 7,
+        "columnas_original": 6,
+        "columnas_reproducido": 6,
+        "estructura_igual": true,
+        "valores_equivalentes": true,
+        "columnas_diferentes": [],
+        "max_diferencia_numerica": 0.0,
+        "estado": "EQUIVALENTE"
+    },
+    {
+        "archivo": "correlacion_demanda.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/resultados/Fase_1/correlacion_demanda.csv",
+        "candidatos_originales": 1,
+        "ruta_original": "results/resultados/Fase_1/correlacion_demanda.csv",
+        "filas_original": 4,
+        "filas_reproducido": 4,
+        "columnas_original": 3,
+        "columnas_reproducido": 3,
+        "estructura_igual": true,
+        "valores_equivalentes": true,
+        "columnas_diferentes": [],
+        "max_diferencia_numerica": 0.0,
+        "estado": "EQUIVALENTE"
+    },
+    {
+        "archivo": "correlacion_pearson.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/resultados/Fase_1/correlacion_pearson.csv",
+        "candidatos_originales": 1,
+        "ruta_original": "results/resultados/Fase_1/correlacion_pearson.csv",
+        "filas_original": 7,
+        "filas_reproducido": 7,
+        "columnas_original": 8,
+        "columnas_reproducido": 8,
+        "estructura_igual": true,
+        "valores_equivalentes": true,
+        "columnas_diferentes": [],
+        "max_diferencia_numerica": 0.0,
+        "estado": "EQUIVALENTE"
+    },
+    {
+        "archivo": "correlacion_spearman.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/resultados/Fase_1/correlacion_spearman.csv",
+        "candidatos_originales": 1,
+        "ruta_original": "results/resultados/Fase_1/correlacion_spearman.csv",
+        "filas_original": 7,
+        "filas_reproducido": 7,
+        "columnas_original": 8,
+        "columnas_reproducido": 8,
+        "estructura_igual": true,
+        "valores_equivalentes": true,
+        "columnas_diferentes": [],
+        "max_diferencia_numerica": 0.0,
+        "estado": "EQUIVALENTE"
+    },
+    {
+        "archivo": "detalle_zscore.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/resultados/Fase_1/detalle_zscore.csv",
+        "candidatos_originales": 1,
+        "ruta_original": "results/resultados/Fase_1/detalle_zscore.csv",
+        "filas_original": 12,
+        "filas_reproducido": 12,
+        "columnas_original": 4,
+        "columnas_reproducido": 4,
+        "estructura_igual": true,
+        "valores_equivalentes": true,
+        "columnas_diferentes": [],
+        "max_diferencia_numerica": 0.0,
+        "estado": "EQUIVALENTE"
+    },
+    {
+        "archivo": "diccionario_datos.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/resultados/Fase_1/diccionario_datos.csv",
+        "candidatos_originales": 1,
+        "ruta_original": "results/resultados/Fase_1/diccionario_datos.csv",
+        "filas_original": 16,
+        "filas_reproducido": 16,
+        "columnas_original": 4,
+        "columnas_reproducido": 4,
+        "estructura_igual": true,
+        "valores_equivalentes": true,
+        "columnas_diferentes": [],
+        "max_diferencia_numerica": null,
+        "estado": "EQUIVALENTE"
+    },
+    {
+        "archivo": "estadisticas_descriptivas.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/resultados/Fase_1/estadisticas_descriptivas.csv",
+        "candidatos_originales": 1,
+        "ruta_original": "results/resultados/Fase_1/estadisticas_descriptivas.csv",
+        "filas_original": 7,
+        "filas_reproducido": 7,
+        "columnas_original": 15,
+        "columnas_reproducido": 15,
+        "estructura_igual": true,
+        "valores_equivalentes": true,
+        "columnas_diferentes": [],
+        "max_diferencia_numerica": 0.0,
+        "estado": "EQUIVALENTE"
+    },
+    {
+        "archivo": "ficha_tecnica.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/resultados/Fase_1/ficha_tecnica.csv",
+        "candidatos_originales": 1,
+        "ruta_original": "results/resultados/Fase_1/ficha_tecnica.csv",
+        "filas_original": 27,
+        "filas_reproducido": 27,
+        "columnas_original": 2,
+        "columnas_reproducido": 2,
+        "estructura_igual": true,
+        "valores_equivalentes": false,
+        "columnas_diferentes": [
+            "Valor"
+        ],
+        "max_diferencia_numerica": null,
+        "estado": "DIFERENCIAS_DE_VALORES"
+    },
+    {
+        "archivo": "frecuencias_categoricas.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/resultados/Fase_1/frecuencias_categoricas.csv",
+        "candidatos_originales": 1,
+        "ruta_original": "results/resultados/Fase_1/frecuencias_categoricas.csv",
+        "filas_original": 32,
+        "filas_reproducido": 32,
+        "columnas_original": 4,
+        "columnas_reproducido": 4,
+        "estructura_igual": true,
+        "valores_equivalentes": true,
+        "columnas_diferentes": [],
+        "max_diferencia_numerica": 0.0,
+        "estado": "EQUIVALENTE"
+    },
+    {
+        "archivo": "objetivos_smart.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/resultados/Fase_1/objetivos_smart.csv",
+        "candidatos_originales": 1,
+        "ruta_original": "results/resultados/Fase_1/objetivos_smart.csv",
+        "filas_original": 3,
+        "filas_reproducido": 3,
+        "columnas_original": 4,
+        "columnas_reproducido": 4,
+        "estructura_igual": true,
+        "valores_equivalentes": true,
+        "columnas_diferentes": [],
+        "max_diferencia_numerica": null,
+        "estado": "EQUIVALENTE"
+    },
+    {
+        "archivo": "outliers_eda.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/resultados/Fase_1/outliers_eda.csv",
+        "candidatos_originales": 1,
+        "ruta_original": "results/resultados/Fase_1/outliers_eda.csv",
+        "filas_original": 7,
+        "filas_reproducido": 7,
+        "columnas_original": 8,
+        "columnas_reproducido": 8,
+        "estructura_igual": true,
+        "valores_equivalentes": true,
+        "columnas_diferentes": [],
+        "max_diferencia_numerica": 0.0,
+        "estado": "EQUIVALENTE"
+    },
+    {
+        "archivo": "outliers_zscore.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/resultados/Fase_1/outliers_zscore.csv",
+        "candidatos_originales": 1,
+        "ruta_original": "results/resultados/Fase_1/outliers_zscore.csv",
+        "filas_original": 7,
+        "filas_reproducido": 7,
+        "columnas_original": 4,
+        "columnas_reproducido": 4,
+        "estructura_igual": true,
+        "valores_equivalentes": true,
+        "columnas_diferentes": [],
+        "max_diferencia_numerica": 0.0,
+        "estado": "EQUIVALENTE"
+    },
+    {
+        "archivo": "preguntas_investigacion.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/resultados/Fase_1/preguntas_investigacion.csv",
+        "candidatos_originales": 1,
+        "ruta_original": "results/resultados/Fase_1/preguntas_investigacion.csv",
+        "filas_original": 4,
+        "filas_reproducido": 4,
+        "columnas_original": 2,
+        "columnas_reproducido": 2,
+        "estructura_igual": true,
+        "valores_equivalentes": true,
+        "columnas_diferentes": [],
+        "max_diferencia_numerica": null,
+        "estado": "EQUIVALENTE"
+    },
+    {
+        "archivo": "pruebas_chi2.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/resultados/Fase_1/pruebas_chi2.csv",
+        "candidatos_originales": 1,
+        "ruta_original": "results/resultados/Fase_1/pruebas_chi2.csv",
+        "filas_original": 4,
+        "filas_reproducido": 4,
+        "columnas_original": 11,
+        "columnas_reproducido": 11,
+        "estructura_igual": true,
+        "valores_equivalentes": true,
+        "columnas_diferentes": [],
+        "max_diferencia_numerica": 0.0,
+        "estado": "EQUIVALENTE"
+    },
+    {
+        "archivo": "verificacion_dias_semana.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/resultados/Fase_1/verificacion_dias_semana.csv",
+        "candidatos_originales": 1,
+        "ruta_original": "results/resultados/Fase_1/verificacion_dias_semana.csv",
+        "filas_original": 7,
+        "filas_reproducido": 7,
+        "columnas_original": 2,
+        "columnas_reproducido": 2,
+        "estructura_igual": true,
+        "valores_equivalentes": true,
+        "columnas_diferentes": [],
+        "max_diferencia_numerica": 0.0,
+        "estado": "EQUIVALENTE"
+    },
+    {
+        "archivo": "verificacion_estaciones.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/resultados/Fase_1/verificacion_estaciones.csv",
+        "candidatos_originales": 1,
+        "ruta_original": "results/resultados/Fase_1/verificacion_estaciones.csv",
+        "filas_original": 4,
+        "filas_reproducido": 4,
+        "columnas_original": 13,
+        "columnas_reproducido": 13,
+        "estructura_igual": true,
+        "valores_equivalentes": true,
+        "columnas_diferentes": [],
+        "max_diferencia_numerica": 0.0,
+        "estado": "EQUIVALENTE"
+    },
+    {
+        "archivo": "comparacion_modelos.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/resultados/Fase_2/comparacion_modelos.csv",
+        "candidatos_originales": 1,
+        "ruta_original": "results/resultados/Fase_2/comparacion_modelos.csv",
+        "filas_original": 2,
+        "filas_reproducido": 2,
+        "columnas_original": 4,
+        "columnas_reproducido": 4,
+        "estructura_igual": true,
+        "valores_equivalentes": true,
+        "columnas_diferentes": [],
+        "max_diferencia_numerica": 0.0,
+        "estado": "EQUIVALENTE"
+    },
+    {
+        "archivo": "evaluacion_final.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/resultados/Fase_2/evaluacion_final.csv",
+        "candidatos_originales": 1,
+        "ruta_original": "results/resultados/Fase_2/evaluacion_final.csv",
+        "filas_original": 2,
+        "filas_reproducido": 2,
+        "columnas_original": 4,
+        "columnas_reproducido": 4,
+        "estructura_igual": true,
+        "valores_equivalentes": true,
+        "columnas_diferentes": [],
+        "max_diferencia_numerica": 0.0,
+        "estado": "EQUIVALENTE"
+    },
+    {
+        "archivo": "inventario_imagenes.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/resultados/Fase_2/inventario_imagenes.csv",
+        "candidatos_originales": 1,
+        "ruta_original": "results/resultados/Fase_2/inventario_imagenes.csv",
+        "filas_original": 5,
+        "filas_reproducido": 5,
+        "columnas_original": 4,
+        "columnas_reproducido": 4,
+        "estructura_igual": true,
+        "valores_equivalentes": false,
+        "columnas_diferentes": [
+            "Ruta"
+        ],
+        "max_diferencia_numerica": 0.0,
+        "estado": "DIFERENCIAS_DE_VALORES"
+    },
+    {
+        "archivo": "inventario_notebook_fase2.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/resultados/Fase_2/inventario_notebook_fase2.csv",
+        "candidatos_originales": 1,
+        "ruta_original": "results/resultados/Fase_2/inventario_notebook_fase2.csv",
+        "filas_original": 35,
+        "filas_reproducido": 35,
+        "columnas_original": 5,
+        "columnas_reproducido": 5,
+        "estructura_igual": true,
+        "valores_equivalentes": true,
+        "columnas_diferentes": [],
+        "max_diferencia_numerica": 0.0,
+        "estado": "EQUIVALENTE"
+    },
+    {
+        "archivo": "metricas_detectadas_fase2.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/resultados/Fase_2/metricas_detectadas_fase2.csv",
+        "candidatos_originales": 1,
+        "ruta_original": "results/resultados/Fase_2/metricas_detectadas_fase2.csv",
+        "filas_original": 7,
+        "filas_reproducido": 7,
+        "columnas_original": 3,
+        "columnas_reproducido": 3,
+        "estructura_igual": true,
+        "valores_equivalentes": true,
+        "columnas_diferentes": [],
+        "max_diferencia_numerica": 0.0,
+        "estado": "EQUIVALENTE"
+    },
+    {
+        "archivo": "particion_datos.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/resultados/Fase_2/particion_datos.csv",
+        "candidatos_originales": 1,
+        "ruta_original": "results/resultados/Fase_2/particion_datos.csv",
+        "filas_original": 3,
+        "filas_reproducido": 3,
+        "columnas_original": 3,
+        "columnas_reproducido": 3,
+        "estructura_igual": true,
+        "valores_equivalentes": true,
+        "columnas_diferentes": [],
+        "max_diferencia_numerica": 0.0,
+        "estado": "EQUIVALENTE"
+    },
+    {
+        "archivo": "resultados_r.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/resultados/Fase_2/resultados_r.csv",
+        "candidatos_originales": 1,
+        "ruta_original": "results/resultados/Fase_2/resultados_r.csv",
+        "filas_original": 4,
+        "filas_reproducido": 4,
+        "columnas_original": 2,
+        "columnas_reproducido": 2,
+        "estructura_igual": true,
+        "valores_equivalentes": true,
+        "columnas_diferentes": [],
+        "max_diferencia_numerica": 0.0,
+        "estado": "EQUIVALENTE"
+    },
+    {
+        "archivo": "salidas_originales_fase2.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/resultados/Fase_2/salidas_originales_fase2.csv",
+        "candidatos_originales": 1,
+        "ruta_original": "results/resultados/Fase_2/salidas_originales_fase2.csv",
+        "filas_original": 30,
+        "filas_reproducido": 30,
+        "columnas_original": 3,
+        "columnas_reproducido": 3,
+        "estructura_igual": true,
+        "valores_equivalentes": true,
+        "columnas_diferentes": [],
+        "max_diferencia_numerica": 0.0,
+        "estado": "EQUIVALENTE"
+    },
+    {
+        "archivo": "distribucion_clases.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/resultados/Fase_3/distribucion_clases.csv",
+        "candidatos_originales": 1,
+        "ruta_original": "results/resultados/Fase_3/distribucion_clases.csv",
+        "filas_original": 2,
+        "filas_reproducido": 2,
+        "columnas_original": 4,
+        "columnas_reproducido": 4,
+        "estructura_igual": true,
+        "valores_equivalentes": true,
+        "columnas_diferentes": [],
+        "max_diferencia_numerica": 0.0,
+        "estado": "EQUIVALENTE"
+    },
+    {
+        "archivo": "errores_historicos_fase3.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/resultados/Fase_3/errores_historicos_fase3.csv",
+        "candidatos_originales": 1,
+        "ruta_original": "results/resultados/Fase_3/errores_historicos_fase3.csv",
+        "filas_original": 0,
+        "filas_reproducido": 0,
+        "columnas_original": 3,
+        "columnas_reproducido": 3,
+        "estructura_igual": true,
+        "valores_equivalentes": true,
+        "columnas_diferentes": [],
+        "max_diferencia_numerica": null,
+        "estado": "EQUIVALENTE"
+    },
+    {
+        "archivo": "hiperparametros.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/resultados/Fase_3/hiperparametros.csv",
+        "candidatos_originales": 1,
+        "ruta_original": "results/resultados/Fase_3/hiperparametros.csv",
+        "filas_original": 5,
+        "filas_reproducido": 5,
+        "columnas_original": 3,
+        "columnas_reproducido": 3,
+        "estructura_igual": true,
+        "valores_equivalentes": true,
+        "columnas_diferentes": [],
+        "max_diferencia_numerica": null,
+        "estado": "EQUIVALENTE"
+    },
+    {
+        "archivo": "indicadores_fase3.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/resultados/Fase_3/indicadores_fase3.csv",
+        "candidatos_originales": 1,
+        "ruta_original": "results/resultados/Fase_3/indicadores_fase3.csv",
+        "filas_original": 6,
+        "filas_reproducido": 6,
+        "columnas_original": 2,
+        "columnas_reproducido": 2,
+        "estructura_igual": true,
+        "valores_equivalentes": true,
+        "columnas_diferentes": [],
+        "max_diferencia_numerica": null,
+        "estado": "EQUIVALENTE"
+    },
+    {
+        "archivo": "inventario_imagenes_fase3.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/resultados/Fase_3/inventario_imagenes_fase3.csv",
+        "candidatos_originales": 1,
+        "ruta_original": "results/resultados/Fase_3/inventario_imagenes_fase3.csv",
+        "filas_original": 8,
+        "filas_reproducido": 8,
+        "columnas_original": 4,
+        "columnas_reproducido": 4,
+        "estructura_igual": true,
+        "valores_equivalentes": false,
+        "columnas_diferentes": [
+            "Ruta"
+        ],
+        "max_diferencia_numerica": 0.0,
+        "estado": "DIFERENCIAS_DE_VALORES"
+    },
+    {
+        "archivo": "inventario_notebook_fase3.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/resultados/Fase_3/inventario_notebook_fase3.csv",
+        "candidatos_originales": 1,
+        "ruta_original": "results/resultados/Fase_3/inventario_notebook_fase3.csv",
+        "filas_original": 45,
+        "filas_reproducido": 45,
+        "columnas_original": 5,
+        "columnas_reproducido": 5,
+        "estructura_igual": true,
+        "valores_equivalentes": true,
+        "columnas_diferentes": [],
+        "max_diferencia_numerica": 0.0,
+        "estado": "EQUIVALENTE"
+    },
+    {
+        "archivo": "metricas_clasificacion_cv.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/resultados/Fase_3/metricas_clasificacion_cv.csv",
+        "candidatos_originales": 1,
+        "ruta_original": "results/resultados/Fase_3/metricas_clasificacion_cv.csv",
+        "filas_original": 2,
+        "filas_reproducido": 2,
+        "columnas_original": 2,
+        "columnas_reproducido": 2,
+        "estructura_igual": true,
+        "valores_equivalentes": true,
+        "columnas_diferentes": [],
+        "max_diferencia_numerica": 0.0,
+        "estado": "EQUIVALENTE"
+    },
+    {
+        "archivo": "metricas_clasificacion_prueba.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/resultados/Fase_3/metricas_clasificacion_prueba.csv",
+        "candidatos_originales": 1,
+        "ruta_original": "results/resultados/Fase_3/metricas_clasificacion_prueba.csv",
+        "filas_original": 2,
+        "filas_reproducido": 2,
+        "columnas_original": 6,
+        "columnas_reproducido": 6,
+        "estructura_igual": true,
+        "valores_equivalentes": true,
+        "columnas_diferentes": [],
+        "max_diferencia_numerica": 0.0,
+        "estado": "EQUIVALENTE"
+    },
+    {
+        "archivo": "metricas_clustering.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/resultados/Fase_3/metricas_clustering.csv",
+        "candidatos_originales": 1,
+        "ruta_original": "results/resultados/Fase_3/metricas_clustering.csv",
+        "filas_original": 2,
+        "filas_reproducido": 2,
+        "columnas_original": 3,
+        "columnas_reproducido": 3,
+        "estructura_igual": true,
+        "valores_equivalentes": true,
+        "columnas_diferentes": [],
+        "max_diferencia_numerica": 0.0,
+        "estado": "EQUIVALENTE"
+    },
+    {
+        "archivo": "metricas_detectadas_fase3.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/resultados/Fase_3/metricas_detectadas_fase3.csv",
+        "candidatos_originales": 1,
+        "ruta_original": "results/resultados/Fase_3/metricas_detectadas_fase3.csv",
+        "filas_original": 33,
+        "filas_reproducido": 33,
+        "columnas_original": 4,
+        "columnas_reproducido": 4,
+        "estructura_igual": true,
+        "valores_equivalentes": true,
+        "columnas_diferentes": [],
+        "max_diferencia_numerica": 0.0,
+        "estado": "EQUIVALENTE"
+    },
+    {
+        "archivo": "metricas_regresion.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/resultados/Fase_3/metricas_regresion.csv",
+        "candidatos_originales": 1,
+        "ruta_original": "results/resultados/Fase_3/metricas_regresion.csv",
+        "filas_original": 4,
+        "filas_reproducido": 4,
+        "columnas_original": 5,
+        "columnas_reproducido": 5,
+        "estructura_igual": true,
+        "valores_equivalentes": true,
+        "columnas_diferentes": [],
+        "max_diferencia_numerica": 0.0,
+        "estado": "EQUIVALENTE"
+    },
+    {
+        "archivo": "resultados_clasificacion.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/resultados/Fase_3/resultados_clasificacion.csv",
+        "candidatos_originales": 1,
+        "ruta_original": "results/resultados/Fase_3/resultados_clasificacion.csv",
+        "filas_original": 11,
+        "filas_reproducido": 11,
+        "columnas_original": 4,
+        "columnas_reproducido": 4,
+        "estructura_igual": true,
+        "valores_equivalentes": true,
+        "columnas_diferentes": [],
+        "max_diferencia_numerica": 0.0,
+        "estado": "EQUIVALENTE"
+    },
+    {
+        "archivo": "resultados_clustering.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/resultados/Fase_3/resultados_clustering.csv",
+        "candidatos_originales": 1,
+        "ruta_original": "results/resultados/Fase_3/resultados_clustering.csv",
+        "filas_original": 10,
+        "filas_reproducido": 10,
+        "columnas_original": 4,
+        "columnas_reproducido": 4,
+        "estructura_igual": true,
+        "valores_equivalentes": true,
+        "columnas_diferentes": [],
+        "max_diferencia_numerica": 0.0,
+        "estado": "EQUIVALENTE"
+    },
+    {
+        "archivo": "resultados_regresion.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/resultados/Fase_3/resultados_regresion.csv",
+        "candidatos_originales": 1,
+        "ruta_original": "results/resultados/Fase_3/resultados_regresion.csv",
+        "filas_original": 8,
+        "filas_reproducido": 8,
+        "columnas_original": 4,
+        "columnas_reproducido": 4,
+        "estructura_igual": true,
+        "valores_equivalentes": true,
+        "columnas_diferentes": [],
+        "max_diferencia_numerica": 0.0,
+        "estado": "EQUIVALENTE"
+    },
+    {
+        "archivo": "resultados_validacion.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/resultados/Fase_3/resultados_validacion.csv",
+        "candidatos_originales": 1,
+        "ruta_original": "results/resultados/Fase_3/resultados_validacion.csv",
+        "filas_original": 9,
+        "filas_reproducido": 9,
+        "columnas_original": 4,
+        "columnas_reproducido": 4,
+        "estructura_igual": true,
+        "valores_equivalentes": true,
+        "columnas_diferentes": [],
+        "max_diferencia_numerica": 0.0,
+        "estado": "EQUIVALENTE"
+    },
+    {
+        "archivo": "salidas_originales_fase3.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/resultados/Fase_3/salidas_originales_fase3.csv",
+        "candidatos_originales": 1,
+        "ruta_original": "results/resultados/Fase_3/salidas_originales_fase3.csv",
+        "filas_original": 67,
+        "filas_reproducido": 67,
+        "columnas_original": 4,
+        "columnas_reproducido": 4,
+        "estructura_igual": true,
+        "valores_equivalentes": true,
+        "columnas_diferentes": [],
+        "max_diferencia_numerica": 0.0,
+        "estado": "EQUIVALENTE"
+    },
+    {
+        "archivo": "validacion_temporal.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/resultados/Fase_3/validacion_temporal.csv",
+        "candidatos_originales": 1,
+        "ruta_original": "results/resultados/Fase_3/validacion_temporal.csv",
+        "filas_original": 5,
+        "filas_reproducido": 5,
+        "columnas_original": 7,
+        "columnas_reproducido": 7,
+        "estructura_igual": true,
+        "valores_equivalentes": true,
+        "columnas_diferentes": [],
+        "max_diferencia_numerica": 0.0,
+        "estado": "EQUIVALENTE"
+    },
+    {
+        "archivo": "categorias_aprendidas.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/resultados/Fase_4/categorias_aprendidas.csv",
+        "candidatos_originales": 2,
+        "estado": "REFERENCIA_AMBIGUA",
+        "rutas_candidatas": [
+            "results/resultados/Fase_4/categorias_aprendidas.csv",
+            "results/evidencias/Fase_4/categorias_aprendidas.csv"
+        ]
+    },
+    {
+        "archivo": "categorias_desconocidas.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/resultados/Fase_4/categorias_desconocidas.csv",
+        "candidatos_originales": 2,
+        "estado": "REFERENCIA_AMBIGUA",
+        "rutas_candidatas": [
+            "results/resultados/Fase_4/categorias_desconocidas.csv",
+            "results/evidencias/Fase_4/categorias_desconocidas.csv"
+        ]
+    },
+    {
+        "archivo": "composicion_caracteristicas.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/resultados/Fase_4/composicion_caracteristicas.csv",
+        "candidatos_originales": 1,
+        "ruta_original": "results/resultados/Fase_4/composicion_caracteristicas.csv",
+        "filas_original": 2,
+        "filas_reproducido": 2,
+        "columnas_original": 2,
+        "columnas_reproducido": 2,
+        "estructura_igual": true,
+        "valores_equivalentes": true,
+        "columnas_diferentes": [],
+        "max_diferencia_numerica": 0.0,
+        "estado": "EQUIVALENTE"
+    },
+    {
+        "archivo": "conteo_outliers.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/resultados/Fase_4/conteo_outliers.csv",
+        "candidatos_originales": 1,
+        "ruta_original": "results/resultados/Fase_4/conteo_outliers.csv",
+        "filas_original": 2,
+        "filas_reproducido": 2,
+        "columnas_original": 3,
+        "columnas_reproducido": 3,
+        "estructura_igual": true,
+        "valores_equivalentes": true,
+        "columnas_diferentes": [],
+        "max_diferencia_numerica": 0.0,
+        "estado": "EQUIVALENTE"
+    },
+    {
+        "archivo": "cumplimiento_requerimientos.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/resultados/Fase_4/cumplimiento_requerimientos.csv",
+        "candidatos_originales": 2,
+        "estado": "REFERENCIA_AMBIGUA",
+        "rutas_candidatas": [
+            "results/resultados/Fase_4/cumplimiento_requerimientos.csv",
+            "results/evidencias/Fase_4/cumplimiento_requerimientos.csv"
+        ]
+    },
+    {
+        "archivo": "detalle_outliers.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/resultados/Fase_4/detalle_outliers.csv",
+        "candidatos_originales": 2,
+        "estado": "REFERENCIA_AMBIGUA",
+        "rutas_candidatas": [
+            "results/resultados/Fase_4/detalle_outliers.csv",
+            "results/evidencias/Fase_4/detalle_outliers.csv"
+        ]
+    },
+    {
+        "archivo": "estrategia_balanceo.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/resultados/Fase_4/estrategia_balanceo.csv",
+        "candidatos_originales": 2,
+        "estado": "REFERENCIA_AMBIGUA",
+        "rutas_candidatas": [
+            "results/resultados/Fase_4/estrategia_balanceo.csv",
+            "results/evidencias/Fase_4/estrategia_balanceo.csv"
+        ]
+    },
+    {
+        "archivo": "estrategia_outliers.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/resultados/Fase_4/estrategia_outliers.csv",
+        "candidatos_originales": 2,
+        "estado": "REFERENCIA_AMBIGUA",
+        "rutas_candidatas": [
+            "results/resultados/Fase_4/estrategia_outliers.csv",
+            "results/evidencias/Fase_4/estrategia_outliers.csv"
+        ]
+    },
+    {
+        "archivo": "indicadores_fase4.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/resultados/Fase_4/indicadores_fase4.csv",
+        "candidatos_originales": 1,
+        "ruta_original": "results/resultados/Fase_4/indicadores_fase4.csv",
+        "filas_original": 13,
+        "filas_reproducido": 13,
+        "columnas_original": 2,
+        "columnas_reproducido": 2,
+        "estructura_igual": true,
+        "valores_equivalentes": true,
+        "columnas_diferentes": [],
+        "max_diferencia_numerica": 0.0,
+        "estado": "EQUIVALENTE"
+    },
+    {
+        "archivo": "inventario_csv_fase4.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/resultados/Fase_4/inventario_csv_fase4.csv",
+        "candidatos_originales": 1,
+        "ruta_original": "results/resultados/Fase_4/inventario_csv_fase4.csv",
+        "filas_original": 19,
+        "filas_reproducido": 19,
+        "columnas_original": 5,
+        "columnas_reproducido": 5,
+        "estructura_igual": true,
+        "valores_equivalentes": false,
+        "columnas_diferentes": [
+            "Ruta_original"
+        ],
+        "max_diferencia_numerica": 0.0,
+        "estado": "DIFERENCIAS_DE_VALORES"
+    },
+    {
+        "archivo": "inventario_imagenes_fase4.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/resultados/Fase_4/inventario_imagenes_fase4.csv",
+        "candidatos_originales": 1,
+        "ruta_original": "results/resultados/Fase_4/inventario_imagenes_fase4.csv",
+        "filas_original": 12,
+        "filas_reproducido": 12,
+        "columnas_original": 4,
+        "columnas_reproducido": 4,
+        "estructura_igual": true,
+        "valores_equivalentes": false,
+        "columnas_diferentes": [
+            "Ruta"
+        ],
+        "max_diferencia_numerica": 0.0,
+        "estado": "DIFERENCIAS_DE_VALORES"
+    },
+    {
+        "archivo": "limites_winsorization.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/resultados/Fase_4/limites_winsorization.csv",
+        "candidatos_originales": 2,
+        "estado": "REFERENCIA_AMBIGUA",
+        "rutas_candidatas": [
+            "results/resultados/Fase_4/limites_winsorization.csv",
+            "results/evidencias/Fase_4/limites_winsorization.csv"
+        ]
+    },
+    {
+        "archivo": "matrices_finales.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/resultados/Fase_4/matrices_finales.csv",
+        "candidatos_originales": 2,
+        "estado": "REFERENCIA_AMBIGUA",
+        "rutas_candidatas": [
+            "results/resultados/Fase_4/matrices_finales.csv",
+            "results/evidencias/Fase_4/matrices_finales.csv"
+        ]
+    },
+    {
+        "archivo": "metricas_baseline_clasificacion.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/resultados/Fase_4/metricas_baseline_clasificacion.csv",
+        "candidatos_originales": 2,
+        "estado": "REFERENCIA_AMBIGUA",
+        "rutas_candidatas": [
+            "results/resultados/Fase_4/metricas_baseline_clasificacion.csv",
+            "results/evidencias/Fase_4/metricas_baseline_clasificacion.csv"
+        ]
+    },
+    {
+        "archivo": "metricas_baseline_regresion.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/resultados/Fase_4/metricas_baseline_regresion.csv",
+        "candidatos_originales": 2,
+        "estado": "REFERENCIA_AMBIGUA",
+        "rutas_candidatas": [
+            "results/resultados/Fase_4/metricas_baseline_regresion.csv",
+            "results/evidencias/Fase_4/metricas_baseline_regresion.csv"
+        ]
+    },
+    {
+        "archivo": "parametros_standardscaler.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/resultados/Fase_4/parametros_standardscaler.csv",
+        "candidatos_originales": 2,
+        "estado": "REFERENCIA_AMBIGUA",
+        "rutas_candidatas": [
+            "results/resultados/Fase_4/parametros_standardscaler.csv",
+            "results/evidencias/Fase_4/parametros_standardscaler.csv"
+        ]
+    },
+    {
+        "archivo": "pesos_clases.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/resultados/Fase_4/pesos_clases.csv",
+        "candidatos_originales": 2,
+        "estado": "REFERENCIA_AMBIGUA",
+        "rutas_candidatas": [
+            "results/resultados/Fase_4/pesos_clases.csv",
+            "results/evidencias/Fase_4/pesos_clases.csv"
+        ]
+    },
+    {
+        "archivo": "resultados_codificacion.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/resultados/Fase_4/resultados_codificacion.csv",
+        "candidatos_originales": 2,
+        "estado": "REFERENCIA_AMBIGUA",
+        "rutas_candidatas": [
+            "results/resultados/Fase_4/resultados_codificacion.csv",
+            "results/evidencias/Fase_4/resultados_codificacion.csv"
+        ]
+    },
+    {
+        "archivo": "resultados_winsorization.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/resultados/Fase_4/resultados_winsorization.csv",
+        "candidatos_originales": 2,
+        "estado": "REFERENCIA_AMBIGUA",
+        "rutas_candidatas": [
+            "results/resultados/Fase_4/resultados_winsorization.csv",
+            "results/evidencias/Fase_4/resultados_winsorization.csv"
+        ]
+    },
+    {
+        "archivo": "resumen_cumplimiento.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/resultados/Fase_4/resumen_cumplimiento.csv",
+        "candidatos_originales": 1,
+        "ruta_original": "results/resultados/Fase_4/resumen_cumplimiento.csv",
+        "filas_original": 2,
+        "filas_reproducido": 2,
+        "columnas_original": 2,
+        "columnas_reproducido": 2,
+        "estructura_igual": true,
+        "valores_equivalentes": true,
+        "columnas_diferentes": [],
+        "max_diferencia_numerica": 0.0,
+        "estado": "EQUIVALENTE"
+    },
+    {
+        "archivo": "resumen_final_clasificacion.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/resultados/Fase_4/resumen_final_clasificacion.csv",
+        "candidatos_originales": 2,
+        "estado": "REFERENCIA_AMBIGUA",
+        "rutas_candidatas": [
+            "results/resultados/Fase_4/resumen_final_clasificacion.csv",
+            "results/evidencias/Fase_4/resumen_final_clasificacion.csv"
+        ]
+    },
+    {
+        "archivo": "resumen_final_regresion.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/resultados/Fase_4/resumen_final_regresion.csv",
+        "candidatos_originales": 2,
+        "estado": "REFERENCIA_AMBIGUA",
+        "rutas_candidatas": [
+            "results/resultados/Fase_4/resumen_final_regresion.csv",
+            "results/evidencias/Fase_4/resumen_final_regresion.csv"
+        ]
+    },
+    {
+        "archivo": "resumen_mejoras.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/resultados/Fase_4/resumen_mejoras.csv",
+        "candidatos_originales": 2,
+        "estado": "REFERENCIA_AMBIGUA",
+        "rutas_candidatas": [
+            "results/resultados/Fase_4/resumen_mejoras.csv",
+            "results/evidencias/Fase_4/resumen_mejoras.csv"
+        ]
+    },
+    {
+        "archivo": "resumen_preparacion.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/resultados/Fase_4/resumen_preparacion.csv",
+        "candidatos_originales": 2,
+        "estado": "REFERENCIA_AMBIGUA",
+        "rutas_candidatas": [
+            "results/resultados/Fase_4/resumen_preparacion.csv",
+            "results/evidencias/Fase_4/resumen_preparacion.csv"
+        ]
+    },
+    {
+        "archivo": "verificacion_estandarizacion.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/resultados/Fase_4/verificacion_estandarizacion.csv",
+        "candidatos_originales": 2,
+        "estado": "REFERENCIA_AMBIGUA",
+        "rutas_candidatas": [
+            "results/resultados/Fase_4/verificacion_estandarizacion.csv",
+            "results/evidencias/Fase_4/verificacion_estandarizacion.csv"
+        ]
+    },
+    {
+        "archivo": "clasificacion_global.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/resultados/Resumen_Ejecutivo/clasificacion_global.csv",
+        "candidatos_originales": 1,
+        "ruta_original": "results/resultados/Resumen_Ejecutivo/clasificacion_global.csv",
+        "filas_original": 4,
+        "filas_reproducido": 4,
+        "columnas_original": 8,
+        "columnas_reproducido": 8,
+        "estructura_igual": true,
+        "valores_equivalentes": true,
+        "columnas_diferentes": [],
+        "max_diferencia_numerica": 0.0,
+        "estado": "EQUIVALENTE"
+    },
+    {
+        "archivo": "hallazgos_globales.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/resultados/Resumen_Ejecutivo/hallazgos_globales.csv",
+        "candidatos_originales": 1,
+        "ruta_original": "results/resultados/Resumen_Ejecutivo/hallazgos_globales.csv",
+        "filas_original": 6,
+        "filas_reproducido": 6,
+        "columnas_original": 3,
+        "columnas_reproducido": 3,
+        "estructura_igual": true,
+        "valores_equivalentes": true,
+        "columnas_diferentes": [],
+        "max_diferencia_numerica": null,
+        "estado": "EQUIVALENTE"
+    },
+    {
+        "archivo": "indicadores_ejecutivos.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/resultados/Resumen_Ejecutivo/indicadores_ejecutivos.csv",
+        "candidatos_originales": 1,
+        "ruta_original": "results/resultados/Resumen_Ejecutivo/indicadores_ejecutivos.csv",
+        "filas_original": 11,
+        "filas_reproducido": 11,
+        "columnas_original": 4,
+        "columnas_reproducido": 4,
+        "estructura_igual": true,
+        "valores_equivalentes": true,
+        "columnas_diferentes": [],
+        "max_diferencia_numerica": 0.0,
+        "estado": "EQUIVALENTE"
+    },
+    {
+        "archivo": "inventario_fases.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/resultados/Resumen_Ejecutivo/inventario_fases.csv",
+        "candidatos_originales": 2,
+        "estado": "REFERENCIA_AMBIGUA",
+        "rutas_candidatas": [
+            "results/resultados/inventario_fases.csv",
+            "results/resultados/Resumen_Ejecutivo/inventario_fases.csv"
+        ]
+    },
+    {
+        "archivo": "limitaciones_globales.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/resultados/Resumen_Ejecutivo/limitaciones_globales.csv",
+        "candidatos_originales": 1,
+        "ruta_original": "results/resultados/Resumen_Ejecutivo/limitaciones_globales.csv",
+        "filas_original": 11,
+        "filas_reproducido": 11,
+        "columnas_original": 2,
+        "columnas_reproducido": 2,
+        "estructura_igual": true,
+        "valores_equivalentes": true,
+        "columnas_diferentes": [],
+        "max_diferencia_numerica": null,
+        "estado": "EQUIVALENTE"
+    },
+    {
+        "archivo": "regresion_global.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/resultados/Resumen_Ejecutivo/regresion_global.csv",
+        "candidatos_originales": 1,
+        "ruta_original": "results/resultados/Resumen_Ejecutivo/regresion_global.csv",
+        "filas_original": 5,
+        "filas_reproducido": 5,
+        "columnas_original": 7,
+        "columnas_reproducido": 7,
+        "estructura_igual": true,
+        "valores_equivalentes": true,
+        "columnas_diferentes": [],
+        "max_diferencia_numerica": 0.0,
+        "estado": "EQUIVALENTE"
+    },
+    {
+        "archivo": "pruebas_filtros.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/resultados/Validaciones_Dashboard/pruebas_filtros.csv",
+        "candidatos_originales": 1,
+        "ruta_original": "results/resultados/Validaciones_Dashboard/pruebas_filtros.csv",
+        "filas_original": 18,
+        "filas_reproducido": 18,
+        "columnas_original": 8,
+        "columnas_reproducido": 8,
+        "estructura_igual": true,
+        "valores_equivalentes": true,
+        "columnas_diferentes": [],
+        "max_diferencia_numerica": 0.0,
+        "estado": "EQUIVALENTE"
+    },
+    {
+        "archivo": "pruebas_navegacion.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/resultados/Validaciones_Dashboard/pruebas_navegacion.csv",
+        "candidatos_originales": 1,
+        "ruta_original": "results/resultados/Validaciones_Dashboard/pruebas_navegacion.csv",
+        "filas_original": 5,
+        "filas_reproducido": 5,
+        "columnas_original": 4,
+        "columnas_reproducido": 4,
+        "estructura_igual": true,
+        "valores_equivalentes": true,
+        "columnas_diferentes": [],
+        "max_diferencia_numerica": 0.0,
+        "estado": "EQUIVALENTE"
+    },
+    {
+        "archivo": "demanda_anual.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/resultados/demanda_anual.csv",
+        "candidatos_originales": 1,
+        "ruta_original": "results/resultados/demanda_anual.csv",
+        "filas_original": 2,
+        "filas_reproducido": 2,
+        "columnas_original": 6,
+        "columnas_reproducido": 6,
+        "estructura_igual": true,
+        "valores_equivalentes": true,
+        "columnas_diferentes": [],
+        "max_diferencia_numerica": 0.0,
+        "estado": "EQUIVALENTE"
+    },
+    {
+        "archivo": "demanda_mensual.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/resultados/demanda_mensual.csv",
+        "candidatos_originales": 1,
+        "ruta_original": "results/resultados/demanda_mensual.csv",
+        "filas_original": 24,
+        "filas_reproducido": 24,
+        "columnas_original": 5,
+        "columnas_reproducido": 5,
+        "estructura_igual": true,
+        "valores_equivalentes": true,
+        "columnas_diferentes": [],
+        "max_diferencia_numerica": 0.0,
+        "estado": "EQUIVALENTE"
+    },
+    {
+        "archivo": "inventario_evidencias.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/resultados/inventario_evidencias.csv",
+        "candidatos_originales": 1,
+        "ruta_original": "results/resultados/inventario_evidencias.csv",
+        "filas_original": 37,
+        "filas_reproducido": 37,
+        "columnas_original": 5,
+        "columnas_reproducido": 5,
+        "estructura_igual": true,
+        "valores_equivalentes": false,
+        "columnas_diferentes": [
+            "Ruta"
+        ],
+        "max_diferencia_numerica": 0.0,
+        "estado": "DIFERENCIAS_DE_VALORES"
+    },
+    {
+        "archivo": "inventario_fases.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/resultados/inventario_fases.csv",
+        "candidatos_originales": 2,
+        "estado": "REFERENCIA_AMBIGUA",
+        "rutas_candidatas": [
+            "results/resultados/inventario_fases.csv",
+            "results/resultados/Resumen_Ejecutivo/inventario_fases.csv"
+        ]
+    },
+    {
+        "archivo": "inventario_final_dashboard.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/resultados/inventario_final_dashboard.csv",
+        "candidatos_originales": 1,
+        "ruta_original": "results/resultados/inventario_final_dashboard.csv",
+        "filas_original": 5,
+        "filas_reproducido": 5,
+        "columnas_original": 6,
+        "columnas_reproducido": 6,
+        "estructura_igual": true,
+        "valores_equivalentes": true,
+        "columnas_diferentes": [],
+        "max_diferencia_numerica": 0.0,
+        "estado": "EQUIVALENTE"
+    },
+    {
+        "archivo": "inventario_vistas_dashboard.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/resultados/inventario_vistas_dashboard.csv",
+        "candidatos_originales": 1,
+        "ruta_original": "results/resultados/inventario_vistas_dashboard.csv",
+        "filas_original": 5,
+        "filas_reproducido": 5,
+        "columnas_original": 6,
+        "columnas_reproducido": 6,
+        "estructura_igual": true,
+        "valores_equivalentes": true,
+        "columnas_diferentes": [],
+        "max_diferencia_numerica": 0.0,
+        "estado": "EQUIVALENTE"
+    },
+    {
+        "archivo": "kpi_globales.csv",
+        "fase": "dashboard",
+        "ruta_reproducida": "results/reproduccion/dashboard/resultados/kpi_globales.csv",
+        "candidatos_originales": 1,
+        "ruta_original": "results/resultados/kpi_globales.csv",
+        "filas_original": 17,
+        "filas_reproducido": 17,
+        "columnas_original": 2,
+        "columnas_reproducido": 2,
+        "estructura_igual": true,
+        "valores_equivalentes": true,
+        "columnas_diferentes": [],
+        "max_diferencia_numerica": null,
+        "estado": "EQUIVALENTE"
+    },
+    {
+        "archivo": "calidad_datos.csv",
+        "fase": "fase1",
+        "ruta_reproducida": "results/reproduccion/fase1/calidad_datos.csv",
+        "candidatos_originales": 1,
+        "ruta_original": "results/resultados/Fase_1/calidad_datos.csv",
+        "filas_original": 16,
+        "filas_reproducido": 6,
+        "columnas_original": 5,
+        "columnas_reproducido": 2,
+        "estructura_igual": false,
+        "valores_equivalentes": false,
+        "columnas_diferentes": [],
+        "max_diferencia_numerica": null,
+        "estado": "ESTRUCTURA_DIFERENTE"
+    },
+    {
+        "archivo": "correlacion_pearson.csv",
+        "fase": "fase1",
+        "ruta_reproducida": "results/reproduccion/fase1/correlacion_pearson.csv",
+        "candidatos_originales": 1,
+        "ruta_original": "results/resultados/Fase_1/correlacion_pearson.csv",
+        "filas_original": 7,
+        "filas_reproducido": 7,
+        "columnas_original": 8,
+        "columnas_reproducido": 8,
+        "estructura_igual": false,
+        "valores_equivalentes": false,
+        "columnas_diferentes": [],
+        "max_diferencia_numerica": null,
+        "estado": "ESTRUCTURA_DIFERENTE"
+    },
+    {
+        "archivo": "correlacion_spearman.csv",
+        "fase": "fase1",
+        "ruta_reproducida": "results/reproduccion/fase1/correlacion_spearman.csv",
+        "candidatos_originales": 1,
+        "ruta_original": "results/resultados/Fase_1/correlacion_spearman.csv",
+        "filas_original": 7,
+        "filas_reproducido": 7,
+        "columnas_original": 8,
+        "columnas_reproducido": 8,
+        "estructura_igual": false,
+        "valores_equivalentes": false,
+        "columnas_diferentes": [],
+        "max_diferencia_numerica": null,
+        "estado": "ESTRUCTURA_DIFERENTE"
+    },
+    {
+        "archivo": "demanda_anual.csv",
+        "fase": "fase1",
+        "ruta_reproducida": "results/reproduccion/fase1/demanda_anual.csv",
+        "candidatos_originales": 1,
+        "ruta_original": "results/resultados/demanda_anual.csv",
+        "filas_original": 2,
+        "filas_reproducido": 2,
+        "columnas_original": 6,
+        "columnas_reproducido": 4,
+        "estructura_igual": false,
+        "valores_equivalentes": false,
+        "columnas_diferentes": [],
+        "max_diferencia_numerica": null,
+        "estado": "ESTRUCTURA_DIFERENTE"
+    },
+    {
+        "archivo": "demanda_clima.csv",
+        "fase": "fase1",
+        "ruta_reproducida": "results/reproduccion/fase1/demanda_clima.csv",
+        "candidatos_originales": 0,
+        "estado": "SIN_REFERENCIA_DIRECTA"
+    },
+    {
+        "archivo": "demanda_estacion.csv",
+        "fase": "fase1",
+        "ruta_reproducida": "results/reproduccion/fase1/demanda_estacion.csv",
+        "candidatos_originales": 0,
+        "estado": "SIN_REFERENCIA_DIRECTA"
+    },
+    {
+        "archivo": "demanda_mensual.csv",
+        "fase": "fase1",
+        "ruta_reproducida": "results/reproduccion/fase1/demanda_mensual.csv",
+        "candidatos_originales": 1,
+        "ruta_original": "results/resultados/demanda_mensual.csv",
+        "filas_original": 24,
+        "filas_reproducido": 24,
+        "columnas_original": 5,
+        "columnas_reproducido": 4,
+        "estructura_igual": false,
+        "valores_equivalentes": false,
+        "columnas_diferentes": [],
+        "max_diferencia_numerica": null,
+        "estado": "ESTRUCTURA_DIFERENTE"
+    },
+    {
+        "archivo": "deteccion_outliers.csv",
+        "fase": "fase1",
+        "ruta_reproducida": "results/reproduccion/fase1/deteccion_outliers.csv",
+        "candidatos_originales": 0,
+        "estado": "SIN_REFERENCIA_DIRECTA"
+    },
+    {
+        "archivo": "diccionario_estructura.csv",
+        "fase": "fase1",
+        "ruta_reproducida": "results/reproduccion/fase1/diccionario_estructura.csv",
+        "candidatos_originales": 0,
+        "estado": "SIN_REFERENCIA_DIRECTA"
+    },
+    {
+        "archivo": "estadistica_descriptiva.csv",
+        "fase": "fase1",
+        "ruta_reproducida": "results/reproduccion/fase1/estadistica_descriptiva.csv",
+        "candidatos_originales": 0,
+        "estado": "SIN_REFERENCIA_DIRECTA"
+    },
+    {
+        "archivo": "indicadores_globales.csv",
+        "fase": "fase1",
+        "ruta_reproducida": "results/reproduccion/fase1/indicadores_globales.csv",
+        "candidatos_originales": 0,
+        "estado": "SIN_REFERENCIA_DIRECTA"
+    },
+    {
+        "archivo": "pruebas_chi_cuadrado.csv",
+        "fase": "fase1",
+        "ruta_reproducida": "results/reproduccion/fase1/pruebas_chi_cuadrado.csv",
+        "candidatos_originales": 0,
+        "estado": "SIN_REFERENCIA_DIRECTA"
+    },
+    {
+        "archivo": "datos_ordenados.csv",
+        "fase": "fase2",
+        "ruta_reproducida": "results/reproduccion/fase2/datos_ordenados.csv",
+        "candidatos_originales": 0,
+        "estado": "SIN_REFERENCIA_DIRECTA"
+    },
+    {
+        "archivo": "metricas_finales.csv",
+        "fase": "fase2",
+        "ruta_reproducida": "results/reproduccion/fase2/metricas_finales.csv",
+        "candidatos_originales": 0,
+        "estado": "SIN_REFERENCIA_DIRECTA"
+    },
+    {
+        "archivo": "metricas_validacion.csv",
+        "fase": "fase2",
+        "ruta_reproducida": "results/reproduccion/fase2/metricas_validacion.csv",
+        "candidatos_originales": 0,
+        "estado": "SIN_REFERENCIA_DIRECTA"
+    },
+    {
+        "archivo": "predicciones_R.csv",
+        "fase": "fase2",
+        "ruta_reproducida": "results/reproduccion/fase2/predicciones_R.csv",
+        "candidatos_originales": 0,
+        "estado": "SIN_REFERENCIA_DIRECTA"
+    },
+    {
+        "archivo": "predicciones_prueba.csv",
+        "fase": "fase2",
+        "ruta_reproducida": "results/reproduccion/fase2/predicciones_prueba.csv",
+        "candidatos_originales": 0,
+        "estado": "SIN_REFERENCIA_DIRECTA"
+    },
+    {
+        "archivo": "r_entrenamiento.csv",
+        "fase": "fase2",
+        "ruta_reproducida": "results/reproduccion/fase2/r_entrenamiento.csv",
+        "candidatos_originales": 0,
+        "estado": "SIN_REFERENCIA_DIRECTA"
+    },
+    {
+        "archivo": "r_prueba.csv",
+        "fase": "fase2",
+        "ruta_reproducida": "results/reproduccion/fase2/r_prueba.csv",
+        "candidatos_originales": 0,
+        "estado": "SIN_REFERENCIA_DIRECTA"
+    },
+    {
+        "archivo": "categorias_aprendidas.csv",
+        "fase": "fase4",
+        "ruta_reproducida": "results/reproduccion/fase4/resultados/categorias_aprendidas.csv",
+        "candidatos_originales": 2,
+        "estado": "REFERENCIA_AMBIGUA",
+        "rutas_candidatas": [
+            "results/resultados/Fase_4/categorias_aprendidas.csv",
+            "results/evidencias/Fase_4/categorias_aprendidas.csv"
+        ]
+    },
+    {
+        "archivo": "categorias_desconocidas.csv",
+        "fase": "fase4",
+        "ruta_reproducida": "results/reproduccion/fase4/resultados/categorias_desconocidas.csv",
+        "candidatos_originales": 2,
+        "estado": "REFERENCIA_AMBIGUA",
+        "rutas_candidatas": [
+            "results/resultados/Fase_4/categorias_desconocidas.csv",
+            "results/evidencias/Fase_4/categorias_desconocidas.csv"
+        ]
+    },
+    {
+        "archivo": "cumplimiento_requerimientos.csv",
+        "fase": "fase4",
+        "ruta_reproducida": "results/reproduccion/fase4/resultados/cumplimiento_requerimientos.csv",
+        "candidatos_originales": 2,
+        "estado": "REFERENCIA_AMBIGUA",
+        "rutas_candidatas": [
+            "results/resultados/Fase_4/cumplimiento_requerimientos.csv",
+            "results/evidencias/Fase_4/cumplimiento_requerimientos.csv"
+        ]
+    },
+    {
+        "archivo": "detalle_outliers.csv",
+        "fase": "fase4",
+        "ruta_reproducida": "results/reproduccion/fase4/resultados/detalle_outliers.csv",
+        "candidatos_originales": 2,
+        "estado": "REFERENCIA_AMBIGUA",
+        "rutas_candidatas": [
+            "results/resultados/Fase_4/detalle_outliers.csv",
+            "results/evidencias/Fase_4/detalle_outliers.csv"
+        ]
+    },
+    {
+        "archivo": "estrategia_balanceo.csv",
+        "fase": "fase4",
+        "ruta_reproducida": "results/reproduccion/fase4/resultados/estrategia_balanceo.csv",
+        "candidatos_originales": 2,
+        "estado": "REFERENCIA_AMBIGUA",
+        "rutas_candidatas": [
+            "results/resultados/Fase_4/estrategia_balanceo.csv",
+            "results/evidencias/Fase_4/estrategia_balanceo.csv"
+        ]
+    },
+    {
+        "archivo": "estrategia_outliers.csv",
+        "fase": "fase4",
+        "ruta_reproducida": "results/reproduccion/fase4/resultados/estrategia_outliers.csv",
+        "candidatos_originales": 2,
+        "estado": "REFERENCIA_AMBIGUA",
+        "rutas_candidatas": [
+            "results/resultados/Fase_4/estrategia_outliers.csv",
+            "results/evidencias/Fase_4/estrategia_outliers.csv"
+        ]
+    },
+    {
+        "archivo": "limites_winsorization.csv",
+        "fase": "fase4",
+        "ruta_reproducida": "results/reproduccion/fase4/resultados/limites_winsorization.csv",
+        "candidatos_originales": 2,
+        "estado": "REFERENCIA_AMBIGUA",
+        "rutas_candidatas": [
+            "results/resultados/Fase_4/limites_winsorization.csv",
+            "results/evidencias/Fase_4/limites_winsorization.csv"
+        ]
+    },
+    {
+        "archivo": "matrices_finales.csv",
+        "fase": "fase4",
+        "ruta_reproducida": "results/reproduccion/fase4/resultados/matrices_finales.csv",
+        "candidatos_originales": 2,
+        "estado": "REFERENCIA_AMBIGUA",
+        "rutas_candidatas": [
+            "results/resultados/Fase_4/matrices_finales.csv",
+            "results/evidencias/Fase_4/matrices_finales.csv"
+        ]
+    },
+    {
+        "archivo": "metricas_baseline_clasificacion.csv",
+        "fase": "fase4",
+        "ruta_reproducida": "results/reproduccion/fase4/resultados/metricas_baseline_clasificacion.csv",
+        "candidatos_originales": 2,
+        "estado": "REFERENCIA_AMBIGUA",
+        "rutas_candidatas": [
+            "results/resultados/Fase_4/metricas_baseline_clasificacion.csv",
+            "results/evidencias/Fase_4/metricas_baseline_clasificacion.csv"
+        ]
+    },
+    {
+        "archivo": "metricas_baseline_regresion.csv",
+        "fase": "fase4",
+        "ruta_reproducida": "results/reproduccion/fase4/resultados/metricas_baseline_regresion.csv",
+        "candidatos_originales": 2,
+        "estado": "REFERENCIA_AMBIGUA",
+        "rutas_candidatas": [
+            "results/resultados/Fase_4/metricas_baseline_regresion.csv",
+            "results/evidencias/Fase_4/metricas_baseline_regresion.csv"
+        ]
+    },
+    {
+        "archivo": "parametros_standardscaler.csv",
+        "fase": "fase4",
+        "ruta_reproducida": "results/reproduccion/fase4/resultados/parametros_standardscaler.csv",
+        "candidatos_originales": 2,
+        "estado": "REFERENCIA_AMBIGUA",
+        "rutas_candidatas": [
+            "results/resultados/Fase_4/parametros_standardscaler.csv",
+            "results/evidencias/Fase_4/parametros_standardscaler.csv"
+        ]
+    },
+    {
+        "archivo": "pesos_clases.csv",
+        "fase": "fase4",
+        "ruta_reproducida": "results/reproduccion/fase4/resultados/pesos_clases.csv",
+        "candidatos_originales": 2,
+        "estado": "REFERENCIA_AMBIGUA",
+        "rutas_candidatas": [
+            "results/resultados/Fase_4/pesos_clases.csv",
+            "results/evidencias/Fase_4/pesos_clases.csv"
+        ]
+    },
+    {
+        "archivo": "resultados_codificacion.csv",
+        "fase": "fase4",
+        "ruta_reproducida": "results/reproduccion/fase4/resultados/resultados_codificacion.csv",
+        "candidatos_originales": 2,
+        "estado": "REFERENCIA_AMBIGUA",
+        "rutas_candidatas": [
+            "results/resultados/Fase_4/resultados_codificacion.csv",
+            "results/evidencias/Fase_4/resultados_codificacion.csv"
+        ]
+    },
+    {
+        "archivo": "resultados_winsorization.csv",
+        "fase": "fase4",
+        "ruta_reproducida": "results/reproduccion/fase4/resultados/resultados_winsorization.csv",
+        "candidatos_originales": 2,
+        "estado": "REFERENCIA_AMBIGUA",
+        "rutas_candidatas": [
+            "results/resultados/Fase_4/resultados_winsorization.csv",
+            "results/evidencias/Fase_4/resultados_winsorization.csv"
+        ]
+    },
+    {
+        "archivo": "resumen_final_clasificacion.csv",
+        "fase": "fase4",
+        "ruta_reproducida": "results/reproduccion/fase4/resultados/resumen_final_clasificacion.csv",
+        "candidatos_originales": 2,
+        "estado": "REFERENCIA_AMBIGUA",
+        "rutas_candidatas": [
+            "results/resultados/Fase_4/resumen_final_clasificacion.csv",
+            "results/evidencias/Fase_4/resumen_final_clasificacion.csv"
+        ]
+    },
+    {
+        "archivo": "resumen_final_regresion.csv",
+        "fase": "fase4",
+        "ruta_reproducida": "results/reproduccion/fase4/resultados/resumen_final_regresion.csv",
+        "candidatos_originales": 2,
+        "estado": "REFERENCIA_AMBIGUA",
+        "rutas_candidatas": [
+            "results/resultados/Fase_4/resumen_final_regresion.csv",
+            "results/evidencias/Fase_4/resumen_final_regresion.csv"
+        ]
+    },
+    {
+        "archivo": "resumen_mejoras.csv",
+        "fase": "fase4",
+        "ruta_reproducida": "results/reproduccion/fase4/resultados/resumen_mejoras.csv",
+        "candidatos_originales": 2,
+        "estado": "REFERENCIA_AMBIGUA",
+        "rutas_candidatas": [
+            "results/resultados/Fase_4/resumen_mejoras.csv",
+            "results/evidencias/Fase_4/resumen_mejoras.csv"
+        ]
+    },
+    {
+        "archivo": "resumen_preparacion.csv",
+        "fase": "fase4",
+        "ruta_reproducida": "results/reproduccion/fase4/resultados/resumen_preparacion.csv",
+        "candidatos_originales": 2,
+        "estado": "REFERENCIA_AMBIGUA",
+        "rutas_candidatas": [
+            "results/resultados/Fase_4/resumen_preparacion.csv",
+            "results/evidencias/Fase_4/resumen_preparacion.csv"
+        ]
+    },
+    {
+        "archivo": "verificacion_estandarizacion.csv",
+        "fase": "fase4",
+        "ruta_reproducida": "results/reproduccion/fase4/resultados/verificacion_estandarizacion.csv",
+        "candidatos_originales": 2,
+        "estado": "REFERENCIA_AMBIGUA",
+        "rutas_candidatas": [
+            "results/resultados/Fase_4/verificacion_estandarizacion.csv",
+            "results/evidencias/Fase_4/verificacion_estandarizacion.csv"
+        ]
+    }
+]

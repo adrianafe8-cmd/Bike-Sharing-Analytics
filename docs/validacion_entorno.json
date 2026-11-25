@@ -1,0 +1,17 @@
+{
+    "python": "3.13.18 (main, Oct 26 2026, 15:28:15) [GCC 13.3.0]",
+    "plotly": "5.24.1",
+    "falsos_positivos_plotly": 48,
+    "coincidencias_seguridad_pendientes": 2,
+    "correos_diferentes": 1,
+    "registros_portabilidad_codigo": 35,
+    "dependencias_correctas": 17,
+    "dependencias_totales": 17,
+    "pip_check_ok": false,
+    "r_disponible": true,
+    "version_r": "Rscript (R) version 4.6.1 (2026-06-24)",
+    "archivos_no_inspeccionados": 40,
+    "modelos_reentrenados": 0,
+    "codigo_original_modificado": false,
+    "reproducibilidad_integral": false
+}

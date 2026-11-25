@@ -1,0 +1,6 @@
+﻿Fase,Modelo,MAE,RMSE,R2,Etiqueta,Particion
+Fase 2,Regresión lineal múltiple,937.7764,1231.9848,0.6218,Fase 2 | Regresión lineal múltiple,Cronológica
+Fase 3,Ridge,938.573,1232.4841,0.6215,Fase 3 | Ridge,Cronológica
+Fase 3,Random Forest,1210.5284,1386.5265,0.521,Fase 3 | Random Forest,Cronológica
+Fase 4,Regresión Lineal Simple,2340.4371888077912,2568.032012246994,-0.6431757303912391,Fase 4 | Regresión Lineal Simple,Cronológica
+Fase 4,Dummy Regressor,2368.464607464607,2679.2467522629886,-0.7885808283341669,Fase 4 | Dummy Regressor,Cronológica

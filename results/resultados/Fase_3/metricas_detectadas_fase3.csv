@@ -1,0 +1,156 @@
+﻿Celda,Salida,Tipo_salida,Resultado
+3,1,stream,"Dimensiones: (731, 16)
+Valores faltantes: 0
+Fechas duplicadas: 0
+Periodo: 2011-01-01 a 2012-12-31
+Promedio de alquileres: 4504.35
+Validación de calidad superada.
+"
+4,1,stream,"Entrenamiento: 511 registros | 2011-01-01 a 2012-05-25
+Validación: 109 registros | 2012-05-26 a 2012-09-11
+Prueba: 111 registros | 2012-09-12 a 2012-12-31
+División cronológica correcta.
+"
+6,1,stream,"Entrenamiento: 511 filas, 18 columnas
+Validación: 109 filas, 18 columnas
+Prueba: 111 filas, 18 columnas
+
+Ejemplo de las nuevas características:
+"
+8,1,stream,"Entrenamiento: (511, 17)
+Validación: (109, 17)
+Prueba: (111, 17)
+Preprocesamiento completado sin fuga de información.
+"
+10,2,stream,"Mejor alpha: 0.1
+RMSE de validación: 919.6
+Optimización Ridge completada.
+"
+12,2,stream,"
+Mejor configuración: (200, 10, 3)
+RMSE de validación: 831.34
+Optimización Random Forest completada.
+"
+13,1,display_data,"          Modelo       MAE      RMSE      R2
+0          Ridge  730.4686  919.6018 -0.1677
+1  Random Forest  672.4859  831.3365  0.0457"
+16,1,stream,"Umbral de demanda: 3974.0 alquileres diarios
+"
+16,2,display_data,"              Entrenamiento  Validación  Prueba
+cnt                                            
+Demanda baja            255           0      21
+Demanda alta            256         109      90"
+16,3,stream,"Variable objetivo de clasificación creada.
+"
+17,1,stream,"
+Entrenamiento
+Clases presentes: 2
+Distribución: {0: 255, 1: 256}
+AUC-ROC podrá calcularse cuando dispongamos de probabilidades del modelo.
+
+Validación
+Clases presentes: 1
+Distribución: {1: 109}
+ADVERTENCIA: AUC-ROC no está definida porque solo existe una clase real.
+
+Prueba
+Clases presentes: 2
+Distribución: {0: 21, 1: 90}
+AUC-ROC podrá calcularse cuando dispongamos de probabilidades del modelo.
+
+Diagnóstico de clasificación completado.
+"
+20,1,display_data,"   Fold  N_entrenamiento  N_validacion  Clases_entrenamiento  \
+0     1               86            85                     1   
+1     2              171            85                     2   
+2     3              256            85                     2   
+3     4              341            85                     2   
+4     5              426            85                     2   
+
+   Clases_validacion  AUC_calculable  Fold_utilizable  
+0                  2            True            False  
+1                  2            True             True  
+2                  2            True             True  
+3                  2            True             True  
+4                  2            True             True  "
+22,2,stream,"Mejor k: 11
+F1 promedio: 0.6428
+Optimización KNN completada.
+"
+24,2,stream,"Mejor configuración: 200 5 1
+F1 promedio: 0.6134
+Optimización Random Forest Classifier completada.
+"
+25,3,stream,"Mejor clasificador: KNN
+Gráfico guardado en: /content/Fase_3_Bicicletas/resultados/comparacion_clasificacion.png
+Comparación de clasificación completada.
+"
+28,1,stream,"Registros para clustering: 731
+Características transformadas: 14
+Variables originales: ['temp', 'hum', 'windspeed', 'season', 'weathersit', 'workingday', 'yr']
+Preparación para clustering completada.
+"
+30,4,stream,"Análisis K-Means completado.
+Gráfico guardado en: /content/Fase_3_Bicicletas/resultados/kmeans_codo_silueta.png
+"
+32,6,stream,"Caracterización K-Means completada.
+"
+34,3,stream,"Índice Rand ajustado (ARI): 0.4276
+
+Distribución Agglomerative:
+"
+34,5,stream,"Clustering jerárquico completado.
+"
+36,1,stream,"Perfil de Agglomerative Clustering:
+"
+36,4,stream,"Caracterización de Agglomerative completada.
+"
+40,1,stream,"Evaluación final de regresión:
+"
+40,4,stream,"Evaluación final de regresión completada.
+"
+42,1,stream,"Evaluación final de clasificación:
+"
+42,4,stream,"Evaluación final de clasificación completada.
+"
+44,1,stream,"=======================================================
+RESUMEN FINAL - FASE 3
+=======================================================
+
+1. REGRESIÓN - CONJUNTO DE PRUEBA
+"
+44,2,display_data,"          Modelo        MAE       RMSE      R2
+0          Ridge   938.5730  1232.4841  0.6215
+1  Random Forest  1210.5284  1386.5265  0.5210"
+44,3,stream,"
+2. CLASIFICACIÓN - CONJUNTO DE PRUEBA
+"
+44,4,display_data,"          Modelo  Accuracy  Precision  Recall      F1  AUC_ROC
+0  Random Forest    0.7027     0.9524  0.6667  0.7843   0.9011
+1            KNN    0.6306     0.9623  0.5667  0.7133   0.8730"
+44,5,stream,"
+3. CLUSTERING - COMPARACIÓN
+"
+44,6,display_data,"       Algoritmo  Clusters  Silueta
+0        K-Means         2   0.1918
+1  Agglomerative         2   0.1543"
+44,7,stream,"
+4. CONFIGURACIONES SELECCIONADAS
+Ridge alpha: 0.1
+Random Forest Regressor: (200, 10, 3)
+KNN k: 11
+Random Forest Classifier: 200 5 1
+K-Means K: 2
+
+5. VERIFICACIÓN DE GRÁFICOS
+OK: comparacion_regresion.png
+OK: comparacion_clasificacion.png
+OK: kmeans_codo_silueta.png
+OK: perfil_kmeans.png
+OK: comparacion_perfiles_clusters.png
+OK: importancia_variables_regresion.png
+OK: evaluacion_final_regresion.png
+OK: evaluacion_final_clasificacion.png
+
+VERIFICACIÓN FINAL COMPLETADA.
+"

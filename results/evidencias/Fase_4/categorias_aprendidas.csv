@@ -1,0 +1,15 @@
+Problema,Variable,Categorias,Columnas_generadas
+Regresión,season,"[np.int64(1), np.int64(2), np.int64(3), np.int64(4)]",4
+Regresión,yr,"[np.int64(0), np.int64(1)]",2
+Regresión,holiday,"[np.int64(0), np.int64(1)]",2
+Regresión,weekday,"[np.int64(0), np.int64(1), np.int64(2), np.int64(3), np.int64(4), np.int64(5), np.int64(6)]",7
+Regresión,workingday,"[np.int64(0), np.int64(1)]",2
+Regresión,weathersit,"[np.int64(1), np.int64(2), np.int64(3)]",3
+Regresión,fin_de_semana,"[np.int64(0), np.int64(1)]",2
+Clasificación,season,"[np.int64(1), np.int64(2), np.int64(3), np.int64(4)]",4
+Clasificación,yr,"[np.int64(0), np.int64(1)]",2
+Clasificación,holiday,"[np.int64(0), np.int64(1)]",2
+Clasificación,weekday,"[np.int64(0), np.int64(1), np.int64(2), np.int64(3), np.int64(4), np.int64(5), np.int64(6)]",7
+Clasificación,workingday,"[np.int64(0), np.int64(1)]",2
+Clasificación,weathersit,"[np.int64(1), np.int64(2), np.int64(3)]",3
+Clasificación,fin_de_semana,"[np.int64(0), np.int64(1)]",2

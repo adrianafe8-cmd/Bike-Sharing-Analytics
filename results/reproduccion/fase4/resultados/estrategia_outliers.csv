@@ -1,0 +1,6 @@
+Variable,Tratamiento
+temp,Conservar
+atemp,Conservar
+hum,Winsorization P1-P99
+windspeed,Winsorization P1-P99
+cnt,Conservar

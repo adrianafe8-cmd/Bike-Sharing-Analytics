@@ -1,0 +1,7 @@
+Problema,Conjunto,Registros,Variables_originales,Columnas_codificadas
+Regresión,Entrenamiento,511,7,22
+Regresión,Validación,109,7,22
+Regresión,Prueba,111,7,22
+Clasificación,Entrenamiento,511,7,22
+Clasificación,Validación,110,7,22
+Clasificación,Prueba,110,7,22

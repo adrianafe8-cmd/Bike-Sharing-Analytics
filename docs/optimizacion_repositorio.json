@@ -1,0 +1,15 @@
+{
+    "tamano_original_MiB": 891.81,
+    "tamano_publicacion_MiB": 35.12,
+    "reduccion_porcentaje": 96.06,
+    "archivos_publicacion": 660,
+    "archivos_excluidos": 693,
+    "notebooks_reproducibles": 5,
+    "notebooks_modificados": 0,
+    "modelos_reentrenados": 0,
+    "repositorio_original_modificado": false,
+    "integridad_dataset": true,
+    "integridad_dashboard": true,
+    "revision_privacidad_completada": false,
+    "publicacion_github_completada": false
+}

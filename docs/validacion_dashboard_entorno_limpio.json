@@ -1,0 +1,13 @@
+{
+    "fase": "dashboard",
+    "notebook": "05_Dashboard_Global_Reproducible.ipynb",
+    "estado": "OK",
+    "duracion_segundos": 38.13,
+    "celdas_codigo": 23,
+    "celdas_ejecutadas": 23,
+    "notebook_fuente_conservado": true,
+    "kernel_aislado_verificado": true,
+    "errores": [],
+    "detalle_error": null,
+    "evidencia": "results/validacion/entorno_limpio/dashboard_entorno_limpio.ipynb"
+}

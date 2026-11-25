@@ -1,0 +1,13 @@
+{
+    "tablas_fases_2_3_comparadas": 29,
+    "tablas_por_estado": {
+        "EQUIVALENTE": 28,
+        "REVISAR": 1
+    },
+    "csv_fase4_comparados": 19,
+    "csv_fase4_equivalentes": 19,
+    "csv_fase4_por_estado": {
+        "EQUIVALENTE": 19
+    },
+    "equivalencia_metricas_validada": false
+}

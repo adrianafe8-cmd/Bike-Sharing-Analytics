@@ -1,0 +1,6 @@
+ruta,tipo,coincidencias
+docs/resultados/Fase_1/documentacion_original.txt,Correo electrónico,1
+notebooks/05_Dashboard_Global_Bicicletas.ipynb,Correo electrónico,1
+results/reproduccion/dashboard/resultados/Fase_1/documentacion_original.txt,Correo electrónico,1
+results/validacion/entorno_limpio/dashboard_entorno_limpio.ipynb,Correo electrónico,1
+results/validacion/notebooks/dashboard_ejecutado.ipynb,Correo electrónico,1

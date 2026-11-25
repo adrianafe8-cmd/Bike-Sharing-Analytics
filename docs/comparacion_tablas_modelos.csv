@@ -1,0 +1,36 @@
+fase,celda_original,celda_reproducida,salida,tabla,filas_original,columnas,estado,filas_reproducidas,detalle
+fase2,5,7,2,0,5,"['Unnamed: 0', 'instant', 'dteday', 'season', 'yr', 'mnth', 'holiday', 'weekday', 'workingday', 'weathersit', 'temp', 'atemp', 'hum', 'windspeed', 'casual', 'registered', 'cnt']",EQUIVALENTE,5,
+fase2,7,9,1,0,16,"['Unnamed: 0', 'Valores faltantes', 'Porcentaje (%)']",EQUIVALENTE,16,
+fase2,9,11,1,0,4,"['Unnamed: 0', 'Variable', 'Q1', 'Q3', 'IQR', 'Límite inferior', 'Límite superior', 'Outliers', 'Porcentaje']",EQUIVALENTE,4,
+fase2,11,13,1,0,10,"['Unnamed: 0', 'dteday', 'temp', 'hum', 'fin_de_semana', 'temp_hum_interaccion', 'cnt']",EQUIVALENTE,10,
+fase2,17,19,1,0,1,"['Unnamed: 0', 'Modelo', 'MAE', 'RMSE', 'R2']",EQUIVALENTE,1,
+fase2,19,21,1,0,2,"['Unnamed: 0', 'Modelo', 'MAE', 'RMSE', 'R2']",EQUIVALENTE,2,
+fase2,21,23,1,0,2,"['Unnamed: 0', 'Conjunto', 'MAE', 'RMSE', 'R2']",EQUIVALENTE,2,
+fase3,2,4,2,0,5,"['Unnamed: 0', 'instant', 'dteday', 'season', 'yr', 'mnth', 'holiday', 'weekday', 'workingday', 'weathersit', 'temp', 'atemp', 'hum', 'windspeed', 'casual', 'registered', 'cnt']",EQUIVALENTE,5,
+fase3,6,8,2,0,10,"['Unnamed: 0', 'dteday', 'temp', 'hum', 'fin_de_semana', 'temp_hum_interaccion', 'cnt']",EQUIVALENTE,10,
+fase3,10,12,1,0,6,"['Unnamed: 0', 'alpha', 'MAE', 'RMSE', 'R2']",EQUIVALENTE,6,
+fase3,12,14,1,0,12,"['Unnamed: 0', 'n_estimators', 'max_depth', 'min_samples_leaf', 'MAE', 'RMSE', 'R2']",EQUIVALENTE,12,
+fase3,13,15,1,0,2,"['Unnamed: 0', 'Modelo', 'MAE', 'RMSE', 'R2']",EQUIVALENTE,2,
+fase3,16,18,2,0,2,"[('Unnamed: 0_level_0', 'cnt'), ('Entrenamiento', 'Unnamed: 1_level_1'), ('Validación', 'Unnamed: 2_level_1'), ('Prueba', 'Unnamed: 3_level_1')]",EQUIVALENTE,2,
+fase3,20,22,1,0,5,"['Unnamed: 0', 'Fold', 'N_entrenamiento', 'N_validacion', 'Clases_entrenamiento', 'Clases_validacion', 'AUC_calculable', 'Fold_utilizable']",EQUIVALENTE,5,
+fase3,22,24,1,0,6,"['Unnamed: 0', 'k', 'Accuracy', 'Precision', 'Recall', 'F1', 'AUC_ROC']",EQUIVALENTE,6,
+fase3,24,26,1,0,12,"['Unnamed: 0', 'n_estimators', 'max_depth', 'min_samples_leaf', 'Accuracy', 'Precision', 'Recall', 'F1', 'AUC_ROC']",EQUIVALENTE,12,
+fase3,25,27,1,0,2,"['Unnamed: 0', 'Modelo', 'Accuracy', 'Precision', 'Recall', 'F1', 'AUC_ROC']",EQUIVALENTE,2,
+fase3,30,32,1,0,9,"['Unnamed: 0', 'K', 'Inercia', 'Silueta']",EQUIVALENTE,9,
+fase3,32,34,2,0,2,"[('Unnamed: 0_level_0', 'cluster_kmeans'), ('Cantidad de días', 'Unnamed: 1_level_1')]",EQUIVALENTE,2,
+fase3,32,34,4,0,2,"[('Unnamed: 0_level_0', 'cluster_kmeans'), ('dias', 'Unnamed: 1_level_1'), ('demanda_promedio', 'Unnamed: 2_level_1'), ('demanda_mediana', 'Unnamed: 3_level_1'), ('temperatura_promedio', 'Unnamed: 4_level_1'), ('humedad_promedio', 'Unnamed: 5_level_1'), ('viento_promedio', 'Unnamed: 6_level_1'), ('proporcion_laborales', 'Unnamed: 7_level_1')]",EQUIVALENTE,2,
+fase3,34,36,2,0,2,"['Unnamed: 0', 'Algoritmo', 'Clusters', 'Silueta']",EQUIVALENTE,2,
+fase3,34,36,4,0,2,"[('Unnamed: 0_level_0', 'cluster_aglomerativo'), ('Cantidad de días', 'Unnamed: 1_level_1')]",EQUIVALENTE,2,
+fase3,36,38,2,0,2,"[('Unnamed: 0_level_0', 'cluster_aglomerativo'), ('dias', 'Unnamed: 1_level_1'), ('demanda_promedio', 'Unnamed: 2_level_1'), ('demanda_mediana', 'Unnamed: 3_level_1'), ('temperatura_promedio', 'Unnamed: 4_level_1'), ('humedad_promedio', 'Unnamed: 5_level_1'), ('viento_promedio', 'Unnamed: 6_level_1'), ('proporcion_laborales', 'Unnamed: 7_level_1')]",EQUIVALENTE,2,
+fase3,38,40,2,0,12,"['Unnamed: 0', 'Variable', 'Importancia_RMSE', 'Desviacion']",REVISAR,12,"DataFrame.iloc[:, 1] (column name=""Variable"") are different
+
+DataFrame.iloc[:, 1] (column name=""Variable"") values are different (41.66667 %)
+[index]: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+[left]:  [numericas__hum, numericas__windspeed, numericas__temp_hum_interaccion, categoricas__season_2, categoricas__weathersit_2, categoricas__weathersit_1, categoricas__season_3, categoricas__yr_1, categoricas__season_4, categoricas__yr_0, categoricas__season_1, categoricas__weathersit_3]
+[right]: [numericas__hum, numericas__windspeed, numericas__temp_hum_interaccion, categoricas__season_2, categoricas__weathersit_2, categoricas__weathersit_1, categoricas__yr_0, categoricas__season_4, categoricas__season_3, categoricas__weathersit_3, categoricas__season_1, categoricas__yr_1]
+At positional index 6, first diff: categoricas__season_3 != categoricas__yr_0"
+fase3,40,42,2,0,2,"['Unnamed: 0', 'Modelo', 'MAE', 'RMSE', 'R2']",EQUIVALENTE,2,
+fase3,42,44,2,0,2,"['Unnamed: 0', 'Modelo', 'Accuracy', 'Precision', 'Recall', 'F1', 'AUC_ROC']",EQUIVALENTE,2,
+fase3,44,46,2,0,2,"['Unnamed: 0', 'Modelo', 'MAE', 'RMSE', 'R2']",EQUIVALENTE,2,
+fase3,44,46,4,0,2,"['Unnamed: 0', 'Modelo', 'Accuracy', 'Precision', 'Recall', 'F1', 'AUC_ROC']",EQUIVALENTE,2,
+fase3,44,46,6,0,2,"['Unnamed: 0', 'Algoritmo', 'Clusters', 'Silueta']",EQUIVALENTE,2,

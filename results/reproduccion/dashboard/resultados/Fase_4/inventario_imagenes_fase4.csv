@@ -1,0 +1,13 @@
+﻿Archivo,Formato,Tamaño_KB,Ruta
+analisis_desbalance.png,.png,37.78,/content/Bike-Sharing-Analytics/results/reproduccion/dashboard/resultados/Fase_4/imagenes_originales/analisis_desbalance.png
+comparacion_baseline_clasificacion.png,.png,74.31,/content/Bike-Sharing-Analytics/results/reproduccion/dashboard/resultados/Fase_4/imagenes_originales/comparacion_baseline_clasificacion.png
+comparacion_baseline_regresion.png,.png,55.2,/content/Bike-Sharing-Analytics/results/reproduccion/dashboard/resultados/Fase_4/imagenes_originales/comparacion_baseline_regresion.png
+comparacion_estandarizacion.png,.png,111.86,/content/Bike-Sharing-Analytics/results/reproduccion/dashboard/resultados/Fase_4/imagenes_originales/comparacion_estandarizacion.png
+comparacion_winsorization.png,.png,81.75,/content/Bike-Sharing-Analytics/results/reproduccion/dashboard/resultados/Fase_4/imagenes_originales/comparacion_winsorization.png
+completitud_datos.png,.png,58.42,/content/Bike-Sharing-Analytics/results/reproduccion/dashboard/resultados/Fase_4/imagenes_originales/completitud_datos.png
+curvas_roc_baseline.png,.png,83.89,/content/Bike-Sharing-Analytics/results/reproduccion/dashboard/resultados/Fase_4/imagenes_originales/curvas_roc_baseline.png
+deteccion_outliers.png,.png,66.41,/content/Bike-Sharing-Analytics/results/reproduccion/dashboard/resultados/Fase_4/imagenes_originales/deteccion_outliers.png
+ingenieria_caracteristicas.png,.png,54.15,/content/Bike-Sharing-Analytics/results/reproduccion/dashboard/resultados/Fase_4/imagenes_originales/ingenieria_caracteristicas.png
+matrices_baseline_clasificacion.png,.png,44.18,/content/Bike-Sharing-Analytics/results/reproduccion/dashboard/resultados/Fase_4/imagenes_originales/matrices_baseline_clasificacion.png
+particion_estratificada.png,.png,46.43,/content/Bike-Sharing-Analytics/results/reproduccion/dashboard/resultados/Fase_4/imagenes_originales/particion_estratificada.png
+predicciones_baseline_regresion.png,.png,80.01,/content/Bike-Sharing-Analytics/results/reproduccion/dashboard/resultados/Fase_4/imagenes_originales/predicciones_baseline_regresion.png

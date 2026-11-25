@@ -1,0 +1,5 @@
+Tecnica,Aplicada,Justificacion
+SMOTE,No,No se evidencia desbalance severo
+ADASYN,No,No se requiere generar datos sintéticos
+Class Weight,No,Alternativa para experimentos posteriores
+Distribución original,Sí,Ambas clases tienen representación suficiente

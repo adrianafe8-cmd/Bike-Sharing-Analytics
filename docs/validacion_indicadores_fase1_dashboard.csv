@@ -1,0 +1,18 @@
+fase,indicador,original,reproducido,equivalente
+fase1,filas,731.0,731.0,True
+fase1,columnas,16.0,16.0,True
+fase1,alquileres_totales,3292679.0,3292679.0,True
+fase1,detecciones_iqr,59.0,59.0,True
+fase1,detecciones_zscore,12.0,12.0,True
+fase1,registros_eliminados,0.0,0.0,True
+fase1,crecimiento_anual_pct,64.8758,64.87579870694545,True
+dashboard,pestanas,5.0,5.0,True
+dashboard,graficas,47.0,47.0,True
+dashboard,tablas,41.0,41.0,True
+dashboard,imagenes,25.0,25.0,True
+dashboard,callbacks,2.0,2.0,True
+dashboard,pruebas_filtros,18.0,18.0,True
+dashboard,pruebas_navegacion,5.0,5.0,True
+dashboard,HTTP /,200.0,200.0,True
+dashboard,HTTP /_dash-layout,200.0,200.0,True
+dashboard,HTTP /_dash-dependencies,200.0,200.0,True

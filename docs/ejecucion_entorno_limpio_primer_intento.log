@@ -1,0 +1,131 @@
+Python utilizado: /content/bike_sharing_entorno_limpio/bin/python
+Entorno aislado: /content/bike_sharing_entorno_limpio
+
+============================================================
+EJECUTANDO: FASE1
+============================================================
+0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+[IPKernelApp] CRITICAL | Bad config encountered during initialization: The 'kernel_class' trait of <ipykernel.kernelapp.IPKernelApp object at 0x7bea7737dbe0> instance must be a type, but 'google.colab._kernel.Kernel' could not be imported
+Estado: ERROR
+Duración: 6.3 s
+Celdas ejecutadas: 0 / 9
+Kernel died before replying to kernel_info
+
+============================================================
+EJECUTANDO: FASE2
+============================================================
+0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+[IPKernelApp] CRITICAL | Bad config encountered during initialization: The 'kernel_class' trait of <ipykernel.kernelapp.IPKernelApp object at 0x79f667181be0> instance must be a type, but 'google.colab._kernel.Kernel' could not be imported
+Estado: ERROR
+Duración: 5.08 s
+Celdas ejecutadas: 0 / 20
+Kernel died before replying to kernel_info
+
+============================================================
+EJECUTANDO: FASE3
+============================================================
+0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+[IPKernelApp] CRITICAL | Bad config encountered during initialization: The 'kernel_class' trait of <ipykernel.kernelapp.IPKernelApp object at 0x7adc74145be0> instance must be a type, but 'google.colab._kernel.Kernel' could not be imported
+Estado: ERROR
+Duración: 4.04 s
+Celdas ejecutadas: 0 / 24
+Kernel died before replying to kernel_info
+
+============================================================
+EJECUTANDO: FASE4
+============================================================
+0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+[IPKernelApp] CRITICAL | Bad config encountered during initialization: The 'kernel_class' trait of <ipykernel.kernelapp.IPKernelApp object at 0x7cc75db79be0> instance must be a type, but 'google.colab._kernel.Kernel' could not be imported
+Estado: ERROR
+Duración: 4.05 s
+Celdas ejecutadas: 0 / 17
+Kernel died before replying to kernel_info
+
+============================================================
+EJECUTANDO: DASHBOARD
+============================================================
+0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+[IPKernelApp] CRITICAL | Bad config encountered during initialization: The 'kernel_class' trait of <ipykernel.kernelapp.IPKernelApp object at 0x7d91fa5d9be0> instance must be a type, but 'google.colab._kernel.Kernel' could not be imported
+Estado: ERROR
+Duración: 6.09 s
+Celdas ejecutadas: 0 / 23
+Kernel died before replying to kernel_info
+
+=== RESUMEN DE EJECUCIÓN ===
+     fase estado  duracion_segundos  celdas_codigo  celdas_ejecutadas  kernel_aislado_verificado  notebook_fuente_conservado
+    fase1  ERROR               6.30              9                  0                      False                        True
+    fase2  ERROR               5.08             20                  0                      False                        True
+    fase3  ERROR               4.04             24                  0                      False                        True
+    fase4  ERROR               4.05             17                  0                      False                        True
+dashboard  ERROR               6.09             23                  0                      False                        True
+
+=== VALIDACIÓN FINAL ===
+notebooks_evaluados: 5
+notebooks_exitosos: 0
+notebooks_con_error: 5
+celdas_codigo: 93
+celdas_ejecutadas: 0
+kernels_aislados_verificados: False
+notebooks_fuente_conservados: True
+ejecucion_notebooks_entorno_limpio: False
+equivalencia_metricas_entorno_limpio_validada: False
+Exception ignored in atexit callback <bound method run_sync.<locals>.wrapped of <nbclient.client.NotebookClient object at 0x7d94ac118d60>>:
+Traceback (most recent call last):
+  File "/content/bike_sharing_entorno_limpio/lib/python3.13/site-packages/jupyter_core/utils/__init__.py", line 165, in wrapped
+    return loop.run_until_complete(inner)
+  File "/usr/lib/python3.13/asyncio/base_events.py", line 726, in run_until_complete
+    return future.result()
+  File "/content/bike_sharing_entorno_limpio/lib/python3.13/site-packages/nbclient/client.py", line 504, in _async_cleanup_kernel
+    assert self.km is not None
+AssertionError: 
+Exception ignored in atexit callback <bound method run_sync.<locals>.wrapped of <nbclient.client.NotebookClient object at 0x7d94ac118180>>:
+Traceback (most recent call last):
+  File "/content/bike_sharing_entorno_limpio/lib/python3.13/site-packages/jupyter_core/utils/__init__.py", line 165, in wrapped
+    return loop.run_until_complete(inner)
+  File "/usr/lib/python3.13/asyncio/base_events.py", line 726, in run_until_complete
+    return future.result()
+  File "/content/bike_sharing_entorno_limpio/lib/python3.13/site-packages/nbclient/client.py", line 504, in _async_cleanup_kernel
+    assert self.km is not None
+AssertionError: 
+Exception ignored in atexit callback <bound method run_sync.<locals>.wrapped of <nbclient.client.NotebookClient object at 0x7d94ac08a490>>:
+Traceback (most recent call last):
+  File "/content/bike_sharing_entorno_limpio/lib/python3.13/site-packages/jupyter_core/utils/__init__.py", line 165, in wrapped
+    return loop.run_until_complete(inner)
+  File "/usr/lib/python3.13/asyncio/base_events.py", line 726, in run_until_complete
+    return future.result()
+  File "/content/bike_sharing_entorno_limpio/lib/python3.13/site-packages/nbclient/client.py", line 504, in _async_cleanup_kernel
+    assert self.km is not None
+AssertionError: 
+Exception ignored in atexit callback <bound method run_sync.<locals>.wrapped of <nbclient.client.NotebookClient object at 0x7d94ac08a5d0>>:
+Traceback (most recent call last):
+  File "/content/bike_sharing_entorno_limpio/lib/python3.13/site-packages/jupyter_core/utils/__init__.py", line 165, in wrapped
+    return loop.run_until_complete(inner)
+  File "/usr/lib/python3.13/asyncio/base_events.py", line 726, in run_until_complete
+    return future.result()
+  File "/content/bike_sharing_entorno_limpio/lib/python3.13/site-packages/nbclient/client.py", line 504, in _async_cleanup_kernel
+    assert self.km is not None
+AssertionError: 
+Exception ignored in atexit callback <bound method run_sync.<locals>.wrapped of <nbclient.client.NotebookClient object at 0x7d94ad1b57f0>>:
+Traceback (most recent call last):
+  File "/content/bike_sharing_entorno_limpio/lib/python3.13/site-packages/jupyter_core/utils/__init__.py", line 165, in wrapped
+    return loop.run_until_complete(inner)
+  File "/usr/lib/python3.13/asyncio/base_events.py", line 726, in run_until_complete
+    return future.result()
+  File "/content/bike_sharing_entorno_limpio/lib/python3.13/site-packages/nbclient/client.py", line 504, in _async_cleanup_kernel
+    assert self.km is not None
+AssertionError: 

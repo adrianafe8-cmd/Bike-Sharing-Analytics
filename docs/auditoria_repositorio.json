@@ -1,0 +1,1987 @@
+{
+    "archivos_revisados": 316,
+    "archivos_sensibles": [],
+    "hallazgos_seguridad": [
+        {
+            "archivo": "dashboard/index.html",
+            "seccion": "Contenido",
+            "categoria": "Credencial escrita en código",
+            "coincidencias": 6,
+            "primera_linea": 307
+        },
+        {
+            "archivo": "docs/resultados/Fase_1/documentacion_original.txt",
+            "seccion": "Contenido",
+            "categoria": "Correo electrónico",
+            "coincidencias": 1,
+            "primera_linea": 111
+        },
+        {
+            "archivo": "notebooks/05_Dashboard_Global_Bicicletas.ipynb",
+            "seccion": "Celda 18 - salida",
+            "categoria": "Correo electrónico",
+            "coincidencias": 1,
+            "primera_linea": 1
+        },
+        {
+            "archivo": "results/resultados/Fase_1/graficas/boxplot_clima.html",
+            "seccion": "Contenido",
+            "categoria": "Credencial escrita en código",
+            "coincidencias": 6,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Fase_1/graficas/calidad_datos.html",
+            "seccion": "Contenido",
+            "categoria": "Credencial escrita en código",
+            "coincidencias": 6,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Fase_1/graficas/chi_cuadrado.html",
+            "seccion": "Contenido",
+            "categoria": "Credencial escrita en código",
+            "coincidencias": 6,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Fase_1/graficas/comparacion_outliers.html",
+            "seccion": "Contenido",
+            "categoria": "Credencial escrita en código",
+            "coincidencias": 6,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Fase_1/graficas/correlacion_pearson.html",
+            "seccion": "Contenido",
+            "categoria": "Credencial escrita en código",
+            "coincidencias": 6,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Fase_1/graficas/correlacion_spearman.html",
+            "seccion": "Contenido",
+            "categoria": "Credencial escrita en código",
+            "coincidencias": 6,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Fase_1/graficas/demanda_clima.html",
+            "seccion": "Contenido",
+            "categoria": "Credencial escrita en código",
+            "coincidencias": 6,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Fase_1/graficas/demanda_estacion.html",
+            "seccion": "Contenido",
+            "categoria": "Credencial escrita en código",
+            "coincidencias": 6,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Fase_1/graficas/dispersion_temperatura.html",
+            "seccion": "Contenido",
+            "categoria": "Credencial escrita en código",
+            "coincidencias": 6,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Fase_1/graficas/factores_demanda.html",
+            "seccion": "Contenido",
+            "categoria": "Credencial escrita en código",
+            "coincidencias": 6,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Fase_1/graficas/histograma_demanda.html",
+            "seccion": "Contenido",
+            "categoria": "Credencial escrita en código",
+            "coincidencias": 6,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Fase_1/graficas/outliers.html",
+            "seccion": "Contenido",
+            "categoria": "Credencial escrita en código",
+            "coincidencias": 6,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Fase_2/graficas/comparacion_modelos.html",
+            "seccion": "Contenido",
+            "categoria": "Credencial escrita en código",
+            "coincidencias": 6,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Fase_2/graficas/comparacion_r2.html",
+            "seccion": "Contenido",
+            "categoria": "Credencial escrita en código",
+            "coincidencias": 6,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Fase_2/graficas/evaluacion_final.html",
+            "seccion": "Contenido",
+            "categoria": "Credencial escrita en código",
+            "coincidencias": 6,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Fase_2/graficas/mejora_mae.html",
+            "seccion": "Contenido",
+            "categoria": "Credencial escrita en código",
+            "coincidencias": 6,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Fase_2/graficas/particion_datos.html",
+            "seccion": "Contenido",
+            "categoria": "Credencial escrita en código",
+            "coincidencias": 6,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Fase_2/graficas/r2_evaluacion.html",
+            "seccion": "Contenido",
+            "categoria": "Credencial escrita en código",
+            "coincidencias": 6,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Fase_3/graficas/clasificacion_cv.html",
+            "seccion": "Contenido",
+            "categoria": "Credencial escrita en código",
+            "coincidencias": 6,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Fase_3/graficas/clasificacion_prueba.html",
+            "seccion": "Contenido",
+            "categoria": "Credencial escrita en código",
+            "coincidencias": 6,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Fase_3/graficas/clustering_ari.html",
+            "seccion": "Contenido",
+            "categoria": "Credencial escrita en código",
+            "coincidencias": 6,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Fase_3/graficas/clustering_silueta.html",
+            "seccion": "Contenido",
+            "categoria": "Credencial escrita en código",
+            "coincidencias": 6,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Fase_3/graficas/distribucion_clases.html",
+            "seccion": "Contenido",
+            "categoria": "Credencial escrita en código",
+            "coincidencias": 6,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Fase_3/graficas/regresion_errores.html",
+            "seccion": "Contenido",
+            "categoria": "Credencial escrita en código",
+            "coincidencias": 6,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Fase_3/graficas/regresion_r2.html",
+            "seccion": "Contenido",
+            "categoria": "Credencial escrita en código",
+            "coincidencias": 6,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Fase_3/graficas/validacion_temporal.html",
+            "seccion": "Contenido",
+            "categoria": "Credencial escrita en código",
+            "coincidencias": 6,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Fase_4/graficas/caracteristicas.html",
+            "seccion": "Contenido",
+            "categoria": "Credencial escrita en código",
+            "coincidencias": 6,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Fase_4/graficas/clasificacion_accuracy.html",
+            "seccion": "Contenido",
+            "categoria": "Credencial escrita en código",
+            "coincidencias": 6,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Fase_4/graficas/clasificacion_auc.html",
+            "seccion": "Contenido",
+            "categoria": "Credencial escrita en código",
+            "coincidencias": 6,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Fase_4/graficas/clasificacion_f1_macro.html",
+            "seccion": "Contenido",
+            "categoria": "Credencial escrita en código",
+            "coincidencias": 6,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Fase_4/graficas/clasificacion_prueba.html",
+            "seccion": "Contenido",
+            "categoria": "Credencial escrita en código",
+            "coincidencias": 6,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Fase_4/graficas/completitud.html",
+            "seccion": "Contenido",
+            "categoria": "Credencial escrita en código",
+            "coincidencias": 6,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Fase_4/graficas/cumplimiento.html",
+            "seccion": "Contenido",
+            "categoria": "Credencial escrita en código",
+            "coincidencias": 6,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Fase_4/graficas/estandarizacion.html",
+            "seccion": "Contenido",
+            "categoria": "Credencial escrita en código",
+            "coincidencias": 6,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Fase_4/graficas/outliers.html",
+            "seccion": "Contenido",
+            "categoria": "Credencial escrita en código",
+            "coincidencias": 6,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Fase_4/graficas/particiones.html",
+            "seccion": "Contenido",
+            "categoria": "Credencial escrita en código",
+            "coincidencias": 6,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Fase_4/graficas/regresion_errores.html",
+            "seccion": "Contenido",
+            "categoria": "Credencial escrita en código",
+            "coincidencias": 6,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Fase_4/graficas/regresion_r2.html",
+            "seccion": "Contenido",
+            "categoria": "Credencial escrita en código",
+            "coincidencias": 6,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Fase_4/graficas/winsorization.html",
+            "seccion": "Contenido",
+            "categoria": "Credencial escrita en código",
+            "coincidencias": 6,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Resumen_Ejecutivo/graficas/clasificacion_por_fase.html",
+            "seccion": "Contenido",
+            "categoria": "Credencial escrita en código",
+            "coincidencias": 6,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Resumen_Ejecutivo/graficas/demanda_anual.html",
+            "seccion": "Contenido",
+            "categoria": "Credencial escrita en código",
+            "coincidencias": 6,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Resumen_Ejecutivo/graficas/demanda_diaria.html",
+            "seccion": "Contenido",
+            "categoria": "Credencial escrita en código",
+            "coincidencias": 6,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Resumen_Ejecutivo/graficas/demanda_mensual.html",
+            "seccion": "Contenido",
+            "categoria": "Credencial escrita en código",
+            "coincidencias": 6,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Resumen_Ejecutivo/graficas/evidencias_por_fase.html",
+            "seccion": "Contenido",
+            "categoria": "Credencial escrita en código",
+            "coincidencias": 6,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Resumen_Ejecutivo/graficas/regresion_global_r2.html",
+            "seccion": "Contenido",
+            "categoria": "Credencial escrita en código",
+            "coincidencias": 6,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Resumen_Ejecutivo/graficas/regresion_global_rmse.html",
+            "seccion": "Contenido",
+            "categoria": "Credencial escrita en código",
+            "coincidencias": 6,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Resumen_Ejecutivo/graficas/tipo_usuario.html",
+            "seccion": "Contenido",
+            "categoria": "Credencial escrita en código",
+            "coincidencias": 6,
+            "primera_linea": 12
+        }
+    ],
+    "hallazgos_portabilidad": [
+        {
+            "archivo": "README.md",
+            "seccion": "Contenido",
+            "categoria": "Instalación pip",
+            "coincidencias": 1,
+            "primera_linea": 62
+        },
+        {
+            "archivo": "dashboard/index.html",
+            "seccion": "Contenido",
+            "categoria": "Ruta Windows",
+            "coincidencias": 9,
+            "primera_linea": 307
+        },
+        {
+            "archivo": "docs/entorno_ejecucion.json",
+            "seccion": "Contenido",
+            "categoria": "Integración R",
+            "coincidencias": 1,
+            "primera_linea": 21
+        },
+        {
+            "archivo": "notebooks/04_Preprocesamiento_Bicicletas.ipynb",
+            "seccion": "Celda 2 - fuente",
+            "categoria": "Ruta absoluta Colab",
+            "coincidencias": 1,
+            "primera_linea": 29
+        },
+        {
+            "archivo": "notebooks/04_Preprocesamiento_Bicicletas.ipynb",
+            "seccion": "Celda 2 - salida",
+            "categoria": "Ruta absoluta Colab",
+            "coincidencias": 1,
+            "primera_linea": 1
+        },
+        {
+            "archivo": "notebooks/04_Preprocesamiento_Bicicletas.ipynb",
+            "seccion": "Celda 2 - salida",
+            "categoria": "Dependencia Google Colab",
+            "coincidencias": 4,
+            "primera_linea": 1
+        },
+        {
+            "archivo": "notebooks/04_Preprocesamiento_Bicicletas.ipynb",
+            "seccion": "Celda 4 - salida",
+            "categoria": "Dependencia Google Colab",
+            "coincidencias": 4,
+            "primera_linea": 1
+        },
+        {
+            "archivo": "notebooks/04_Preprocesamiento_Bicicletas.ipynb",
+            "seccion": "Celda 6 - salida",
+            "categoria": "Dependencia Google Colab",
+            "coincidencias": 6,
+            "primera_linea": 1
+        },
+        {
+            "archivo": "notebooks/04_Preprocesamiento_Bicicletas.ipynb",
+            "seccion": "Celda 8 - salida",
+            "categoria": "Ruta absoluta Colab",
+            "coincidencias": 1,
+            "primera_linea": 1
+        },
+        {
+            "archivo": "notebooks/04_Preprocesamiento_Bicicletas.ipynb",
+            "seccion": "Celda 8 - salida",
+            "categoria": "Dependencia Google Colab",
+            "coincidencias": 4,
+            "primera_linea": 1
+        },
+        {
+            "archivo": "notebooks/04_Preprocesamiento_Bicicletas.ipynb",
+            "seccion": "Celda 10 - salida",
+            "categoria": "Dependencia Google Colab",
+            "coincidencias": 14,
+            "primera_linea": 1
+        },
+        {
+            "archivo": "notebooks/04_Preprocesamiento_Bicicletas.ipynb",
+            "seccion": "Celda 12 - salida",
+            "categoria": "Dependencia Google Colab",
+            "coincidencias": 12,
+            "primera_linea": 1
+        },
+        {
+            "archivo": "notebooks/04_Preprocesamiento_Bicicletas.ipynb",
+            "seccion": "Celda 14 - salida",
+            "categoria": "Dependencia Google Colab",
+            "coincidencias": 16,
+            "primera_linea": 1
+        },
+        {
+            "archivo": "notebooks/04_Preprocesamiento_Bicicletas.ipynb",
+            "seccion": "Celda 16 - salida",
+            "categoria": "Dependencia Google Colab",
+            "coincidencias": 10,
+            "primera_linea": 1
+        },
+        {
+            "archivo": "notebooks/04_Preprocesamiento_Bicicletas.ipynb",
+            "seccion": "Celda 18 - salida",
+            "categoria": "Dependencia Google Colab",
+            "coincidencias": 8,
+            "primera_linea": 1
+        },
+        {
+            "archivo": "notebooks/04_Preprocesamiento_Bicicletas.ipynb",
+            "seccion": "Celda 20 - salida",
+            "categoria": "Dependencia Google Colab",
+            "coincidencias": 20,
+            "primera_linea": 1
+        },
+        {
+            "archivo": "notebooks/04_Preprocesamiento_Bicicletas.ipynb",
+            "seccion": "Celda 22 - salida",
+            "categoria": "Dependencia Google Colab",
+            "coincidencias": 18,
+            "primera_linea": 1
+        },
+        {
+            "archivo": "notebooks/04_Preprocesamiento_Bicicletas.ipynb",
+            "seccion": "Celda 24 - salida",
+            "categoria": "Dependencia Google Colab",
+            "coincidencias": 4,
+            "primera_linea": 1
+        },
+        {
+            "archivo": "notebooks/04_Preprocesamiento_Bicicletas.ipynb",
+            "seccion": "Celda 26 - salida",
+            "categoria": "Dependencia Google Colab",
+            "coincidencias": 4,
+            "primera_linea": 1
+        },
+        {
+            "archivo": "notebooks/04_Preprocesamiento_Bicicletas.ipynb",
+            "seccion": "Celda 28 - salida",
+            "categoria": "Dependencia Google Colab",
+            "coincidencias": 30,
+            "primera_linea": 1
+        },
+        {
+            "archivo": "notebooks/04_Preprocesamiento_Bicicletas.ipynb",
+            "seccion": "Celda 30 - salida",
+            "categoria": "Ruta absoluta Colab",
+            "coincidencias": 1,
+            "primera_linea": 1
+        },
+        {
+            "archivo": "notebooks/04_Preprocesamiento_Bicicletas.ipynb",
+            "seccion": "Celda 31 - fuente",
+            "categoria": "Ruta absoluta Colab",
+            "coincidencias": 1,
+            "primera_linea": 4
+        },
+        {
+            "archivo": "notebooks/04_Preprocesamiento_Bicicletas.ipynb",
+            "seccion": "Celda 31 - fuente",
+            "categoria": "Descarga Colab",
+            "coincidencias": 1,
+            "primera_linea": 3
+        },
+        {
+            "archivo": "notebooks/04_Preprocesamiento_Bicicletas.ipynb",
+            "seccion": "Celda 31 - fuente",
+            "categoria": "Dependencia Google Colab",
+            "coincidencias": 1,
+            "primera_linea": 1
+        },
+        {
+            "archivo": "notebooks/04_Preprocesamiento_Bicicletas.ipynb",
+            "seccion": "Celda 31 - salida",
+            "categoria": "Dependencia Google Colab",
+            "coincidencias": 2,
+            "primera_linea": 1
+        },
+        {
+            "archivo": "notebooks/05_Dashboard_Global_Bicicletas.ipynb",
+            "seccion": "Celda 2 - fuente",
+            "categoria": "Ruta absoluta Colab",
+            "coincidencias": 1,
+            "primera_linea": 32
+        },
+        {
+            "archivo": "notebooks/05_Dashboard_Global_Bicicletas.ipynb",
+            "seccion": "Celda 2 - fuente",
+            "categoria": "Instalación pip",
+            "coincidencias": 1,
+            "primera_linea": 7
+        },
+        {
+            "archivo": "notebooks/05_Dashboard_Global_Bicicletas.ipynb",
+            "seccion": "Celda 2 - salida",
+            "categoria": "Ruta absoluta Colab",
+            "coincidencias": 4,
+            "primera_linea": 1
+        },
+        {
+            "archivo": "notebooks/05_Dashboard_Global_Bicicletas.ipynb",
+            "seccion": "Celda 3 - salida",
+            "categoria": "Dependencia Google Colab",
+            "coincidencias": 8,
+            "primera_linea": 1
+        },
+        {
+            "archivo": "notebooks/05_Dashboard_Global_Bicicletas.ipynb",
+            "seccion": "Celda 4 - fuente",
+            "categoria": "Carga manual Colab",
+            "coincidencias": 1,
+            "primera_linea": 39
+        },
+        {
+            "archivo": "notebooks/05_Dashboard_Global_Bicicletas.ipynb",
+            "seccion": "Celda 4 - fuente",
+            "categoria": "Dependencia Google Colab",
+            "coincidencias": 1,
+            "primera_linea": 7
+        },
+        {
+            "archivo": "notebooks/05_Dashboard_Global_Bicicletas.ipynb",
+            "seccion": "Celda 4 - salida",
+            "categoria": "Ruta Windows",
+            "coincidencias": 1,
+            "primera_linea": 1
+        },
+        {
+            "archivo": "notebooks/05_Dashboard_Global_Bicicletas.ipynb",
+            "seccion": "Celda 4 - salida",
+            "categoria": "Dependencia Google Colab",
+            "coincidencias": 22,
+            "primera_linea": 1
+        },
+        {
+            "archivo": "notebooks/05_Dashboard_Global_Bicicletas.ipynb",
+            "seccion": "Celda 5 - salida",
+            "categoria": "Dependencia Google Colab",
+            "coincidencias": 14,
+            "primera_linea": 1
+        },
+        {
+            "archivo": "notebooks/05_Dashboard_Global_Bicicletas.ipynb",
+            "seccion": "Celda 6 - salida",
+            "categoria": "Dependencia Google Colab",
+            "coincidencias": 36,
+            "primera_linea": 1
+        },
+        {
+            "archivo": "notebooks/05_Dashboard_Global_Bicicletas.ipynb",
+            "seccion": "Celda 7 - salida",
+            "categoria": "Dependencia Google Colab",
+            "coincidencias": 4,
+            "primera_linea": 1
+        },
+        {
+            "archivo": "notebooks/05_Dashboard_Global_Bicicletas.ipynb",
+            "seccion": "Celda 8 - fuente",
+            "categoria": "Ruta absoluta Colab",
+            "coincidencias": 1,
+            "primera_linea": 10
+        },
+        {
+            "archivo": "notebooks/05_Dashboard_Global_Bicicletas.ipynb",
+            "seccion": "Celda 8 - salida",
+            "categoria": "Ruta Windows",
+            "coincidencias": 3,
+            "primera_linea": 1
+        },
+        {
+            "archivo": "notebooks/05_Dashboard_Global_Bicicletas.ipynb",
+            "seccion": "Celda 8 - salida",
+            "categoria": "Dependencia Google Colab",
+            "coincidencias": 6,
+            "primera_linea": 1
+        },
+        {
+            "archivo": "notebooks/05_Dashboard_Global_Bicicletas.ipynb",
+            "seccion": "Celda 8 - salida",
+            "categoria": "Integración R",
+            "coincidencias": 2,
+            "primera_linea": 1
+        },
+        {
+            "archivo": "notebooks/05_Dashboard_Global_Bicicletas.ipynb",
+            "seccion": "Celda 9 - fuente",
+            "categoria": "Ruta Windows",
+            "coincidencias": 4,
+            "primera_linea": 123
+        },
+        {
+            "archivo": "notebooks/05_Dashboard_Global_Bicicletas.ipynb",
+            "seccion": "Celda 9 - salida",
+            "categoria": "Ruta absoluta Colab",
+            "coincidencias": 13,
+            "primera_linea": 1
+        },
+        {
+            "archivo": "notebooks/05_Dashboard_Global_Bicicletas.ipynb",
+            "seccion": "Celda 9 - salida",
+            "categoria": "Dependencia Google Colab",
+            "coincidencias": 28,
+            "primera_linea": 1
+        },
+        {
+            "archivo": "notebooks/05_Dashboard_Global_Bicicletas.ipynb",
+            "seccion": "Celda 10 - salida",
+            "categoria": "Ruta absoluta Colab",
+            "coincidencias": 2,
+            "primera_linea": 1
+        },
+        {
+            "archivo": "notebooks/05_Dashboard_Global_Bicicletas.ipynb",
+            "seccion": "Celda 10 - salida",
+            "categoria": "Ruta Windows",
+            "coincidencias": 5,
+            "primera_linea": 1
+        },
+        {
+            "archivo": "notebooks/05_Dashboard_Global_Bicicletas.ipynb",
+            "seccion": "Celda 11 - fuente",
+            "categoria": "Ruta Windows",
+            "coincidencias": 8,
+            "primera_linea": 123
+        },
+        {
+            "archivo": "notebooks/05_Dashboard_Global_Bicicletas.ipynb",
+            "seccion": "Celda 17 - salida",
+            "categoria": "Dependencia Google Colab",
+            "coincidencias": 2,
+            "primera_linea": 1
+        },
+        {
+            "archivo": "notebooks/05_Dashboard_Global_Bicicletas.ipynb",
+            "seccion": "Celda 18 - salida",
+            "categoria": "Ruta Windows",
+            "coincidencias": 1,
+            "primera_linea": 1
+        },
+        {
+            "archivo": "notebooks/05_Dashboard_Global_Bicicletas.ipynb",
+            "seccion": "Celda 21 - fuente",
+            "categoria": "Ruta absoluta Colab",
+            "coincidencias": 1,
+            "primera_linea": 465
+        },
+        {
+            "archivo": "notebooks/05_Dashboard_Global_Bicicletas.ipynb",
+            "seccion": "Celda 21 - fuente",
+            "categoria": "Descarga Colab",
+            "coincidencias": 1,
+            "primera_linea": 553
+        },
+        {
+            "archivo": "notebooks/05_Dashboard_Global_Bicicletas.ipynb",
+            "seccion": "Celda 21 - fuente",
+            "categoria": "Dependencia Google Colab",
+            "coincidencias": 1,
+            "primera_linea": 551
+        },
+        {
+            "archivo": "notebooks/05_Dashboard_Global_Bicicletas.ipynb",
+            "seccion": "Celda 21 - salida",
+            "categoria": "Ruta absoluta Colab",
+            "coincidencias": 1,
+            "primera_linea": 1
+        },
+        {
+            "archivo": "notebooks/05_Dashboard_Global_Bicicletas.ipynb",
+            "seccion": "Celda 21 - salida",
+            "categoria": "Ruta Windows",
+            "coincidencias": 1,
+            "primera_linea": 1
+        },
+        {
+            "archivo": "notebooks/05_Dashboard_Global_Bicicletas.ipynb",
+            "seccion": "Celda 21 - salida",
+            "categoria": "Dependencia Google Colab",
+            "coincidencias": 2,
+            "primera_linea": 1
+        },
+        {
+            "archivo": "notebooks/05_Dashboard_Global_Bicicletas.ipynb",
+            "seccion": "Celda 22 - salida",
+            "categoria": "Dependencia Google Colab",
+            "coincidencias": 2,
+            "primera_linea": 1
+        },
+        {
+            "archivo": "notebooks/05_Dashboard_Global_Bicicletas.ipynb",
+            "seccion": "Celda 23 - fuente",
+            "categoria": "Ruta absoluta Colab",
+            "coincidencias": 1,
+            "primera_linea": 19
+        },
+        {
+            "archivo": "notebooks/05_Dashboard_Global_Bicicletas.ipynb",
+            "seccion": "Celda 23 - fuente",
+            "categoria": "Descarga Colab",
+            "coincidencias": 1,
+            "primera_linea": 1233
+        },
+        {
+            "archivo": "notebooks/05_Dashboard_Global_Bicicletas.ipynb",
+            "seccion": "Celda 23 - fuente",
+            "categoria": "Dependencia Google Colab",
+            "coincidencias": 1,
+            "primera_linea": 13
+        },
+        {
+            "archivo": "notebooks/05_Dashboard_Global_Bicicletas.ipynb",
+            "seccion": "Celda 23 - salida",
+            "categoria": "Ruta absoluta Colab",
+            "coincidencias": 1,
+            "primera_linea": 1
+        },
+        {
+            "archivo": "notebooks/05_Dashboard_Global_Bicicletas.ipynb",
+            "seccion": "Celda 23 - salida",
+            "categoria": "Dependencia Google Colab",
+            "coincidencias": 2,
+            "primera_linea": 1
+        },
+        {
+            "archivo": "notebooks/05_Dashboard_Global_Bicicletas.ipynb",
+            "seccion": "Celda 24 - fuente",
+            "categoria": "Ruta absoluta Colab",
+            "coincidencias": 2,
+            "primera_linea": 5
+        },
+        {
+            "archivo": "notebooks/05_Dashboard_Global_Bicicletas.ipynb",
+            "seccion": "Celda 24 - fuente",
+            "categoria": "Descarga Colab",
+            "coincidencias": 1,
+            "primera_linea": 15
+        },
+        {
+            "archivo": "notebooks/05_Dashboard_Global_Bicicletas.ipynb",
+            "seccion": "Celda 24 - fuente",
+            "categoria": "Dependencia Google Colab",
+            "coincidencias": 1,
+            "primera_linea": 3
+        },
+        {
+            "archivo": "notebooks/05_Dashboard_Global_Bicicletas.ipynb",
+            "seccion": "Celda 24 - salida",
+            "categoria": "Dependencia Google Colab",
+            "coincidencias": 2,
+            "primera_linea": 1
+        },
+        {
+            "archivo": "notebooks/05_Dashboard_Global_Bicicletas.ipynb",
+            "seccion": "Celda 25 - fuente",
+            "categoria": "Descarga Colab",
+            "coincidencias": 1,
+            "primera_linea": 650
+        },
+        {
+            "archivo": "notebooks/05_Dashboard_Global_Bicicletas.ipynb",
+            "seccion": "Celda 25 - fuente",
+            "categoria": "Dependencia Google Colab",
+            "coincidencias": 1,
+            "primera_linea": 17
+        },
+        {
+            "archivo": "notebooks/05_Dashboard_Global_Bicicletas.ipynb",
+            "seccion": "Celda 25 - fuente",
+            "categoria": "Instalación pip",
+            "coincidencias": 1,
+            "primera_linea": 406
+        },
+        {
+            "archivo": "notebooks/05_Dashboard_Global_Bicicletas.ipynb",
+            "seccion": "Celda 25 - fuente",
+            "categoria": "Integración R",
+            "coincidencias": 1,
+            "primera_linea": 285
+        },
+        {
+            "archivo": "notebooks/05_Dashboard_Global_Bicicletas.ipynb",
+            "seccion": "Celda 25 - salida",
+            "categoria": "Ruta Windows",
+            "coincidencias": 1,
+            "primera_linea": 1
+        },
+        {
+            "archivo": "notebooks/05_Dashboard_Global_Bicicletas.ipynb",
+            "seccion": "Celda 25 - salida",
+            "categoria": "Dependencia Google Colab",
+            "coincidencias": 2,
+            "primera_linea": 1
+        },
+        {
+            "archivo": "notebooks/05_Dashboard_Global_Bicicletas.ipynb",
+            "seccion": "Celda 25 - salida",
+            "categoria": "Integración R",
+            "coincidencias": 1,
+            "primera_linea": 1
+        },
+        {
+            "archivo": "notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 2/Proyecto_Integrador_Bicicletas_Final.ipynb",
+            "seccion": "Celda 1 - fuente",
+            "categoria": "Integración R",
+            "coincidencias": 1,
+            "primera_linea": 6
+        },
+        {
+            "archivo": "notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 2/Proyecto_Integrador_Bicicletas_Final.ipynb",
+            "seccion": "Celda 3 - fuente",
+            "categoria": "Ruta absoluta Colab",
+            "coincidencias": 1,
+            "primera_linea": 17
+        },
+        {
+            "archivo": "notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 2/Proyecto_Integrador_Bicicletas_Final.ipynb",
+            "seccion": "Celda 3 - salida",
+            "categoria": "Ruta absoluta Colab",
+            "coincidencias": 1,
+            "primera_linea": 1
+        },
+        {
+            "archivo": "notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 2/Proyecto_Integrador_Bicicletas_Final.ipynb",
+            "seccion": "Celda 5 - fuente",
+            "categoria": "Carga manual Colab",
+            "coincidencias": 1,
+            "primera_linea": 11
+        },
+        {
+            "archivo": "notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 2/Proyecto_Integrador_Bicicletas_Final.ipynb",
+            "seccion": "Celda 5 - fuente",
+            "categoria": "Dependencia Google Colab",
+            "coincidencias": 1,
+            "primera_linea": 10
+        },
+        {
+            "archivo": "notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 2/Proyecto_Integrador_Bicicletas_Final.ipynb",
+            "seccion": "Celda 5 - salida",
+            "categoria": "Dependencia Google Colab",
+            "coincidencias": 4,
+            "primera_linea": 1
+        },
+        {
+            "archivo": "notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 2/Proyecto_Integrador_Bicicletas_Final.ipynb",
+            "seccion": "Celda 7 - salida",
+            "categoria": "Dependencia Google Colab",
+            "coincidencias": 6,
+            "primera_linea": 1
+        },
+        {
+            "archivo": "notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 2/Proyecto_Integrador_Bicicletas_Final.ipynb",
+            "seccion": "Celda 9 - salida",
+            "categoria": "Dependencia Google Colab",
+            "coincidencias": 4,
+            "primera_linea": 1
+        },
+        {
+            "archivo": "notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 2/Proyecto_Integrador_Bicicletas_Final.ipynb",
+            "seccion": "Celda 11 - salida",
+            "categoria": "Dependencia Google Colab",
+            "coincidencias": 4,
+            "primera_linea": 1
+        },
+        {
+            "archivo": "notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 2/Proyecto_Integrador_Bicicletas_Final.ipynb",
+            "seccion": "Celda 17 - salida",
+            "categoria": "Dependencia Google Colab",
+            "coincidencias": 4,
+            "primera_linea": 1
+        },
+        {
+            "archivo": "notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 2/Proyecto_Integrador_Bicicletas_Final.ipynb",
+            "seccion": "Celda 19 - salida",
+            "categoria": "Dependencia Google Colab",
+            "coincidencias": 4,
+            "primera_linea": 1
+        },
+        {
+            "archivo": "notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 2/Proyecto_Integrador_Bicicletas_Final.ipynb",
+            "seccion": "Celda 21 - salida",
+            "categoria": "Dependencia Google Colab",
+            "coincidencias": 4,
+            "primera_linea": 1
+        },
+        {
+            "archivo": "notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 2/Proyecto_Integrador_Bicicletas_Final.ipynb",
+            "seccion": "Celda 27 - fuente",
+            "categoria": "Integración R",
+            "coincidencias": 1,
+            "primera_linea": 2
+        },
+        {
+            "archivo": "notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 2/Proyecto_Integrador_Bicicletas_Final.ipynb",
+            "seccion": "Celda 28 - fuente",
+            "categoria": "Integración R",
+            "coincidencias": 1,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 2/Proyecto_Integrador_Bicicletas_Final.ipynb",
+            "seccion": "Celda 28 - salida",
+            "categoria": "Integración R",
+            "coincidencias": 1,
+            "primera_linea": 1
+        },
+        {
+            "archivo": "notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 2/Proyecto_Integrador_Bicicletas_Final.ipynb",
+            "seccion": "Celda 29 - fuente",
+            "categoria": "Integración R",
+            "coincidencias": 4,
+            "primera_linea": 1
+        },
+        {
+            "archivo": "notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 2/Proyecto_Integrador_Bicicletas_Final.ipynb",
+            "seccion": "Celda 29 - salida",
+            "categoria": "Integración R",
+            "coincidencias": 2,
+            "primera_linea": 1
+        },
+        {
+            "archivo": "notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 2/Proyecto_Integrador_Bicicletas_Final.ipynb",
+            "seccion": "Celda 30 - fuente",
+            "categoria": "Integración R",
+            "coincidencias": 3,
+            "primera_linea": 19
+        },
+        {
+            "archivo": "notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 2/Proyecto_Integrador_Bicicletas_Final.ipynb",
+            "seccion": "Celda 30 - salida",
+            "categoria": "Ruta Windows",
+            "coincidencias": 2,
+            "primera_linea": 1
+        },
+        {
+            "archivo": "notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 2/Proyecto_Integrador_Bicicletas_Final.ipynb",
+            "seccion": "Celda 32 - salida",
+            "categoria": "Ruta Windows",
+            "coincidencias": 1,
+            "primera_linea": 1
+        },
+        {
+            "archivo": "notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 2/Proyecto_Integrador_Bicicletas_Final.ipynb",
+            "seccion": "Celda 34 - fuente",
+            "categoria": "Descarga Colab",
+            "coincidencias": 1,
+            "primera_linea": 6
+        },
+        {
+            "archivo": "notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 2/Proyecto_Integrador_Bicicletas_Final.ipynb",
+            "seccion": "Celda 34 - fuente",
+            "categoria": "Dependencia Google Colab",
+            "coincidencias": 1,
+            "primera_linea": 5
+        },
+        {
+            "archivo": "notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 2/Proyecto_Integrador_Bicicletas_Final.ipynb",
+            "seccion": "Celda 34 - salida",
+            "categoria": "Ruta absoluta Colab",
+            "coincidencias": 1,
+            "primera_linea": 1
+        },
+        {
+            "archivo": "notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 2/Proyecto_Integrador_Bicicletas_Final.ipynb",
+            "seccion": "Celda 34 - salida",
+            "categoria": "Dependencia Google Colab",
+            "coincidencias": 2,
+            "primera_linea": 1
+        },
+        {
+            "archivo": "notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 3/Fase_3_Modelado_Avanzado_Bicicletas.ipynb",
+            "seccion": "Celda 2 - fuente",
+            "categoria": "Ruta absoluta Colab",
+            "coincidencias": 1,
+            "primera_linea": 20
+        },
+        {
+            "archivo": "notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 3/Fase_3_Modelado_Avanzado_Bicicletas.ipynb",
+            "seccion": "Celda 2 - salida",
+            "categoria": "Dependencia Google Colab",
+            "coincidencias": 4,
+            "primera_linea": 1
+        },
+        {
+            "archivo": "notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 3/Fase_3_Modelado_Avanzado_Bicicletas.ipynb",
+            "seccion": "Celda 6 - salida",
+            "categoria": "Ruta Windows",
+            "coincidencias": 1,
+            "primera_linea": 1
+        },
+        {
+            "archivo": "notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 3/Fase_3_Modelado_Avanzado_Bicicletas.ipynb",
+            "seccion": "Celda 6 - salida",
+            "categoria": "Dependencia Google Colab",
+            "coincidencias": 4,
+            "primera_linea": 1
+        },
+        {
+            "archivo": "notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 3/Fase_3_Modelado_Avanzado_Bicicletas.ipynb",
+            "seccion": "Celda 13 - salida",
+            "categoria": "Ruta absoluta Colab",
+            "coincidencias": 1,
+            "primera_linea": 1
+        },
+        {
+            "archivo": "notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 3/Fase_3_Modelado_Avanzado_Bicicletas.ipynb",
+            "seccion": "Celda 13 - salida",
+            "categoria": "Dependencia Google Colab",
+            "coincidencias": 4,
+            "primera_linea": 1
+        },
+        {
+            "archivo": "notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 3/Fase_3_Modelado_Avanzado_Bicicletas.ipynb",
+            "seccion": "Celda 16 - salida",
+            "categoria": "Dependencia Google Colab",
+            "coincidencias": 6,
+            "primera_linea": 1
+        },
+        {
+            "archivo": "notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 3/Fase_3_Modelado_Avanzado_Bicicletas.ipynb",
+            "seccion": "Celda 20 - salida",
+            "categoria": "Dependencia Google Colab",
+            "coincidencias": 6,
+            "primera_linea": 1
+        },
+        {
+            "archivo": "notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 3/Fase_3_Modelado_Avanzado_Bicicletas.ipynb",
+            "seccion": "Celda 25 - salida",
+            "categoria": "Ruta absoluta Colab",
+            "coincidencias": 1,
+            "primera_linea": 1
+        },
+        {
+            "archivo": "notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 3/Fase_3_Modelado_Avanzado_Bicicletas.ipynb",
+            "seccion": "Celda 30 - salida",
+            "categoria": "Ruta absoluta Colab",
+            "coincidencias": 1,
+            "primera_linea": 1
+        },
+        {
+            "archivo": "notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 3/Fase_3_Modelado_Avanzado_Bicicletas.ipynb",
+            "seccion": "Celda 32 - salida",
+            "categoria": "Ruta Windows",
+            "coincidencias": 2,
+            "primera_linea": 1
+        },
+        {
+            "archivo": "notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 3/Fase_3_Modelado_Avanzado_Bicicletas.ipynb",
+            "seccion": "Celda 32 - salida",
+            "categoria": "Dependencia Google Colab",
+            "coincidencias": 10,
+            "primera_linea": 1
+        },
+        {
+            "archivo": "notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 3/Fase_3_Modelado_Avanzado_Bicicletas.ipynb",
+            "seccion": "Celda 34 - salida",
+            "categoria": "Ruta Windows",
+            "coincidencias": 2,
+            "primera_linea": 1
+        },
+        {
+            "archivo": "notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 3/Fase_3_Modelado_Avanzado_Bicicletas.ipynb",
+            "seccion": "Celda 34 - salida",
+            "categoria": "Dependencia Google Colab",
+            "coincidencias": 4,
+            "primera_linea": 1
+        },
+        {
+            "archivo": "notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 3/Fase_3_Modelado_Avanzado_Bicicletas.ipynb",
+            "seccion": "Celda 36 - salida",
+            "categoria": "Ruta Windows",
+            "coincidencias": 1,
+            "primera_linea": 1
+        },
+        {
+            "archivo": "notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 3/Fase_3_Modelado_Avanzado_Bicicletas.ipynb",
+            "seccion": "Celda 36 - salida",
+            "categoria": "Dependencia Google Colab",
+            "coincidencias": 6,
+            "primera_linea": 1
+        },
+        {
+            "archivo": "notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 3/Fase_3_Modelado_Avanzado_Bicicletas.ipynb",
+            "seccion": "Celda 38 - salida",
+            "categoria": "Ruta Windows",
+            "coincidencias": 1,
+            "primera_linea": 1
+        },
+        {
+            "archivo": "notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 3/Fase_3_Modelado_Avanzado_Bicicletas.ipynb",
+            "seccion": "Celda 38 - salida",
+            "categoria": "Dependencia Google Colab",
+            "coincidencias": 4,
+            "primera_linea": 1
+        },
+        {
+            "archivo": "notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 3/Fase_3_Modelado_Avanzado_Bicicletas.ipynb",
+            "seccion": "Celda 40 - salida",
+            "categoria": "Ruta Windows",
+            "coincidencias": 1,
+            "primera_linea": 1
+        },
+        {
+            "archivo": "notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 3/Fase_3_Modelado_Avanzado_Bicicletas.ipynb",
+            "seccion": "Celda 42 - salida",
+            "categoria": "Ruta Windows",
+            "coincidencias": 1,
+            "primera_linea": 1
+        },
+        {
+            "archivo": "notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 3/Fase_3_Modelado_Avanzado_Bicicletas.ipynb",
+            "seccion": "Celda 44 - salida",
+            "categoria": "Dependencia Google Colab",
+            "coincidencias": 12,
+            "primera_linea": 1
+        },
+        {
+            "archivo": "requirements.txt",
+            "seccion": "Contenido",
+            "categoria": "Integración R",
+            "coincidencias": 1,
+            "primera_linea": 13
+        },
+        {
+            "archivo": "results/resultados/Fase_1/graficas/boxplot_clima.html",
+            "seccion": "Contenido",
+            "categoria": "Ruta Windows",
+            "coincidencias": 9,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Fase_1/graficas/calidad_datos.html",
+            "seccion": "Contenido",
+            "categoria": "Ruta Windows",
+            "coincidencias": 9,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Fase_1/graficas/chi_cuadrado.html",
+            "seccion": "Contenido",
+            "categoria": "Ruta Windows",
+            "coincidencias": 9,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Fase_1/graficas/comparacion_outliers.html",
+            "seccion": "Contenido",
+            "categoria": "Ruta Windows",
+            "coincidencias": 9,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Fase_1/graficas/correlacion_pearson.html",
+            "seccion": "Contenido",
+            "categoria": "Ruta Windows",
+            "coincidencias": 9,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Fase_1/graficas/correlacion_spearman.html",
+            "seccion": "Contenido",
+            "categoria": "Ruta Windows",
+            "coincidencias": 9,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Fase_1/graficas/demanda_clima.html",
+            "seccion": "Contenido",
+            "categoria": "Ruta Windows",
+            "coincidencias": 9,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Fase_1/graficas/demanda_estacion.html",
+            "seccion": "Contenido",
+            "categoria": "Ruta Windows",
+            "coincidencias": 9,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Fase_1/graficas/dispersion_temperatura.html",
+            "seccion": "Contenido",
+            "categoria": "Ruta Windows",
+            "coincidencias": 9,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Fase_1/graficas/factores_demanda.html",
+            "seccion": "Contenido",
+            "categoria": "Ruta Windows",
+            "coincidencias": 9,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Fase_1/graficas/histograma_demanda.html",
+            "seccion": "Contenido",
+            "categoria": "Ruta Windows",
+            "coincidencias": 9,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Fase_1/graficas/outliers.html",
+            "seccion": "Contenido",
+            "categoria": "Ruta Windows",
+            "coincidencias": 9,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Fase_2/graficas/comparacion_modelos.html",
+            "seccion": "Contenido",
+            "categoria": "Ruta Windows",
+            "coincidencias": 9,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Fase_2/graficas/comparacion_r2.html",
+            "seccion": "Contenido",
+            "categoria": "Ruta Windows",
+            "coincidencias": 9,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Fase_2/graficas/evaluacion_final.html",
+            "seccion": "Contenido",
+            "categoria": "Ruta Windows",
+            "coincidencias": 9,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Fase_2/graficas/mejora_mae.html",
+            "seccion": "Contenido",
+            "categoria": "Ruta Windows",
+            "coincidencias": 9,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Fase_2/graficas/particion_datos.html",
+            "seccion": "Contenido",
+            "categoria": "Ruta Windows",
+            "coincidencias": 9,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Fase_2/graficas/r2_evaluacion.html",
+            "seccion": "Contenido",
+            "categoria": "Ruta Windows",
+            "coincidencias": 9,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Fase_2/inventario_imagenes.csv",
+            "seccion": "Contenido",
+            "categoria": "Ruta absoluta Colab",
+            "coincidencias": 5,
+            "primera_linea": 2
+        },
+        {
+            "archivo": "results/resultados/Fase_2/inventario_notebook_fase2.csv",
+            "seccion": "Contenido",
+            "categoria": "Integración R",
+            "coincidencias": 2,
+            "primera_linea": 30
+        },
+        {
+            "archivo": "results/resultados/Fase_2/salidas_originales_fase2.csv",
+            "seccion": "Contenido",
+            "categoria": "Ruta absoluta Colab",
+            "coincidencias": 2,
+            "primera_linea": 2
+        },
+        {
+            "archivo": "results/resultados/Fase_2/salidas_originales_fase2.csv",
+            "seccion": "Contenido",
+            "categoria": "Integración R",
+            "coincidencias": 3,
+            "primera_linea": 113
+        },
+        {
+            "archivo": "results/resultados/Fase_3/graficas/clasificacion_cv.html",
+            "seccion": "Contenido",
+            "categoria": "Ruta Windows",
+            "coincidencias": 9,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Fase_3/graficas/clasificacion_prueba.html",
+            "seccion": "Contenido",
+            "categoria": "Ruta Windows",
+            "coincidencias": 9,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Fase_3/graficas/clustering_ari.html",
+            "seccion": "Contenido",
+            "categoria": "Ruta Windows",
+            "coincidencias": 9,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Fase_3/graficas/clustering_silueta.html",
+            "seccion": "Contenido",
+            "categoria": "Ruta Windows",
+            "coincidencias": 9,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Fase_3/graficas/distribucion_clases.html",
+            "seccion": "Contenido",
+            "categoria": "Ruta Windows",
+            "coincidencias": 9,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Fase_3/graficas/regresion_errores.html",
+            "seccion": "Contenido",
+            "categoria": "Ruta Windows",
+            "coincidencias": 9,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Fase_3/graficas/regresion_r2.html",
+            "seccion": "Contenido",
+            "categoria": "Ruta Windows",
+            "coincidencias": 9,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Fase_3/graficas/validacion_temporal.html",
+            "seccion": "Contenido",
+            "categoria": "Ruta Windows",
+            "coincidencias": 9,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Fase_3/inventario_imagenes_fase3.csv",
+            "seccion": "Contenido",
+            "categoria": "Ruta absoluta Colab",
+            "coincidencias": 8,
+            "primera_linea": 2
+        },
+        {
+            "archivo": "results/resultados/Fase_3/metricas_detectadas_fase3.csv",
+            "seccion": "Contenido",
+            "categoria": "Ruta absoluta Colab",
+            "coincidencias": 2,
+            "primera_linea": 85
+        },
+        {
+            "archivo": "results/resultados/Fase_3/resultados_clasificacion.csv",
+            "seccion": "Contenido",
+            "categoria": "Ruta absoluta Colab",
+            "coincidencias": 1,
+            "primera_linea": 33
+        },
+        {
+            "archivo": "results/resultados/Fase_3/resultados_clustering.csv",
+            "seccion": "Contenido",
+            "categoria": "Ruta absoluta Colab",
+            "coincidencias": 1,
+            "primera_linea": 8
+        },
+        {
+            "archivo": "results/resultados/Fase_3/salidas_originales_fase3.csv",
+            "seccion": "Contenido",
+            "categoria": "Ruta absoluta Colab",
+            "coincidencias": 3,
+            "primera_linea": 79
+        },
+        {
+            "archivo": "results/resultados/Fase_4/graficas/caracteristicas.html",
+            "seccion": "Contenido",
+            "categoria": "Ruta Windows",
+            "coincidencias": 9,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Fase_4/graficas/clasificacion_accuracy.html",
+            "seccion": "Contenido",
+            "categoria": "Ruta Windows",
+            "coincidencias": 9,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Fase_4/graficas/clasificacion_auc.html",
+            "seccion": "Contenido",
+            "categoria": "Ruta Windows",
+            "coincidencias": 9,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Fase_4/graficas/clasificacion_f1_macro.html",
+            "seccion": "Contenido",
+            "categoria": "Ruta Windows",
+            "coincidencias": 9,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Fase_4/graficas/clasificacion_prueba.html",
+            "seccion": "Contenido",
+            "categoria": "Ruta Windows",
+            "coincidencias": 9,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Fase_4/graficas/completitud.html",
+            "seccion": "Contenido",
+            "categoria": "Ruta Windows",
+            "coincidencias": 9,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Fase_4/graficas/cumplimiento.html",
+            "seccion": "Contenido",
+            "categoria": "Ruta Windows",
+            "coincidencias": 9,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Fase_4/graficas/estandarizacion.html",
+            "seccion": "Contenido",
+            "categoria": "Ruta Windows",
+            "coincidencias": 9,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Fase_4/graficas/outliers.html",
+            "seccion": "Contenido",
+            "categoria": "Ruta Windows",
+            "coincidencias": 9,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Fase_4/graficas/particiones.html",
+            "seccion": "Contenido",
+            "categoria": "Ruta Windows",
+            "coincidencias": 9,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Fase_4/graficas/regresion_errores.html",
+            "seccion": "Contenido",
+            "categoria": "Ruta Windows",
+            "coincidencias": 9,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Fase_4/graficas/regresion_r2.html",
+            "seccion": "Contenido",
+            "categoria": "Ruta Windows",
+            "coincidencias": 9,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Fase_4/graficas/winsorization.html",
+            "seccion": "Contenido",
+            "categoria": "Ruta Windows",
+            "coincidencias": 9,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Fase_4/inventario_csv_fase4.csv",
+            "seccion": "Contenido",
+            "categoria": "Ruta absoluta Colab",
+            "coincidencias": 19,
+            "primera_linea": 2
+        },
+        {
+            "archivo": "results/resultados/Fase_4/inventario_imagenes_fase4.csv",
+            "seccion": "Contenido",
+            "categoria": "Ruta absoluta Colab",
+            "coincidencias": 12,
+            "primera_linea": 2
+        },
+        {
+            "archivo": "results/resultados/Resumen_Ejecutivo/graficas/clasificacion_por_fase.html",
+            "seccion": "Contenido",
+            "categoria": "Ruta Windows",
+            "coincidencias": 9,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Resumen_Ejecutivo/graficas/demanda_anual.html",
+            "seccion": "Contenido",
+            "categoria": "Ruta Windows",
+            "coincidencias": 9,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Resumen_Ejecutivo/graficas/demanda_diaria.html",
+            "seccion": "Contenido",
+            "categoria": "Ruta Windows",
+            "coincidencias": 9,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Resumen_Ejecutivo/graficas/demanda_mensual.html",
+            "seccion": "Contenido",
+            "categoria": "Ruta Windows",
+            "coincidencias": 9,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Resumen_Ejecutivo/graficas/evidencias_por_fase.html",
+            "seccion": "Contenido",
+            "categoria": "Ruta Windows",
+            "coincidencias": 9,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Resumen_Ejecutivo/graficas/regresion_global_r2.html",
+            "seccion": "Contenido",
+            "categoria": "Ruta Windows",
+            "coincidencias": 9,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Resumen_Ejecutivo/graficas/regresion_global_rmse.html",
+            "seccion": "Contenido",
+            "categoria": "Ruta Windows",
+            "coincidencias": 9,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/Resumen_Ejecutivo/graficas/tipo_usuario.html",
+            "seccion": "Contenido",
+            "categoria": "Ruta Windows",
+            "coincidencias": 9,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "results/resultados/inventario_evidencias.csv",
+            "seccion": "Contenido",
+            "categoria": "Ruta absoluta Colab",
+            "coincidencias": 37,
+            "primera_linea": 2
+        },
+        {
+            "archivo": "src/dashboard/celda_002.ipy",
+            "seccion": "Contenido",
+            "categoria": "Ruta absoluta Colab",
+            "coincidencias": 1,
+            "primera_linea": 32
+        },
+        {
+            "archivo": "src/dashboard/celda_002.ipy",
+            "seccion": "Contenido",
+            "categoria": "Instalación pip",
+            "coincidencias": 1,
+            "primera_linea": 7
+        },
+        {
+            "archivo": "src/dashboard/celda_004.py",
+            "seccion": "Contenido",
+            "categoria": "Carga manual Colab",
+            "coincidencias": 1,
+            "primera_linea": 39
+        },
+        {
+            "archivo": "src/dashboard/celda_004.py",
+            "seccion": "Contenido",
+            "categoria": "Dependencia Google Colab",
+            "coincidencias": 1,
+            "primera_linea": 7
+        },
+        {
+            "archivo": "src/dashboard/celda_008.py",
+            "seccion": "Contenido",
+            "categoria": "Ruta absoluta Colab",
+            "coincidencias": 1,
+            "primera_linea": 10
+        },
+        {
+            "archivo": "src/dashboard/celda_009.py",
+            "seccion": "Contenido",
+            "categoria": "Ruta Windows",
+            "coincidencias": 4,
+            "primera_linea": 123
+        },
+        {
+            "archivo": "src/dashboard/celda_011.py",
+            "seccion": "Contenido",
+            "categoria": "Ruta Windows",
+            "coincidencias": 8,
+            "primera_linea": 123
+        },
+        {
+            "archivo": "src/dashboard/celda_021.py",
+            "seccion": "Contenido",
+            "categoria": "Ruta absoluta Colab",
+            "coincidencias": 1,
+            "primera_linea": 465
+        },
+        {
+            "archivo": "src/dashboard/celda_021.py",
+            "seccion": "Contenido",
+            "categoria": "Descarga Colab",
+            "coincidencias": 1,
+            "primera_linea": 553
+        },
+        {
+            "archivo": "src/dashboard/celda_021.py",
+            "seccion": "Contenido",
+            "categoria": "Dependencia Google Colab",
+            "coincidencias": 1,
+            "primera_linea": 551
+        },
+        {
+            "archivo": "src/dashboard/celda_023.py",
+            "seccion": "Contenido",
+            "categoria": "Ruta absoluta Colab",
+            "coincidencias": 1,
+            "primera_linea": 19
+        },
+        {
+            "archivo": "src/dashboard/celda_023.py",
+            "seccion": "Contenido",
+            "categoria": "Descarga Colab",
+            "coincidencias": 1,
+            "primera_linea": 1233
+        },
+        {
+            "archivo": "src/dashboard/celda_023.py",
+            "seccion": "Contenido",
+            "categoria": "Dependencia Google Colab",
+            "coincidencias": 1,
+            "primera_linea": 13
+        },
+        {
+            "archivo": "src/dashboard/celda_024.py",
+            "seccion": "Contenido",
+            "categoria": "Ruta absoluta Colab",
+            "coincidencias": 2,
+            "primera_linea": 5
+        },
+        {
+            "archivo": "src/dashboard/celda_024.py",
+            "seccion": "Contenido",
+            "categoria": "Descarga Colab",
+            "coincidencias": 1,
+            "primera_linea": 15
+        },
+        {
+            "archivo": "src/dashboard/celda_024.py",
+            "seccion": "Contenido",
+            "categoria": "Dependencia Google Colab",
+            "coincidencias": 1,
+            "primera_linea": 3
+        },
+        {
+            "archivo": "src/dashboard/celda_025.py",
+            "seccion": "Contenido",
+            "categoria": "Descarga Colab",
+            "coincidencias": 1,
+            "primera_linea": 650
+        },
+        {
+            "archivo": "src/dashboard/celda_025.py",
+            "seccion": "Contenido",
+            "categoria": "Dependencia Google Colab",
+            "coincidencias": 1,
+            "primera_linea": 17
+        },
+        {
+            "archivo": "src/dashboard/celda_025.py",
+            "seccion": "Contenido",
+            "categoria": "Instalación pip",
+            "coincidencias": 1,
+            "primera_linea": 406
+        },
+        {
+            "archivo": "src/dashboard/celda_025.py",
+            "seccion": "Contenido",
+            "categoria": "Integración R",
+            "coincidencias": 1,
+            "primera_linea": 285
+        },
+        {
+            "archivo": "src/fase2/celda_003.py",
+            "seccion": "Contenido",
+            "categoria": "Ruta absoluta Colab",
+            "coincidencias": 1,
+            "primera_linea": 17
+        },
+        {
+            "archivo": "src/fase2/celda_005.py",
+            "seccion": "Contenido",
+            "categoria": "Carga manual Colab",
+            "coincidencias": 1,
+            "primera_linea": 11
+        },
+        {
+            "archivo": "src/fase2/celda_005.py",
+            "seccion": "Contenido",
+            "categoria": "Dependencia Google Colab",
+            "coincidencias": 1,
+            "primera_linea": 10
+        },
+        {
+            "archivo": "src/fase2/celda_028.py",
+            "seccion": "Contenido",
+            "categoria": "Integración R",
+            "coincidencias": 1,
+            "primera_linea": 12
+        },
+        {
+            "archivo": "src/fase2/celda_029.py",
+            "seccion": "Contenido",
+            "categoria": "Integración R",
+            "coincidencias": 4,
+            "primera_linea": 1
+        },
+        {
+            "archivo": "src/fase2/celda_030.py",
+            "seccion": "Contenido",
+            "categoria": "Integración R",
+            "coincidencias": 3,
+            "primera_linea": 19
+        },
+        {
+            "archivo": "src/fase2/celda_034.py",
+            "seccion": "Contenido",
+            "categoria": "Descarga Colab",
+            "coincidencias": 1,
+            "primera_linea": 6
+        },
+        {
+            "archivo": "src/fase2/celda_034.py",
+            "seccion": "Contenido",
+            "categoria": "Dependencia Google Colab",
+            "coincidencias": 1,
+            "primera_linea": 5
+        },
+        {
+            "archivo": "src/fase3/celda_002.py",
+            "seccion": "Contenido",
+            "categoria": "Ruta absoluta Colab",
+            "coincidencias": 1,
+            "primera_linea": 20
+        },
+        {
+            "archivo": "src/fase4/celda_002.py",
+            "seccion": "Contenido",
+            "categoria": "Ruta absoluta Colab",
+            "coincidencias": 1,
+            "primera_linea": 29
+        },
+        {
+            "archivo": "src/fase4/celda_031.py",
+            "seccion": "Contenido",
+            "categoria": "Ruta absoluta Colab",
+            "coincidencias": 1,
+            "primera_linea": 4
+        },
+        {
+            "archivo": "src/fase4/celda_031.py",
+            "seccion": "Contenido",
+            "categoria": "Descarga Colab",
+            "coincidencias": 1,
+            "primera_linea": 3
+        },
+        {
+            "archivo": "src/fase4/celda_031.py",
+            "seccion": "Contenido",
+            "categoria": "Dependencia Google Colab",
+            "coincidencias": 1,
+            "primera_linea": 1
+        }
+    ],
+    "archivos_no_inspeccionados": [
+        {
+            "archivo": ".nojekyll",
+            "extension": ""
+        },
+        {
+            "archivo": "docs/evidencias/Fases_2_3/fase 2 y fase 3/fase 2/Informe_Regresion_Bicicletas fase 2.pdf",
+            "extension": ".pdf"
+        },
+        {
+            "archivo": "docs/evidencias/Fases_2_3/fase 2 y fase 3/fase 3/Informe_Fase_3_Modelado_Avanzado_Bicicletas.pdf",
+            "extension": ".pdf"
+        },
+        {
+            "archivo": "results/evidencias/Fase_4/analisis_desbalance.png",
+            "extension": ".png"
+        },
+        {
+            "archivo": "results/evidencias/Fase_4/comparacion_baseline_clasificacion.png",
+            "extension": ".png"
+        },
+        {
+            "archivo": "results/evidencias/Fase_4/comparacion_baseline_regresion.png",
+            "extension": ".png"
+        },
+        {
+            "archivo": "results/evidencias/Fase_4/comparacion_estandarizacion.png",
+            "extension": ".png"
+        },
+        {
+            "archivo": "results/evidencias/Fase_4/comparacion_winsorization.png",
+            "extension": ".png"
+        },
+        {
+            "archivo": "results/evidencias/Fase_4/completitud_datos.png",
+            "extension": ".png"
+        },
+        {
+            "archivo": "results/evidencias/Fase_4/curvas_roc_baseline.png",
+            "extension": ".png"
+        },
+        {
+            "archivo": "results/evidencias/Fase_4/deteccion_outliers.png",
+            "extension": ".png"
+        },
+        {
+            "archivo": "results/evidencias/Fase_4/ingenieria_caracteristicas.png",
+            "extension": ".png"
+        },
+        {
+            "archivo": "results/evidencias/Fase_4/matrices_baseline_clasificacion.png",
+            "extension": ".png"
+        },
+        {
+            "archivo": "results/evidencias/Fase_4/particion_estratificada.png",
+            "extension": ".png"
+        },
+        {
+            "archivo": "results/evidencias/Fase_4/predicciones_baseline_regresion.png",
+            "extension": ".png"
+        },
+        {
+            "archivo": "results/resultados/Fase_2/imagenes_originales/celda_09_salida_02.png",
+            "extension": ".png"
+        },
+        {
+            "archivo": "results/resultados/Fase_2/imagenes_originales/celda_21_salida_02.png",
+            "extension": ".png"
+        },
+        {
+            "archivo": "results/resultados/Fase_2/imagenes_originales/celda_23_salida_01.png",
+            "extension": ".png"
+        },
+        {
+            "archivo": "results/resultados/Fase_2/imagenes_originales/celda_23_salida_02.png",
+            "extension": ".png"
+        },
+        {
+            "archivo": "results/resultados/Fase_2/imagenes_originales/celda_23_salida_03.png",
+            "extension": ".png"
+        },
+        {
+            "archivo": "results/resultados/Fase_3/imagenes_originales/celda_13_salida_02.png",
+            "extension": ".png"
+        },
+        {
+            "archivo": "results/resultados/Fase_3/imagenes_originales/celda_25_salida_02.png",
+            "extension": ".png"
+        },
+        {
+            "archivo": "results/resultados/Fase_3/imagenes_originales/celda_30_salida_03.png",
+            "extension": ".png"
+        },
+        {
+            "archivo": "results/resultados/Fase_3/imagenes_originales/celda_32_salida_05.png",
+            "extension": ".png"
+        },
+        {
+            "archivo": "results/resultados/Fase_3/imagenes_originales/celda_36_salida_03.png",
+            "extension": ".png"
+        },
+        {
+            "archivo": "results/resultados/Fase_3/imagenes_originales/celda_38_salida_03.png",
+            "extension": ".png"
+        },
+        {
+            "archivo": "results/resultados/Fase_3/imagenes_originales/celda_40_salida_03.png",
+            "extension": ".png"
+        },
+        {
+            "archivo": "results/resultados/Fase_3/imagenes_originales/celda_42_salida_03.png",
+            "extension": ".png"
+        },
+        {
+            "archivo": "results/resultados/Fase_4/imagenes_originales/analisis_desbalance.png",
+            "extension": ".png"
+        },
+        {
+            "archivo": "results/resultados/Fase_4/imagenes_originales/comparacion_baseline_clasificacion.png",
+            "extension": ".png"
+        },
+        {
+            "archivo": "results/resultados/Fase_4/imagenes_originales/comparacion_baseline_regresion.png",
+            "extension": ".png"
+        },
+        {
+            "archivo": "results/resultados/Fase_4/imagenes_originales/comparacion_estandarizacion.png",
+            "extension": ".png"
+        },
+        {
+            "archivo": "results/resultados/Fase_4/imagenes_originales/comparacion_winsorization.png",
+            "extension": ".png"
+        },
+        {
+            "archivo": "results/resultados/Fase_4/imagenes_originales/completitud_datos.png",
+            "extension": ".png"
+        },
+        {
+            "archivo": "results/resultados/Fase_4/imagenes_originales/curvas_roc_baseline.png",
+            "extension": ".png"
+        },
+        {
+            "archivo": "results/resultados/Fase_4/imagenes_originales/deteccion_outliers.png",
+            "extension": ".png"
+        },
+        {
+            "archivo": "results/resultados/Fase_4/imagenes_originales/ingenieria_caracteristicas.png",
+            "extension": ".png"
+        },
+        {
+            "archivo": "results/resultados/Fase_4/imagenes_originales/matrices_baseline_clasificacion.png",
+            "extension": ".png"
+        },
+        {
+            "archivo": "results/resultados/Fase_4/imagenes_originales/particion_estratificada.png",
+            "extension": ".png"
+        },
+        {
+            "archivo": "results/resultados/Fase_4/imagenes_originales/predicciones_baseline_regresion.png",
+            "extension": ".png"
+        }
+    ],
+    "errores_lectura": [],
+    "archivos_originales_modificados": false,
+    "modelos_reentrenados": 0,
+    "revision_manual_completada": false
+}

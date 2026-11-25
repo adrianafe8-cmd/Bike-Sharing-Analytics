@@ -1,0 +1,67 @@
+[
+    {
+        "fase": "fase2",
+        "notebook_original": "notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 2/Proyecto_Integrador_Bicicletas_Final.ipynb",
+        "notebook_reproducible": "notebooks/reproducibles/02_Regresion_Bicicletas_Reproducible.ipynb",
+        "celdas_totales": 37,
+        "celdas_codigo": 20,
+        "celdas_originales_adaptadas": [
+            2,
+            3,
+            5,
+            34
+        ],
+        "cambios": [
+            "Instalación no versionada retirada",
+            "Ruta de resultados adaptada",
+            "Carga local de day.csv",
+            "Exportación portable de evidencias"
+        ],
+        "sintaxis_ok": true,
+        "sha256_original": "22dcb37a0156bf2c8bba271de5a627e47fd5133fc495c4ca1de47c2342fe20e9",
+        "sha256_reproducible": "fbf6e4e3b6795d3e52d35b27a09db55f77ed2c6b5ace2d650051614437f11575",
+        "original_conservado": true,
+        "ejecucion_validada": true
+    },
+    {
+        "fase": "fase3",
+        "notebook_original": "notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 3/Fase_3_Modelado_Avanzado_Bicicletas.ipynb",
+        "notebook_reproducible": "notebooks/reproducibles/03_Modelado_Avanzado_Reproducible.ipynb",
+        "celdas_totales": 47,
+        "celdas_codigo": 24,
+        "celdas_originales_adaptadas": [
+            2
+        ],
+        "cambios": [
+            "Ruta de resultados adaptada",
+            "Descarga UCI sustituida por dataset local"
+        ],
+        "sintaxis_ok": true,
+        "sha256_original": "c0063dd1eb859d648eaecf1e6bbd4efe60cb746b997947349fe35fa5bf16c2fb",
+        "sha256_reproducible": "71e9a46f4898df2ae7cf60e8b182667dd671075b5603c2ec81034cafeda5acbe",
+        "original_conservado": true,
+        "ejecucion_validada": true
+    },
+    {
+        "fase": "fase4",
+        "notebook_original": "notebooks/04_Preprocesamiento_Bicicletas.ipynb",
+        "notebook_reproducible": "notebooks/reproducibles/04_Preprocesamiento_Reproducible.ipynb",
+        "celdas_totales": 33,
+        "celdas_codigo": 17,
+        "celdas_originales_adaptadas": [
+            2,
+            31
+        ],
+        "cambios": [
+            "Ruta de resultados adaptada",
+            "Descarga y extracción ZIP sustituidas",
+            "Descarga Colab retirada"
+        ],
+        "sintaxis_ok": true,
+        "sha256_original": "bdb645dd3c5734b7011cb3a6b6d090319279b47c19a299f03b25bcd93a26dfcc",
+        "sha256_reproducible": "95a4ba3797e8760fea152805d4bc1e9fb3e72800c74b779045168589fce7d34a",
+        "original_conservado": true,
+        "ejecucion_validada": true,
+        "correccion_posterior": "Ruta de verificación del dataset"
+    }
+]

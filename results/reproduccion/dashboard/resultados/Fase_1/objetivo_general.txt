@@ -1,0 +1,6 @@
+
+Caracterizar la demanda diaria de bicicletas compartidas
+durante 2011 y 2012 mediante técnicas de análisis
+exploratorio, estadística descriptiva y evaluación de
+calidad de datos, con el propósito de establecer una base
+analítica para las fases posteriores de modelado predictivo.

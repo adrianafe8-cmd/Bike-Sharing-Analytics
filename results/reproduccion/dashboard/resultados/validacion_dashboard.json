@@ -1,0 +1,15 @@
+{
+    "pestanas": 5,
+    "graficas": 47,
+    "tablas": 41,
+    "imagenes": 25,
+    "callbacks": 2,
+    "pruebas_filtros": 18,
+    "pruebas_navegacion": 5,
+    "endpoints": {
+        "/": 200,
+        "/_dash-layout": 200,
+        "/_dash-dependencies": 200
+    },
+    "modelos_reentrenados": 0
+}

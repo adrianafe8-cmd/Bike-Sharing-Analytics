@@ -1,0 +1,5 @@
+﻿Fase,Componente,Graficas_interactivas,Imagenes_originales,Procedencia,Estado
+Fase 1,Análisis exploratorio de datos,12,0,EDA reconstruido desde el dataset,Consolidado y complementado
+Fase 2,Regresión simple y múltiple,6,5,Notebook original,Consolidado
+Fase 3,Modelado avanzado,8,8,Notebook original,Consolidado
+Fase 4,Preprocesamiento y baseline,13,12,Archivos CSV originales,Consolidado

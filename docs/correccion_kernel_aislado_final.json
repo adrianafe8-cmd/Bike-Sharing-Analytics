@@ -1,0 +1,9 @@
+{
+    "configuracion_jupyter_aislada": true,
+    "kernel_estandar_ipython": true,
+    "desactivacion_extensiones_configurada": true,
+    "codigo_retorno": 0,
+    "prueba_kernel_superada": true,
+    "notebooks_fuente_modificados": 0,
+    "modelos_reentrenados": 0
+}

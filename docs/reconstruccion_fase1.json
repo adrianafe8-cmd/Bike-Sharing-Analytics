@@ -1,0 +1,11 @@
+{
+    "fase": "fase1",
+    "tipo": "Reconstrucción independiente",
+    "notebook": "notebooks/reproducibles/01_EDA_Bicicletas_Reconstruido.ipynb",
+    "celdas_totales": 18,
+    "celdas_codigo": 9,
+    "sintaxis_ok": true,
+    "sha256": "330cc6f9fae5c6c6943ff541cdfeed24a725dea59b4fe037667121c227b3cdb1",
+    "ejecucion_validada": false,
+    "modelos_reentrenados": 0
+}

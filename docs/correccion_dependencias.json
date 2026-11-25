@@ -1,0 +1,9 @@
+{
+    "python": "3.13.18 (main, Oct 26 2026, 15:28:15) [GCC 13.3.0]",
+    "jedi": "0.19.2",
+    "dependencias_declaradas": 18,
+    "pip_check_ok": true,
+    "resultado_pip_check": "No broken requirements found.",
+    "modelos_reentrenados": 0,
+    "reproducibilidad_integral": false
+}

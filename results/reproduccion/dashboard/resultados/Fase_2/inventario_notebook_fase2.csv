@@ -1,0 +1,36 @@
+﻿Celda,Tipo,Ejecucion,Cantidad_salidas,Contenido
+1,markdown,,0,# Proyecto Integrador — Predicción de demanda de bicicletas **Universidad de La Salle · Ciencia de Datos · 15 de noviembre de 2026**  **Fuente:** UCI Bike Sharing (`day.csv`). **Ob
+2,code,1.0,0,%pip -q install pandas numpy matplotlib seaborn plotly scikit-learn nbformat statsmodels
+3,code,2.0,1,"import io, zipfile, urllib.request, subprocess, shutil from pathlib import Path import numpy as np import pandas as pd import matplotlib.pyplot as plt import seaborn as sns import "
+4,markdown,,0,"## 1. Descarga y examen de `day.csv` Se intenta descargar desde UCI; si falla, se solicita cargar el archivo manualmente."
+5,code,3.0,3,"url = 'https://archive.ics.uci.edu/static/public/275/bike+sharing+dataset.zip' try:     with urllib.request.urlopen(url, timeout=60) as respuesta:         with zipfile.ZipFile(io.B"
+6,markdown,,0,"## 2. Calidad, nulos y mecanismos MCAR/MAR/MNAR **MCAR:** ausencia independiente de variables observadas y no observadas; **MAR:** ausencia explicable por variables observadas; **M"
+7,code,4.0,2,"requeridas = ['instant','dteday','season','yr','mnth','holiday','weekday','workingday','weathersit','temp','atemp','hum','windspeed','casual','registered','cnt'] assert set(requeri"
+8,markdown,,0,"## 3. Detección y decisión sobre outliers El método IQR detecta observaciones fuera de Q1 − 1,5×IQR y Q3 + 1,5×IQR. Se inspeccionan `cnt`, `temp`, `hum` y `windspeed` **solo para d"
+9,code,5.0,3,"variables_outliers=['cnt','temp','hum','windspeed'] filas=[] for variable in variables_outliers:     q1,q3=df[variable].quantile([.25,.75]); iqr=q3-q1     li,ls=q1-1.5*iqr,q3+1.5*i"
+10,markdown,,0,"## 4. Ingeniería de características - `fin_de_semana`: indicador de sábado/domingo, para capturar movilidad recreativa. - `temp_hum_interaccion`: producto de temperatura y humedad "
+11,code,6.0,2,df_modelo=df.copy() df_modelo['fin_de_semana']=(df_modelo.dteday.dt.weekday>=5).astype(int) df_modelo['temp_hum_interaccion']=df_modelo['temp']*df_modelo['hum'] assert df_modelo.fi
+12,markdown,,0,"## 5. División cronológica 70/15/15 Se respeta el orden temporal: entrenamiento para ajustar parámetros, validación para comparar modelos y prueba **una sola vez** para evaluar el "
+13,code,7.0,1,df_modelo=df_modelo.sort_values('dteday').reset_index(drop=True) n=len(df_modelo);n_train=int(n*.70);n_val=int(n*.15) train_df=df_modelo.iloc[:n_train].copy() val_df=df_modelo.iloc
+14,markdown,,0,## 6. Codificación y escalamiento sin fuga de información `StandardScaler` para continuas y `OneHotEncoder` para categóricas. Se llama a `fit_transform` **solo con entrenamiento** 
+15,code,8.0,1,"variables_numericas=['temp','hum','windspeed','temp_hum_interaccion'] variables_categoricas=['season','weathersit','workingday','yr','fin_de_semana'] variables_modelo=variables_num"
+16,markdown,,0,## 7. Modelo baseline: regresión lineal simple Se ajusta con `temp` exclusivamente en entrenamiento y se evalúa sobre validación. Es una referencia simple para comparar modelos; no
+17,code,9.0,2,"modelo_baseline=LinearRegression().fit(train_df[['temp']],y_train) pred_baseline_val=modelo_baseline.predict(val_df[['temp']]) def metricas(real,pred):     return {'MAE':mean_absol"
+18,markdown,,0,## 8. Modelo múltiple y selección con validación Se entrena con las características procesadas. El criterio primario de selección es **MAE de validación**; también se reportan RMSE
+19,code,10.0,2,"modelo_multiple=LinearRegression().fit(X_train_procesado,y_train) pred_multiple_val=modelo_multiple.predict(X_val_procesado) met_multiple=metricas(y_val,pred_multiple_val) mae_mult"
+20,markdown,,0,"## 9. Evaluación final en prueba Una vez seleccionado el modelo en validación, se usa el conjunto de prueba **sin reentrenar ni reajustar el preprocesamiento**. Las métricas de pru"
+21,code,11.0,3,if modelo_elegido=='multiple':     pred_test=modelo_multiple.predict(X_test_procesado)     met_val=met_multiple else:     pred_test=modelo_baseline.predict(test_df[['temp']])     m
+22,markdown,,0,## 10. Diagnóstico y gráficos complementarios Los residuos (`real − predicho`) permiten detectar sesgo y valores extremos. Los gráficos de exploración describen el conjunto de dato
+23,code,12.0,3,"fig,axs=plt.subplots(1,2,figsize=(12,4)) axs[0].scatter(resultados.cnt,resultados.prediccion,alpha=.65) lo=min(resultados.cnt.min(),resultados.prediccion.min());hi=max(resultados.c"
+24,markdown,,0,"## 11. Visualización interactiva y dashboard (Plotly) Se conservan las funcionalidades del notebook original, adaptadas a las predicciones y particiones **70/15/15**."
+25,code,13.0,1,"fig=go.Figure() fig.add_trace(go.Scatter(x=resultados.dteday,y=resultados.cnt,name='Real',mode='lines+markers')) fig.add_trace(go.Scatter(x=resultados.dteday,y=resultados.prediccio"
+26,code,14.0,1,"from plotly.subplots import make_subplots panel=make_subplots(rows=2,cols=2,specs=[[{'colspan':2},None],[{},{}]],subplot_titles=('Demanda diaria','Distribución de alquileres','Temp"
+27,markdown,,0,"## 12. Análisis complementario en R (opcional) El notebook original incluía `lm()` y `ggplot2`. Para conservarlos **sin crear otra partición**, exportamos las **mismas matrices de "
+28,code,15.0,1,nombres=preprocesador.get_feature_names_out().tolist() # Renombramos columnas para que los nombres sean seguros para fórmulas de R. nombres_r=[f'x{i:02d}' for i in range(len(nombre
+29,code,16.0,1,if shutil.which('Rscript') is None:     print('Rscript no está instalado. En Colab puede instalarse con:')     print('!apt-get update -qq && apt-get install -y -qq r-base-core r-cr
+30,code,17.0,1,"codigo_r = r'''args <- commandArgs(trailingOnly=TRUE) ruta <- args[1] train <- read.csv(file.path(ruta,'r_entrenamiento.csv'),check.names=FALSE) test <- read.csv(file.path(ruta,'r_"
+31,markdown,,0,"## 13. Conclusiones basadas en resultados Se calculan a partir de las métricas obtenidas, evitando conclusiones predeterminadas. El cambio temporal entre 2011 y 2012 y la dificulta"
+32,code,18.0,1,"print('=== RESUMEN REPRODUCIBLE ===') print('Datos:',len(df),'registros; nulos:',int(df.isna().sum().sum())) print('Partición:',len(train_df),'entrenamiento,',len(val_df),'validaci"
+33,markdown,,0,"## 14. Exportación de evidencias El ZIP incluye CSV, figuras, HTML interactivo y script R. El `.ipynb` se descarga por separado desde **Archivo → Descargar → Descargar .ipynb** en "
+34,code,19.0,3,"archivo_zip=shutil.make_archive('evidencias_proyecto_integrador_bicicletas','zip',root_dir=SALIDA) print('Evidencias:',archivo_zip) for archivo in sorted(SALIDA.iterdir()): print('"
+35,markdown,,0,"## Referencias - Fanaee-T, H. (2013). *Bike Sharing* [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5W894 - Scikit-learn Developers. *ColumnTransformer, Pipe"

@@ -1,0 +1,5 @@
+﻿Modelo,MAE,RMSE,R2,Conjunto
+Ridge,730.4686,919.6018,-0.1677,Validación
+Random Forest,672.4859,831.3365,0.0457,Validación
+Ridge,938.573,1232.4841,0.6215,Prueba
+Random Forest,1210.5284,1386.5265,0.521,Prueba

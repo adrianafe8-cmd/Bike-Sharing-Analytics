@@ -1,0 +1,62 @@
+
+# ==========================================================
+# DASHBOARD GLOBAL - CELDA 2
+# Instalación de dependencias
+# ==========================================================
+
+%pip install -q dash dash-bootstrap-components plotly
+
+# Importación de bibliotecas
+
+import sys
+import pandas as pd
+import numpy as np
+import scipy
+import sklearn
+import plotly
+import dash
+import dash_bootstrap_components as dbc
+
+from pathlib import Path
+from dash import Dash, dcc, html, Input, Output
+import plotly.express as px
+import plotly.graph_objects as go
+
+# Configuración de reproducibilidad
+
+SEMILLA = 42
+np.random.seed(SEMILLA)
+
+# Directorios del proyecto
+
+BASE = Path("/content/Dashboard_Global_Bicicletas")
+
+DATOS = BASE / "datos"
+EVIDENCIAS = BASE / "evidencias"
+RESULTADOS = BASE / "resultados"
+
+for carpeta in [DATOS, EVIDENCIAS, RESULTADOS]:
+    carpeta.mkdir(parents=True, exist_ok=True)
+
+# Verificación del entorno
+
+print("=" * 60)
+print("DASHBOARD GLOBAL - ENTORNO DE EJECUCIÓN")
+print("=" * 60)
+
+print("Python:", sys.version.split()[0])
+print("Pandas:", pd.__version__)
+print("NumPy:", np.__version__)
+print("SciPy:", scipy.__version__)
+print("Scikit-learn:", sklearn.__version__)
+print("Plotly:", plotly.__version__)
+print("Dash:", dash.__version__)
+print("Dash Bootstrap:", dbc.__version__)
+print("Semilla:", SEMILLA)
+
+print("\n=== DIRECTORIOS DEL PROYECTO ===")
+
+for carpeta in [BASE, DATOS, EVIDENCIAS, RESULTADOS]:
+    print("OK:", carpeta)
+
+print("\nEntorno configurado correctamente.")

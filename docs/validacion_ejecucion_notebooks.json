@@ -1,0 +1,68 @@
+[
+    {
+        "fase": "fase1",
+        "notebook": "01_EDA_Bicicletas_Reconstruido.ipynb",
+        "estado": "OK",
+        "duracion_segundos": 16.88,
+        "celdas_codigo": 9,
+        "celdas_ejecutadas": 9,
+        "errores_celdas": [],
+        "error_ejecucion": null,
+        "notebook_fuente_conservado": true,
+        "kernel_independiente": true,
+        "evidencia": "results/validacion/notebooks/fase1_ejecutado.ipynb"
+    },
+    {
+        "fase": "fase2",
+        "notebook": "02_Regresion_Bicicletas_Reproducible.ipynb",
+        "estado": "OK",
+        "duracion_segundos": 20.0,
+        "celdas_codigo": 20,
+        "celdas_ejecutadas": 20,
+        "errores_celdas": [],
+        "error_ejecucion": null,
+        "notebook_fuente_conservado": true,
+        "kernel_independiente": true,
+        "evidencia": "results/validacion/notebooks/fase2_ejecutado.ipynb"
+    },
+    {
+        "fase": "fase3",
+        "notebook": "03_Modelado_Avanzado_Reproducible.ipynb",
+        "estado": "OK",
+        "duracion_segundos": 57.89,
+        "celdas_codigo": 24,
+        "celdas_ejecutadas": 24,
+        "errores_celdas": [],
+        "error_ejecucion": null,
+        "notebook_fuente_conservado": true,
+        "kernel_independiente": true,
+        "evidencia": "results/validacion/notebooks/fase3_ejecutado.ipynb"
+    },
+    {
+        "fase": "fase4",
+        "notebook": "04_Preprocesamiento_Reproducible.ipynb",
+        "estado": "OK",
+        "duracion_segundos": 27.4,
+        "celdas_codigo": 17,
+        "celdas_ejecutadas": 17,
+        "errores_celdas": [],
+        "error_ejecucion": null,
+        "notebook_fuente_conservado": true,
+        "kernel_independiente": true,
+        "evidencia": "results/validacion/notebooks/fase4_ejecutado.ipynb",
+        "correccion_aplicada": "Ruta de verificación del dataset"
+    },
+    {
+        "fase": "dashboard",
+        "notebook": "05_Dashboard_Global_Reproducible.ipynb",
+        "estado": "OK",
+        "duracion_segundos": 23.71,
+        "celdas_codigo": 23,
+        "celdas_ejecutadas": 23,
+        "errores_celdas": [],
+        "error_ejecucion": null,
+        "notebook_fuente_conservado": true,
+        "kernel_independiente": true,
+        "evidencia": "results/validacion/notebooks/dashboard_ejecutado.ipynb"
+    }
+]

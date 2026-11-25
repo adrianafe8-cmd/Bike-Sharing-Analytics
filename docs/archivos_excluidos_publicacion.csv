@@ -1,0 +1,694 @@
+ruta,tamano_MiB,motivo
+docs/inventario_final_repositorio.csv,0.199929,Respaldo o inventario anterior
+docs/manifiesto_integridad.json,0.054243,Respaldo o inventario anterior
+results/reproduccion/dashboard/resultados/Fase_1/graficas/boxplot_clima.html,4.468317,HTML individual regenerable
+results/reproduccion/dashboard/resultados/Fase_1/graficas/calidad_datos.html,4.356041,HTML individual regenerable
+results/reproduccion/dashboard/resultados/Fase_1/graficas/chi_cuadrado.html,4.357422,HTML individual regenerable
+results/reproduccion/dashboard/resultados/Fase_1/graficas/comparacion_outliers.html,4.356221,HTML individual regenerable
+results/reproduccion/dashboard/resultados/Fase_1/graficas/correlacion_pearson.html,4.356893,HTML individual regenerable
+results/reproduccion/dashboard/resultados/Fase_1/graficas/correlacion_spearman.html,4.356884,HTML individual regenerable
+results/reproduccion/dashboard/resultados/Fase_1/graficas/demanda_clima.html,4.357288,HTML individual regenerable
+results/reproduccion/dashboard/resultados/Fase_1/graficas/demanda_estacion.html,4.368279,HTML individual regenerable
+results/reproduccion/dashboard/resultados/Fase_1/graficas/dispersion_temperatura.html,4.402287,HTML individual regenerable
+results/reproduccion/dashboard/resultados/Fase_1/graficas/factores_demanda.html,4.356565,HTML individual regenerable
+results/reproduccion/dashboard/resultados/Fase_1/graficas/histograma_demanda.html,4.363706,HTML individual regenerable
+results/reproduccion/dashboard/resultados/Fase_1/graficas/outliers.html,4.356004,HTML individual regenerable
+results/reproduccion/dashboard/resultados/Fase_2/graficas/comparacion_modelos.html,4.356312,HTML individual regenerable
+results/reproduccion/dashboard/resultados/Fase_2/graficas/comparacion_r2.html,4.356565,HTML individual regenerable
+results/reproduccion/dashboard/resultados/Fase_2/graficas/evaluacion_final.html,4.356244,HTML individual regenerable
+results/reproduccion/dashboard/resultados/Fase_2/graficas/mejora_mae.html,4.355352,HTML individual regenerable
+results/reproduccion/dashboard/resultados/Fase_2/graficas/particion_datos.html,4.355587,HTML individual regenerable
+results/reproduccion/dashboard/resultados/Fase_2/graficas/r2_evaluacion.html,4.356389,HTML individual regenerable
+results/reproduccion/dashboard/resultados/Fase_3/graficas/clasificacion_cv.html,4.35626,HTML individual regenerable
+results/reproduccion/dashboard/resultados/Fase_3/graficas/clasificacion_prueba.html,4.356348,HTML individual regenerable
+results/reproduccion/dashboard/resultados/Fase_3/graficas/clustering_ari.html,4.355342,HTML individual regenerable
+results/reproduccion/dashboard/resultados/Fase_3/graficas/clustering_silueta.html,4.356275,HTML individual regenerable
+results/reproduccion/dashboard/resultados/Fase_3/graficas/distribucion_clases.html,4.356389,HTML individual regenerable
+results/reproduccion/dashboard/resultados/Fase_3/graficas/regresion_errores.html,4.357615,HTML individual regenerable
+results/reproduccion/dashboard/resultados/Fase_3/graficas/regresion_r2.html,4.356381,HTML individual regenerable
+results/reproduccion/dashboard/resultados/Fase_3/graficas/validacion_temporal.html,4.356593,HTML individual regenerable
+results/reproduccion/dashboard/resultados/Fase_4/graficas/caracteristicas.html,4.355714,HTML individual regenerable
+results/reproduccion/dashboard/resultados/Fase_4/graficas/clasificacion_accuracy.html,4.356586,HTML individual regenerable
+results/reproduccion/dashboard/resultados/Fase_4/graficas/clasificacion_auc.html,4.356781,HTML individual regenerable
+results/reproduccion/dashboard/resultados/Fase_4/graficas/clasificacion_f1_macro.html,4.356582,HTML individual regenerable
+results/reproduccion/dashboard/resultados/Fase_4/graficas/clasificacion_prueba.html,4.356659,HTML individual regenerable
+results/reproduccion/dashboard/resultados/Fase_4/graficas/completitud.html,4.355352,HTML individual regenerable
+results/reproduccion/dashboard/resultados/Fase_4/graficas/cumplimiento.html,4.355705,HTML individual regenerable
+results/reproduccion/dashboard/resultados/Fase_4/graficas/estandarizacion.html,4.358691,HTML individual regenerable
+results/reproduccion/dashboard/resultados/Fase_4/graficas/outliers.html,4.356364,HTML individual regenerable
+results/reproduccion/dashboard/resultados/Fase_4/graficas/particiones.html,4.357103,HTML individual regenerable
+results/reproduccion/dashboard/resultados/Fase_4/graficas/regresion_errores.html,4.358232,HTML individual regenerable
+results/reproduccion/dashboard/resultados/Fase_4/graficas/regresion_r2.html,4.356656,HTML individual regenerable
+results/reproduccion/dashboard/resultados/Fase_4/graficas/winsorization.html,4.358563,HTML individual regenerable
+results/reproduccion/dashboard/resultados/Resumen_Ejecutivo/graficas/clasificacion_por_fase.html,4.358497,HTML individual regenerable
+results/reproduccion/dashboard/resultados/Resumen_Ejecutivo/graficas/demanda_anual.html,4.35621,HTML individual regenerable
+results/reproduccion/dashboard/resultados/Resumen_Ejecutivo/graficas/demanda_diaria.html,4.374747,HTML individual regenerable
+results/reproduccion/dashboard/resultados/Resumen_Ejecutivo/graficas/demanda_mensual.html,4.356498,HTML individual regenerable
+results/reproduccion/dashboard/resultados/Resumen_Ejecutivo/graficas/evidencias_por_fase.html,4.356172,HTML individual regenerable
+results/reproduccion/dashboard/resultados/Resumen_Ejecutivo/graficas/regresion_global_r2.html,4.357047,HTML individual regenerable
+results/reproduccion/dashboard/resultados/Resumen_Ejecutivo/graficas/regresion_global_rmse.html,4.357128,HTML individual regenerable
+results/reproduccion/dashboard/resultados/Resumen_Ejecutivo/graficas/tipo_usuario.html,4.355556,HTML individual regenerable
+results/reproduccion/fase2/06_comparacion_interactiva.html,4.362328,HTML individual regenerable
+results/reproduccion/fase2/07_dashboard_interactivo.html,4.38851,HTML individual regenerable
+results/resultados/Fase_1/graficas/boxplot_clima.html,4.462702,HTML individual regenerable
+results/resultados/Fase_1/graficas/calidad_datos.html,4.356041,HTML individual regenerable
+results/resultados/Fase_1/graficas/chi_cuadrado.html,4.357407,HTML individual regenerable
+results/resultados/Fase_1/graficas/comparacion_outliers.html,4.35621,HTML individual regenerable
+results/resultados/Fase_1/graficas/correlacion_pearson.html,4.356889,HTML individual regenerable
+results/resultados/Fase_1/graficas/correlacion_spearman.html,4.35688,HTML individual regenerable
+results/resultados/Fase_1/graficas/demanda_clima.html,4.357285,HTML individual regenerable
+results/resultados/Fase_1/graficas/demanda_estacion.html,4.367577,HTML individual regenerable
+results/resultados/Fase_1/graficas/dispersion_temperatura.html,4.401593,HTML individual regenerable
+results/resultados/Fase_1/graficas/factores_demanda.html,4.356558,HTML individual regenerable
+results/resultados/Fase_1/graficas/histograma_demanda.html,4.363702,HTML individual regenerable
+results/resultados/Fase_1/graficas/outliers.html,4.356,HTML individual regenerable
+results/resultados/Fase_2/graficas/comparacion_modelos.html,4.356281,HTML individual regenerable
+results/resultados/Fase_2/graficas/comparacion_r2.html,4.356501,HTML individual regenerable
+results/resultados/Fase_2/graficas/evaluacion_final.html,4.356225,HTML individual regenerable
+results/resultados/Fase_2/graficas/mejora_mae.html,4.355345,HTML individual regenerable
+results/resultados/Fase_2/graficas/particion_datos.html,4.355576,HTML individual regenerable
+results/resultados/Fase_2/graficas/r2_evaluacion.html,4.356355,HTML individual regenerable
+results/resultados/Fase_3/graficas/clasificacion_cv.html,4.356256,HTML individual regenerable
+results/resultados/Fase_3/graficas/clasificacion_prueba.html,4.35634,HTML individual regenerable
+results/resultados/Fase_3/graficas/clustering_ari.html,4.355338,HTML individual regenerable
+results/resultados/Fase_3/graficas/clustering_silueta.html,4.356275,HTML individual regenerable
+results/resultados/Fase_3/graficas/distribucion_clases.html,4.356374,HTML individual regenerable
+results/resultados/Fase_3/graficas/regresion_errores.html,4.3576,HTML individual regenerable
+results/resultados/Fase_3/graficas/regresion_r2.html,4.356359,HTML individual regenerable
+results/resultados/Fase_3/graficas/validacion_temporal.html,4.356589,HTML individual regenerable
+results/resultados/Fase_4/graficas/caracteristicas.html,4.355699,HTML individual regenerable
+results/resultados/Fase_4/graficas/clasificacion_accuracy.html,4.356541,HTML individual regenerable
+results/resultados/Fase_4/graficas/clasificacion_auc.html,4.356735,HTML individual regenerable
+results/resultados/Fase_4/graficas/clasificacion_f1_macro.html,4.356536,HTML individual regenerable
+results/resultados/Fase_4/graficas/clasificacion_prueba.html,4.356621,HTML individual regenerable
+results/resultados/Fase_4/graficas/completitud.html,4.355352,HTML individual regenerable
+results/resultados/Fase_4/graficas/cumplimiento.html,4.355701,HTML individual regenerable
+results/resultados/Fase_4/graficas/estandarizacion.html,4.358665,HTML individual regenerable
+results/resultados/Fase_4/graficas/outliers.html,4.35636,HTML individual regenerable
+results/resultados/Fase_4/graficas/particiones.html,4.357058,HTML individual regenerable
+results/resultados/Fase_4/graficas/regresion_errores.html,4.358174,HTML individual regenerable
+results/resultados/Fase_4/graficas/regresion_r2.html,4.356622,HTML individual regenerable
+results/resultados/Fase_4/graficas/winsorization.html,4.358518,HTML individual regenerable
+results/resultados/Resumen_Ejecutivo/graficas/clasificacion_por_fase.html,4.358432,HTML individual regenerable
+results/resultados/Resumen_Ejecutivo/graficas/demanda_anual.html,4.356191,HTML individual regenerable
+results/resultados/Resumen_Ejecutivo/graficas/demanda_diaria.html,4.374743,HTML individual regenerable
+results/resultados/Resumen_Ejecutivo/graficas/demanda_mensual.html,4.356483,HTML individual regenerable
+results/resultados/Resumen_Ejecutivo/graficas/evidencias_por_fase.html,4.356172,HTML individual regenerable
+results/resultados/Resumen_Ejecutivo/graficas/regresion_global_r2.html,4.35702,HTML individual regenerable
+results/resultados/Resumen_Ejecutivo/graficas/regresion_global_rmse.html,4.357094,HTML individual regenerable
+results/resultados/Resumen_Ejecutivo/graficas/tipo_usuario.html,4.355552,HTML individual regenerable
+results/validacion/dashboard_previo_1795633694831647237/README.md,0.002486,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/datos/bike_sharing_dataset.zip,0.021997,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/datos/day.csv,0.054902,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/evidencias/Fase_4/analisis_desbalance.png,0.036893,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/evidencias/Fase_4/categorias_aprendidas.csv,0.00095,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/evidencias/Fase_4/categorias_desconocidas.csv,0.001445,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/evidencias/Fase_4/comparacion_baseline_clasificacion.png,0.072564,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/evidencias/Fase_4/comparacion_baseline_regresion.png,0.053908,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/evidencias/Fase_4/comparacion_estandarizacion.png,0.109234,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/evidencias/Fase_4/comparacion_winsorization.png,0.079838,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/evidencias/Fase_4/completitud_datos.png,0.057047,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/evidencias/Fase_4/cumplimiento_requerimientos.csv,0.000904,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/evidencias/Fase_4/curvas_roc_baseline.png,0.081923,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/evidencias/Fase_4/detalle_outliers.csv,0.000845,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/evidencias/Fase_4/deteccion_outliers.png,0.064854,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/evidencias/Fase_4/entorno_ejecucion.json,0.000165,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/evidencias/Fase_4/estrategia_balanceo.csv,0.000245,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/evidencias/Fase_4/estrategia_outliers.csv,0.000116,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/evidencias/Fase_4/identificacion_dataset.json,0.000156,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/evidencias/Fase_4/ingenieria_caracteristicas.png,0.052879,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/evidencias/Fase_4/limites_winsorization.csv,0.000223,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/evidencias/Fase_4/matrices_baseline_clasificacion.png,0.043148,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/evidencias/Fase_4/matrices_finales.csv,0.000248,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/evidencias/Fase_4/metricas_baseline_clasificacion.csv,0.000864,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/evidencias/Fase_4/metricas_baseline_regresion.csv,0.000518,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/evidencias/Fase_4/parametros_standardscaler.csv,0.000871,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/evidencias/Fase_4/particion_estratificada.png,0.045341,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/evidencias/Fase_4/pesos_clases.csv,8.2e-05,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/evidencias/Fase_4/predicciones_baseline_regresion.png,0.078138,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/evidencias/Fase_4/resultados_codificacion.csv,0.000256,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/evidencias/Fase_4/resultados_winsorization.csv,0.000651,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/evidencias/Fase_4/resumen_final_clasificacion.csv,0.000302,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/evidencias/Fase_4/resumen_final_regresion.csv,0.000166,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/evidencias/Fase_4/resumen_mejoras.csv,0.000191,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/evidencias/Fase_4/resumen_preparacion.csv,0.000309,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/evidencias/Fase_4/verificacion_estandarizacion.csv,0.000868,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/evidencias/Fases_2_3/fase 2 y fase 3/fase 2/Informe_Regresion_Bicicletas fase 2.pdf,0.618274,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/evidencias/Fases_2_3/fase 2 y fase 3/fase 2/Proyecto_Integrador_Bicicletas_Final.ipynb,0.664644,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/evidencias/Fases_2_3/fase 2 y fase 3/fase 3/Fase_3_Modelado_Avanzado_Bicicletas.ipynb,0.691686,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/evidencias/Fases_2_3/fase 2 y fase 3/fase 3/Informe_Fase_3_Modelado_Avanzado_Bicicletas.pdf,0.598233,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/requirements.txt,0.000132,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_1/calidad_datos.csv,0.000427,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_1/comparacion_outliers.csv,0.000304,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_1/correlacion_demanda.csv,0.000199,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_1/correlacion_pearson.csv,0.000922,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_1/correlacion_spearman.csv,0.000913,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_1/detalle_zscore.csv,0.000531,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_1/diccionario_datos.csv,0.001379,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_1/documentacion_original.txt,0.005347,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_1/estadisticas_descriptivas.csv,0.001312,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_1/ficha_tecnica.csv,0.001307,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_1/formulacion_problema.txt,0.000477,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_1/frecuencias_categoricas.csv,0.000652,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_1/graficas/boxplot_clima.html,4.468317,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_1/graficas/boxplot_clima.json,0.119992,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_1/graficas/calidad_datos.html,4.356041,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_1/graficas/calidad_datos.json,0.007716,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_1/graficas/chi_cuadrado.html,4.357422,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_1/graficas/chi_cuadrado.json,0.009097,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_1/graficas/comparacion_outliers.html,4.35621,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_1/graficas/comparacion_outliers.json,0.007885,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_1/graficas/correlacion_pearson.html,4.356893,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_1/graficas/correlacion_pearson.json,0.008568,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_1/graficas/correlacion_spearman.html,4.356884,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_1/graficas/correlacion_spearman.json,0.008559,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_1/graficas/demanda_clima.html,4.357288,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_1/graficas/demanda_clima.json,0.008964,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_1/graficas/demanda_estacion.html,4.368279,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_1/graficas/demanda_estacion.json,0.019954,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_1/graficas/dispersion_temperatura.html,4.402287,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_1/graficas/dispersion_temperatura.json,0.053963,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_1/graficas/factores_demanda.html,4.356565,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_1/graficas/factores_demanda.json,0.008241,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_1/graficas/histograma_demanda.html,4.363706,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_1/graficas/histograma_demanda.json,0.015381,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_1/graficas/outliers.html,4.356004,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_1/graficas/outliers.json,0.007679,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_1/nota_metodologica_estaciones.txt,0.000256,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_1/objetivo_general.txt,0.000274,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_1/objetivos_smart.csv,0.000739,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_1/outliers_eda.csv,0.000589,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_1/outliers_zscore.csv,0.000193,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_1/preguntas_investigacion.csv,0.000422,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_1/pruebas_chi2.csv,0.000714,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_1/referencias_bibliograficas.txt,0.000286,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_1/verificacion_dias_semana.csv,8.5e-05,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_1/verificacion_estaciones.csv,0.00015,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_2/comparacion_modelos.csv,0.000123,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_2/evaluacion_final.csv,9.1e-05,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_2/graficas/comparacion_modelos.html,4.356281,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_2/graficas/comparacion_modelos.json,0.007957,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_2/graficas/comparacion_r2.html,4.356501,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_2/graficas/comparacion_r2.json,0.008176,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_2/graficas/evaluacion_final.html,4.356225,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_2/graficas/evaluacion_final.json,0.0079,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_2/graficas/mejora_mae.html,4.355345,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_2/graficas/mejora_mae.json,0.00702,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_2/graficas/particion_datos.html,4.355576,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_2/graficas/particion_datos.json,0.007251,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_2/graficas/r2_evaluacion.html,4.356355,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_2/graficas/r2_evaluacion.json,0.00803,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_2/imagenes_originales/celda_09_salida_02.png,0.04985,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_2/imagenes_originales/celda_21_salida_02.png,0.091022,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_2/imagenes_originales/celda_23_salida_01.png,0.061711,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_2/imagenes_originales/celda_23_salida_02.png,0.08908,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_2/imagenes_originales/celda_23_salida_03.png,0.070588,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_2/inventario_imagenes.csv,0.000774,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_2/inventario_notebook_fase2.csv,0.006515,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_2/metricas_detectadas_fase2.csv,0.002803,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_2/particion_datos.csv,0.000126,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_2/resultados_r.csv,0.000157,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_2/salidas_originales_fase2.csv,0.007904,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_3/distribucion_clases.csv,8.4e-05,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_3/errores_historicos_fase3.csv,2.6e-05,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_3/graficas/clasificacion_cv.html,4.356256,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_3/graficas/clasificacion_cv.json,0.007932,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_3/graficas/clasificacion_prueba.html,4.35634,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_3/graficas/clasificacion_prueba.json,0.008016,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_3/graficas/clustering_ari.html,4.355338,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_3/graficas/clustering_ari.json,0.007013,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_3/graficas/clustering_silueta.html,4.356275,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_3/graficas/clustering_silueta.json,0.00795,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_3/graficas/distribucion_clases.html,4.356374,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_3/graficas/distribucion_clases.json,0.008049,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_3/graficas/regresion_errores.html,4.3576,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_3/graficas/regresion_errores.json,0.009275,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_3/graficas/regresion_r2.html,4.356359,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_3/graficas/regresion_r2.json,0.008034,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_3/graficas/validacion_temporal.html,4.356589,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_3/graficas/validacion_temporal.json,0.008265,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_3/hiperparametros.csv,0.000244,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_3/imagenes_originales/celda_13_salida_02.png,0.033385,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_3/imagenes_originales/celda_25_salida_02.png,0.026299,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_3/imagenes_originales/celda_30_salida_03.png,0.059192,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_3/imagenes_originales/celda_32_salida_05.png,0.01998,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_3/imagenes_originales/celda_36_salida_03.png,0.029789,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_3/imagenes_originales/celda_38_salida_03.png,0.046671,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_3/imagenes_originales/celda_40_salida_03.png,0.062685,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_3/imagenes_originales/celda_42_salida_03.png,0.021386,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_3/indicadores_fase3.csv,0.000196,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_3/inventario_imagenes_fase3.csv,0.00122,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_3/inventario_notebook_fase3.csv,0.009453,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_3/metricas_clasificacion_cv.csv,5.1e-05,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_3/metricas_clasificacion_prueba.csv,0.000128,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_3/metricas_clustering.csv,6.7e-05,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_3/metricas_detectadas_fase3.csv,0.004881,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_3/metricas_regresion.csv,0.000201,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_3/resultados_clasificacion.csv,0.001771,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_3/resultados_clustering.csv,0.001281,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_3/resultados_regresion.csv,0.001286,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_3/resultados_validacion.csv,0.002233,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_3/salidas_originales_fase3.csv,0.010925,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_3/validacion_temporal.csv,0.000212,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_4/categorias_aprendidas.csv,0.00095,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_4/categorias_desconocidas.csv,0.001445,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_4/composicion_caracteristicas.csv,8e-05,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_4/conteo_outliers.csv,8.6e-05,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_4/cumplimiento_requerimientos.csv,0.000904,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_4/detalle_outliers.csv,0.000845,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_4/entorno_ejecucion.json,0.000165,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_4/estrategia_balanceo.csv,0.000245,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_4/estrategia_outliers.csv,0.000116,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_4/graficas/caracteristicas.html,4.355699,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_4/graficas/caracteristicas.json,0.007374,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_4/graficas/clasificacion_accuracy.html,4.356541,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_4/graficas/clasificacion_accuracy.json,0.008216,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_4/graficas/clasificacion_auc.html,4.356735,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_4/graficas/clasificacion_auc.json,0.00841,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_4/graficas/clasificacion_f1_macro.html,4.356536,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_4/graficas/clasificacion_f1_macro.json,0.008211,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_4/graficas/clasificacion_prueba.html,4.356621,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_4/graficas/clasificacion_prueba.json,0.008296,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_4/graficas/completitud.html,4.355352,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_4/graficas/completitud.json,0.007028,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_4/graficas/cumplimiento.html,4.355701,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_4/graficas/cumplimiento.json,0.007377,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_4/graficas/estandarizacion.html,4.358665,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_4/graficas/estandarizacion.json,0.01034,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_4/graficas/outliers.html,4.35636,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_4/graficas/outliers.json,0.008036,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_4/graficas/particiones.html,4.357058,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_4/graficas/particiones.json,0.008733,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_4/graficas/regresion_errores.html,4.358174,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_4/graficas/regresion_errores.json,0.00985,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_4/graficas/regresion_r2.html,4.356622,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_4/graficas/regresion_r2.json,0.008297,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_4/graficas/winsorization.html,4.358518,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_4/graficas/winsorization.json,0.010193,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_4/identificacion_dataset.json,0.000156,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_4/imagenes_originales/analisis_desbalance.png,0.036893,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_4/imagenes_originales/comparacion_baseline_clasificacion.png,0.072564,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_4/imagenes_originales/comparacion_baseline_regresion.png,0.053908,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_4/imagenes_originales/comparacion_estandarizacion.png,0.109234,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_4/imagenes_originales/comparacion_winsorization.png,0.079838,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_4/imagenes_originales/completitud_datos.png,0.057047,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_4/imagenes_originales/curvas_roc_baseline.png,0.081923,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_4/imagenes_originales/deteccion_outliers.png,0.064854,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_4/imagenes_originales/ingenieria_caracteristicas.png,0.052879,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_4/imagenes_originales/matrices_baseline_clasificacion.png,0.043148,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_4/imagenes_originales/particion_estratificada.png,0.045341,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_4/imagenes_originales/predicciones_baseline_regresion.png,0.078138,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_4/indicadores_fase4.csv,0.000494,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_4/inventario_csv_fase4.csv,0.003509,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_4/inventario_imagenes_fase4.csv,0.002002,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_4/limites_winsorization.csv,0.000223,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_4/matrices_finales.csv,0.000248,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_4/metricas_baseline_clasificacion.csv,0.000864,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_4/metricas_baseline_regresion.csv,0.000518,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_4/parametros_standardscaler.csv,0.000871,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_4/pesos_clases.csv,8.2e-05,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_4/resultados_codificacion.csv,0.000256,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_4/resultados_winsorization.csv,0.000651,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_4/resumen_cumplimiento.csv,4.1e-05,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_4/resumen_final_clasificacion.csv,0.000302,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_4/resumen_final_regresion.csv,0.000166,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_4/resumen_mejoras.csv,0.000191,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_4/resumen_preparacion.csv,0.000309,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Fase_4/verificacion_estandarizacion.csv,0.000868,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Resumen_Ejecutivo/clasificacion_global.csv,0.000415,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Resumen_Ejecutivo/graficas/clasificacion_por_fase.html,4.358432,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Resumen_Ejecutivo/graficas/clasificacion_por_fase.json,0.010107,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Resumen_Ejecutivo/graficas/demanda_anual.html,4.356191,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Resumen_Ejecutivo/graficas/demanda_anual.json,0.007866,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Resumen_Ejecutivo/graficas/demanda_diaria.html,4.374743,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Resumen_Ejecutivo/graficas/demanda_diaria.json,0.026419,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Resumen_Ejecutivo/graficas/demanda_mensual.html,4.356483,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Resumen_Ejecutivo/graficas/demanda_mensual.json,0.008158,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Resumen_Ejecutivo/graficas/evidencias_por_fase.html,4.356172,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Resumen_Ejecutivo/graficas/evidencias_por_fase.json,0.007847,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Resumen_Ejecutivo/graficas/regresion_global_r2.html,4.35702,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Resumen_Ejecutivo/graficas/regresion_global_r2.json,0.008696,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Resumen_Ejecutivo/graficas/regresion_global_rmse.html,4.357094,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Resumen_Ejecutivo/graficas/regresion_global_rmse.json,0.008769,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Resumen_Ejecutivo/graficas/tipo_usuario.html,4.355552,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Resumen_Ejecutivo/graficas/tipo_usuario.json,0.007227,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Resumen_Ejecutivo/hallazgos_globales.csv,0.000946,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Resumen_Ejecutivo/indicadores_ejecutivos.csv,0.000666,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Resumen_Ejecutivo/inventario_fases.csv,0.00036,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Resumen_Ejecutivo/limitaciones_globales.csv,0.001086,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Resumen_Ejecutivo/regresion_global.csv,0.000534,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Validaciones_Dashboard/pruebas_filtros.csv,0.001048,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/Validaciones_Dashboard/pruebas_navegacion.csv,0.000123,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/demanda_anual.csv,0.000178,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/demanda_mensual.csv,0.001139,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/entorno_ejecucion.json,0.000421,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/identidad_dataset.json,0.000319,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/inventario_evidencias.csv,0.005716,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/inventario_fases.csv,0.000375,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/inventario_final_dashboard.csv,0.000147,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/inventario_vistas_dashboard.csv,0.000147,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/kpi_globales.csv,0.000448,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/validacion_dashboard.json,0.000281,Respaldo anterior del dashboard
+results/validacion/dashboard_previo_1795633694831647237/resultados/validacion_final_dashboard.json,0.000405,Respaldo anterior del dashboard
+results/validacion/entorno_limpio_primer_intento/dashboard_entorno_limpio.ipynb,0.304065,Respaldo o inventario anterior
+results/validacion/entorno_limpio_primer_intento/fase1_entorno_limpio.ipynb,0.018765,Respaldo o inventario anterior
+results/validacion/entorno_limpio_primer_intento/fase2_entorno_limpio.ipynb,0.032202,Respaldo o inventario anterior
+results/validacion/entorno_limpio_primer_intento/fase3_entorno_limpio.ipynb,0.096896,Respaldo o inventario anterior
+results/validacion/entorno_limpio_primer_intento/fase4_entorno_limpio.ipynb,0.138004,Respaldo o inventario anterior
+results/validacion/notebooks/fase4_primer_intento.ipynb,1.004392,Evidencia de intento fallido
+results/validacion/reproduccion_entorno_original/dashboard/README.md,0.002486,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/datos/bike_sharing_dataset.zip,0.021997,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/datos/day.csv,0.054902,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/evidencias/Fase_4/analisis_desbalance.png,0.036893,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/evidencias/Fase_4/categorias_aprendidas.csv,0.00095,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/evidencias/Fase_4/categorias_desconocidas.csv,0.001445,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/evidencias/Fase_4/comparacion_baseline_clasificacion.png,0.072564,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/evidencias/Fase_4/comparacion_baseline_regresion.png,0.053908,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/evidencias/Fase_4/comparacion_estandarizacion.png,0.109234,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/evidencias/Fase_4/comparacion_winsorization.png,0.079838,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/evidencias/Fase_4/completitud_datos.png,0.057047,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/evidencias/Fase_4/cumplimiento_requerimientos.csv,0.000904,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/evidencias/Fase_4/curvas_roc_baseline.png,0.081923,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/evidencias/Fase_4/detalle_outliers.csv,0.000845,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/evidencias/Fase_4/deteccion_outliers.png,0.064854,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/evidencias/Fase_4/entorno_ejecucion.json,0.000165,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/evidencias/Fase_4/estrategia_balanceo.csv,0.000245,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/evidencias/Fase_4/estrategia_outliers.csv,0.000116,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/evidencias/Fase_4/identificacion_dataset.json,0.000156,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/evidencias/Fase_4/ingenieria_caracteristicas.png,0.052879,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/evidencias/Fase_4/limites_winsorization.csv,0.000223,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/evidencias/Fase_4/matrices_baseline_clasificacion.png,0.043148,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/evidencias/Fase_4/matrices_finales.csv,0.000248,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/evidencias/Fase_4/metricas_baseline_clasificacion.csv,0.000864,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/evidencias/Fase_4/metricas_baseline_regresion.csv,0.000518,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/evidencias/Fase_4/parametros_standardscaler.csv,0.000871,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/evidencias/Fase_4/particion_estratificada.png,0.045341,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/evidencias/Fase_4/pesos_clases.csv,8.2e-05,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/evidencias/Fase_4/predicciones_baseline_regresion.png,0.078138,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/evidencias/Fase_4/resultados_codificacion.csv,0.000256,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/evidencias/Fase_4/resultados_winsorization.csv,0.000651,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/evidencias/Fase_4/resumen_final_clasificacion.csv,0.000302,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/evidencias/Fase_4/resumen_final_regresion.csv,0.000166,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/evidencias/Fase_4/resumen_mejoras.csv,0.000191,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/evidencias/Fase_4/resumen_preparacion.csv,0.000309,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/evidencias/Fase_4/verificacion_estandarizacion.csv,0.000868,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/evidencias/Fases_2_3/fase 2 y fase 3/fase 2/Informe_Regresion_Bicicletas fase 2.pdf,0.618274,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/evidencias/Fases_2_3/fase 2 y fase 3/fase 2/Proyecto_Integrador_Bicicletas_Final.ipynb,0.664644,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/evidencias/Fases_2_3/fase 2 y fase 3/fase 3/Fase_3_Modelado_Avanzado_Bicicletas.ipynb,0.691686,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/evidencias/Fases_2_3/fase 2 y fase 3/fase 3/Informe_Fase_3_Modelado_Avanzado_Bicicletas.pdf,0.598233,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/requirements.txt,0.000132,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_1/calidad_datos.csv,0.000427,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_1/comparacion_outliers.csv,0.000304,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_1/correlacion_demanda.csv,0.000199,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_1/correlacion_pearson.csv,0.000922,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_1/correlacion_spearman.csv,0.000913,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_1/detalle_zscore.csv,0.000531,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_1/diccionario_datos.csv,0.001379,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_1/documentacion_original.txt,0.005347,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_1/estadisticas_descriptivas.csv,0.001315,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_1/ficha_tecnica.csv,0.001307,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_1/formulacion_problema.txt,0.000477,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_1/frecuencias_categoricas.csv,0.000652,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_1/graficas/boxplot_clima.html,4.462702,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_1/graficas/boxplot_clima.json,0.114377,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_1/graficas/calidad_datos.html,4.356041,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_1/graficas/calidad_datos.json,0.007716,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_1/graficas/chi_cuadrado.html,4.357407,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_1/graficas/chi_cuadrado.json,0.009082,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_1/graficas/comparacion_outliers.html,4.35621,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_1/graficas/comparacion_outliers.json,0.007885,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_1/graficas/correlacion_pearson.html,4.356889,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_1/graficas/correlacion_pearson.json,0.008564,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_1/graficas/correlacion_spearman.html,4.35688,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_1/graficas/correlacion_spearman.json,0.008555,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_1/graficas/demanda_clima.html,4.357285,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_1/graficas/demanda_clima.json,0.00896,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_1/graficas/demanda_estacion.html,4.367577,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_1/graficas/demanda_estacion.json,0.019252,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_1/graficas/dispersion_temperatura.html,4.401593,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_1/graficas/dispersion_temperatura.json,0.053268,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_1/graficas/factores_demanda.html,4.356558,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_1/graficas/factores_demanda.json,0.008233,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_1/graficas/histograma_demanda.html,4.363702,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_1/graficas/histograma_demanda.json,0.015377,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_1/graficas/outliers.html,4.356,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_1/graficas/outliers.json,0.007675,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_1/nota_metodologica_estaciones.txt,0.000256,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_1/objetivo_general.txt,0.000274,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_1/objetivos_smart.csv,0.000739,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_1/outliers_eda.csv,0.000589,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_1/outliers_zscore.csv,0.000193,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_1/preguntas_investigacion.csv,0.000422,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_1/pruebas_chi2.csv,0.000714,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_1/referencias_bibliograficas.txt,0.000286,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_1/verificacion_dias_semana.csv,8.5e-05,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_1/verificacion_estaciones.csv,0.00015,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_2/comparacion_modelos.csv,0.000123,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_2/evaluacion_final.csv,9.1e-05,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_2/graficas/comparacion_modelos.html,4.356281,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_2/graficas/comparacion_modelos.json,0.007957,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_2/graficas/comparacion_r2.html,4.356501,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_2/graficas/comparacion_r2.json,0.008176,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_2/graficas/evaluacion_final.html,4.356225,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_2/graficas/evaluacion_final.json,0.0079,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_2/graficas/mejora_mae.html,4.355345,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_2/graficas/mejora_mae.json,0.00702,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_2/graficas/particion_datos.html,4.355576,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_2/graficas/particion_datos.json,0.007251,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_2/graficas/r2_evaluacion.html,4.356355,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_2/graficas/r2_evaluacion.json,0.00803,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_2/imagenes_originales/celda_09_salida_02.png,0.04985,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_2/imagenes_originales/celda_21_salida_02.png,0.091022,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_2/imagenes_originales/celda_23_salida_01.png,0.061711,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_2/imagenes_originales/celda_23_salida_02.png,0.08908,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_2/imagenes_originales/celda_23_salida_03.png,0.070588,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_2/inventario_imagenes.csv,0.000774,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_2/inventario_notebook_fase2.csv,0.006515,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_2/metricas_detectadas_fase2.csv,0.002803,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_2/particion_datos.csv,0.000126,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_2/resultados_r.csv,0.000157,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_2/salidas_originales_fase2.csv,0.007904,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_3/distribucion_clases.csv,8.4e-05,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_3/errores_historicos_fase3.csv,2.6e-05,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_3/graficas/clasificacion_cv.html,4.356256,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_3/graficas/clasificacion_cv.json,0.007932,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_3/graficas/clasificacion_prueba.html,4.35634,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_3/graficas/clasificacion_prueba.json,0.008016,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_3/graficas/clustering_ari.html,4.355338,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_3/graficas/clustering_ari.json,0.007013,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_3/graficas/clustering_silueta.html,4.356275,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_3/graficas/clustering_silueta.json,0.00795,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_3/graficas/distribucion_clases.html,4.356374,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_3/graficas/distribucion_clases.json,0.008049,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_3/graficas/regresion_errores.html,4.3576,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_3/graficas/regresion_errores.json,0.009275,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_3/graficas/regresion_r2.html,4.356359,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_3/graficas/regresion_r2.json,0.008034,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_3/graficas/validacion_temporal.html,4.356589,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_3/graficas/validacion_temporal.json,0.008265,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_3/hiperparametros.csv,0.000244,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_3/imagenes_originales/celda_13_salida_02.png,0.033385,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_3/imagenes_originales/celda_25_salida_02.png,0.026299,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_3/imagenes_originales/celda_30_salida_03.png,0.059192,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_3/imagenes_originales/celda_32_salida_05.png,0.01998,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_3/imagenes_originales/celda_36_salida_03.png,0.029789,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_3/imagenes_originales/celda_38_salida_03.png,0.046671,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_3/imagenes_originales/celda_40_salida_03.png,0.062685,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_3/imagenes_originales/celda_42_salida_03.png,0.021386,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_3/indicadores_fase3.csv,0.000196,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_3/inventario_imagenes_fase3.csv,0.00122,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_3/inventario_notebook_fase3.csv,0.009453,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_3/metricas_clasificacion_cv.csv,5.1e-05,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_3/metricas_clasificacion_prueba.csv,0.000128,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_3/metricas_clustering.csv,6.7e-05,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_3/metricas_detectadas_fase3.csv,0.004881,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_3/metricas_regresion.csv,0.000201,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_3/resultados_clasificacion.csv,0.001771,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_3/resultados_clustering.csv,0.001281,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_3/resultados_regresion.csv,0.001286,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_3/resultados_validacion.csv,0.002233,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_3/salidas_originales_fase3.csv,0.010925,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_3/validacion_temporal.csv,0.000212,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_4/categorias_aprendidas.csv,0.00095,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_4/categorias_desconocidas.csv,0.001445,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_4/composicion_caracteristicas.csv,8e-05,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_4/conteo_outliers.csv,8.6e-05,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_4/cumplimiento_requerimientos.csv,0.000904,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_4/detalle_outliers.csv,0.000845,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_4/entorno_ejecucion.json,0.000165,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_4/estrategia_balanceo.csv,0.000245,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_4/estrategia_outliers.csv,0.000116,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_4/graficas/caracteristicas.html,4.355699,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_4/graficas/caracteristicas.json,0.007374,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_4/graficas/clasificacion_accuracy.html,4.356541,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_4/graficas/clasificacion_accuracy.json,0.008216,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_4/graficas/clasificacion_auc.html,4.356735,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_4/graficas/clasificacion_auc.json,0.00841,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_4/graficas/clasificacion_f1_macro.html,4.356536,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_4/graficas/clasificacion_f1_macro.json,0.008211,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_4/graficas/clasificacion_prueba.html,4.356621,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_4/graficas/clasificacion_prueba.json,0.008296,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_4/graficas/completitud.html,4.355352,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_4/graficas/completitud.json,0.007028,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_4/graficas/cumplimiento.html,4.355701,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_4/graficas/cumplimiento.json,0.007377,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_4/graficas/estandarizacion.html,4.358665,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_4/graficas/estandarizacion.json,0.01034,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_4/graficas/outliers.html,4.35636,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_4/graficas/outliers.json,0.008036,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_4/graficas/particiones.html,4.357058,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_4/graficas/particiones.json,0.008733,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_4/graficas/regresion_errores.html,4.358174,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_4/graficas/regresion_errores.json,0.00985,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_4/graficas/regresion_r2.html,4.356622,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_4/graficas/regresion_r2.json,0.008297,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_4/graficas/winsorization.html,4.358518,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_4/graficas/winsorization.json,0.010193,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_4/identificacion_dataset.json,0.000156,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_4/imagenes_originales/analisis_desbalance.png,0.036893,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_4/imagenes_originales/comparacion_baseline_clasificacion.png,0.072564,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_4/imagenes_originales/comparacion_baseline_regresion.png,0.053908,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_4/imagenes_originales/comparacion_estandarizacion.png,0.109234,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_4/imagenes_originales/comparacion_winsorization.png,0.079838,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_4/imagenes_originales/completitud_datos.png,0.057047,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_4/imagenes_originales/curvas_roc_baseline.png,0.081923,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_4/imagenes_originales/deteccion_outliers.png,0.064854,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_4/imagenes_originales/ingenieria_caracteristicas.png,0.052879,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_4/imagenes_originales/matrices_baseline_clasificacion.png,0.043148,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_4/imagenes_originales/particion_estratificada.png,0.045341,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_4/imagenes_originales/predicciones_baseline_regresion.png,0.078138,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_4/indicadores_fase4.csv,0.000494,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_4/inventario_csv_fase4.csv,0.003509,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_4/inventario_imagenes_fase4.csv,0.002002,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_4/limites_winsorization.csv,0.000223,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_4/matrices_finales.csv,0.000248,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_4/metricas_baseline_clasificacion.csv,0.000864,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_4/metricas_baseline_regresion.csv,0.000518,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_4/parametros_standardscaler.csv,0.000871,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_4/pesos_clases.csv,8.2e-05,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_4/resultados_codificacion.csv,0.000256,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_4/resultados_winsorization.csv,0.000651,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_4/resumen_cumplimiento.csv,4.1e-05,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_4/resumen_final_clasificacion.csv,0.000302,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_4/resumen_final_regresion.csv,0.000166,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_4/resumen_mejoras.csv,0.000191,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_4/resumen_preparacion.csv,0.000309,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Fase_4/verificacion_estandarizacion.csv,0.000868,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Resumen_Ejecutivo/clasificacion_global.csv,0.000415,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Resumen_Ejecutivo/graficas/clasificacion_por_fase.html,4.358432,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Resumen_Ejecutivo/graficas/clasificacion_por_fase.json,0.010107,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Resumen_Ejecutivo/graficas/demanda_anual.html,4.356191,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Resumen_Ejecutivo/graficas/demanda_anual.json,0.007866,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Resumen_Ejecutivo/graficas/demanda_diaria.html,4.374743,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Resumen_Ejecutivo/graficas/demanda_diaria.json,0.026419,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Resumen_Ejecutivo/graficas/demanda_mensual.html,4.356483,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Resumen_Ejecutivo/graficas/demanda_mensual.json,0.008158,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Resumen_Ejecutivo/graficas/evidencias_por_fase.html,4.356172,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Resumen_Ejecutivo/graficas/evidencias_por_fase.json,0.007847,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Resumen_Ejecutivo/graficas/regresion_global_r2.html,4.35702,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Resumen_Ejecutivo/graficas/regresion_global_r2.json,0.008696,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Resumen_Ejecutivo/graficas/regresion_global_rmse.html,4.357094,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Resumen_Ejecutivo/graficas/regresion_global_rmse.json,0.008769,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Resumen_Ejecutivo/graficas/tipo_usuario.html,4.355552,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Resumen_Ejecutivo/graficas/tipo_usuario.json,0.007227,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Resumen_Ejecutivo/hallazgos_globales.csv,0.000946,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Resumen_Ejecutivo/indicadores_ejecutivos.csv,0.000666,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Resumen_Ejecutivo/inventario_fases.csv,0.00036,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Resumen_Ejecutivo/limitaciones_globales.csv,0.001086,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Resumen_Ejecutivo/regresion_global.csv,0.000534,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Validaciones_Dashboard/pruebas_filtros.csv,0.001048,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/Validaciones_Dashboard/pruebas_navegacion.csv,0.000123,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/demanda_anual.csv,0.000178,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/demanda_mensual.csv,0.001139,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/entorno_ejecucion.json,0.000421,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/identidad_dataset.json,0.000319,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/inventario_evidencias.csv,0.005716,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/inventario_fases.csv,0.000375,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/inventario_final_dashboard.csv,0.000147,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/inventario_vistas_dashboard.csv,0.000147,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/kpi_globales.csv,0.000448,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/validacion_dashboard.json,0.000281,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/dashboard/resultados/validacion_final_dashboard.json,0.000405,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/evidencias_fase2.zip,3.189103,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/fase1/calidad_datos.csv,0.000125,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/fase1/comparacion_outliers.png,0.040689,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/fase1/correlacion_pearson.csv,0.000915,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/fase1/correlacion_pearson.png,0.093039,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/fase1/correlacion_spearman.csv,0.000905,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/fase1/correlacion_spearman.png,0.095384,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/fase1/demanda_anual.csv,8e-05,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/fase1/demanda_clima.csv,0.000177,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/fase1/demanda_clima.png,0.044696,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/fase1/demanda_diaria.png,0.152103,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/fase1/demanda_estacion.csv,0.000199,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/fase1/demanda_estacion.png,0.037246,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/fase1/demanda_mensual.csv,0.000649,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/fase1/deteccion_outliers.csv,0.00033,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/fase1/diccionario_estructura.csv,0.000334,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/fase1/estadistica_descriptiva.csv,0.001319,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/fase1/histograma_demanda.png,0.058803,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/fase1/indicadores_globales.csv,0.000257,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/fase1/pruebas_chi_cuadrado.csv,0.000469,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/fase1/resumen_fase1.json,0.000286,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/fase1/temperatura_demanda.png,0.094665,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/fase2/01_outliers.png,0.079955,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/fase2/02_real_vs_predicho.png,0.146921,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/fase2/03_diagnostico_residuos.png,0.099511,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/fase2/04_serie_temporal.png,0.14255,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/fase2/05_dispersion_entrenamiento.png,0.110206,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/fase2/06_comparacion_interactiva.html,4.362324,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/fase2/07_dashboard_interactivo.html,4.38849,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/fase2/07_regresion_R.png,0.054897,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/fase2/analisis_R.R,0.000839,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/fase2/datos_ordenados.csv,0.054206,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/fase2/metricas_finales.csv,0.000146,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/fase2/metricas_validacion.csv,0.000178,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/fase2/predicciones_R.csv,0.002331,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/fase2/predicciones_prueba.csv,0.008794,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/fase2/r_entrenamiento.csv,0.066074,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/fase2/r_prueba.csv,0.014441,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/fase3/resultados/comparacion_clasificacion.png,0.043897,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/fase3/resultados/comparacion_perfiles_clusters.png,0.052793,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/fase3/resultados/comparacion_regresion.png,0.059655,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/fase3/resultados/evaluacion_final_clasificacion.png,0.035266,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/fase3/resultados/evaluacion_final_regresion.png,0.107847,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/fase3/resultados/importancia_variables_regresion.png,0.084333,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/fase3/resultados/kmeans_codo_silueta.png,0.10076,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/fase3/resultados/perfil_kmeans.png,0.033896,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/fase4/Evidencias_Fase_4_Bicicletas.zip,0.624802,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/fase4/resultados/analisis_desbalance.png,0.036893,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/fase4/resultados/categorias_aprendidas.csv,0.00095,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/fase4/resultados/categorias_desconocidas.csv,0.001445,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/fase4/resultados/comparacion_baseline_clasificacion.png,0.072564,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/fase4/resultados/comparacion_baseline_regresion.png,0.053908,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/fase4/resultados/comparacion_estandarizacion.png,0.109234,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/fase4/resultados/comparacion_winsorization.png,0.079838,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/fase4/resultados/completitud_datos.png,0.057047,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/fase4/resultados/cumplimiento_requerimientos.csv,0.000904,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/fase4/resultados/curvas_roc_baseline.png,0.081923,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/fase4/resultados/detalle_outliers.csv,0.000845,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/fase4/resultados/deteccion_outliers.png,0.064854,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/fase4/resultados/entorno_ejecucion.json,0.000165,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/fase4/resultados/estrategia_balanceo.csv,0.000245,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/fase4/resultados/estrategia_outliers.csv,0.000116,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/fase4/resultados/identificacion_dataset.json,0.000156,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/fase4/resultados/ingenieria_caracteristicas.png,0.052879,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/fase4/resultados/limites_winsorization.csv,0.000223,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/fase4/resultados/matrices_baseline_clasificacion.png,0.043148,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/fase4/resultados/matrices_finales.csv,0.000248,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/fase4/resultados/metricas_baseline_clasificacion.csv,0.000864,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/fase4/resultados/metricas_baseline_regresion.csv,0.000518,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/fase4/resultados/parametros_standardscaler.csv,0.000871,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/fase4/resultados/particion_estratificada.png,0.045341,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/fase4/resultados/pesos_clases.csv,8.2e-05,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/fase4/resultados/predicciones_baseline_regresion.png,0.078138,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/fase4/resultados/resultados_codificacion.csv,0.000256,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/fase4/resultados/resultados_winsorization.csv,0.000651,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/fase4/resultados/resumen_final_clasificacion.csv,0.000302,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/fase4/resultados/resumen_final_regresion.csv,0.000166,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/fase4/resultados/resumen_mejoras.csv,0.000191,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/fase4/resultados/resumen_preparacion.csv,0.000309,Respaldo o inventario anterior
+results/validacion/reproduccion_entorno_original/fase4/resultados/verificacion_estandarizacion.csv,0.000868,Respaldo o inventario anterior
+src/__pycache__/__init__.cpython-313.pyc,0.000137,Archivo temporal o caché
+src/utils/__pycache__/__init__.cpython-313.pyc,0.000143,Archivo temporal o caché
+src/utils/__pycache__/config.cpython-313.pyc,0.00088,Archivo temporal o caché

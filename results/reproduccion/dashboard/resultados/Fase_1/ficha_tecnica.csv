@@ -1,0 +1,28 @@
+﻿Campo,Valor
+Nombre,Bike Sharing Dataset
+Repositorio,UCI Machine Learning Repository
+Autor,Hadi Fanaee-T
+DOI,10.24432/C5W894
+URL del repositorio,https://archive.ics.uci.edu/dataset/275/bike+sharing+dataset
+URL de descarga,https://archive.ics.uci.edu/static/public/275/bike+sharing+dataset.zip
+Archivo analizado,day.csv
+Formato,CSV
+Registros,731
+Variables,16
+Granularidad,Diaria
+Periodo inicial,2011-01-01
+Periodo final,2012-12-31
+Variable objetivo,cnt
+Fecha de extracción,2026-11-25 14:08:23 Colombia (fecha del ZIP auxiliar reconstruido)
+Licencia,Creative Commons Attribution 4.0 International (CC BY 4.0)
+Valores faltantes,0
+Duplicados,0
+Procedencia del análisis,EDA reconstruido desde el dataset original
+Año de creación,2013
+Última actualización reportada por UCI,2024-03-10
+Sistema de bicicletas,Capital Bikeshare
+Ubicación,"Washington D.C., Estados Unidos"
+Referencia del dataset,"Fanaee-T, H. (2013). Bike Sharing Dataset [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5W894"
+Referencia científica,"Fanaee-T, H., & Gama, J. (2013). Event labeling combining ensemble detectors and background knowledge. Progress in Artificial Intelligence. https://doi.org/10.1007/s13748-013-0040-3"
+Fuente oficial de licencia,https://archive.ics.uci.edu/dataset/275/bike-sharing-dataset
+URL de licencia,https://creativecommons.org/licenses/by/4.0/

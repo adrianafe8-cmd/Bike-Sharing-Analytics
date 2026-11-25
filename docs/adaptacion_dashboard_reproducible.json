@@ -1,0 +1,20 @@
+{
+    "notebook": "notebooks/reproducibles/05_Dashboard_Global_Reproducible.ipynb",
+    "celdas_totales": 27,
+    "celdas_codigo": 23,
+    "formato": "4.5",
+    "adaptaciones": [
+        "Celda 2: configuración portable",
+        "Celda 3: dataset local y ZIP auxiliar",
+        "Celda 4: recuperación de evidencias locales",
+        "Celda 8: ruta relativa de evidencias",
+        "Celda 17: validación sin iniciar servidor",
+        "Celda 19B: aclaración de procedencia temporal",
+        "Celda 20: conservar pruebas y omitir empaquetado"
+    ],
+    "sintaxis_ok": true,
+    "notebook_original_conservado": true,
+    "dashboard_publicado_modificado": false,
+    "modelos_reentrenados": 0,
+    "ejecucion_validada": false
+}

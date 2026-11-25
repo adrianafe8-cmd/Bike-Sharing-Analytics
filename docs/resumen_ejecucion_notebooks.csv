@@ -1,0 +1,6 @@
+fase,estado,duracion_segundos,celdas_codigo,celdas_ejecutadas,notebook_fuente_conservado
+fase1,OK,16.88,9,9,True
+fase2,OK,20.0,20,20,True
+fase3,OK,57.89,24,24,True
+fase4,OK,27.4,17,17,True
+dashboard,OK,23.71,23,23,True

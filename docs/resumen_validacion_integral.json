@@ -1,0 +1,12 @@
+{
+    "notebooks_evaluados": 5,
+    "notebooks_exitosos": 5,
+    "notebooks_con_error": 0,
+    "duracion_total_segundos": 145.88,
+    "kernels_independientes": true,
+    "pip_check_ok": true,
+    "ejecucion_integral_ok": true,
+    "equivalencia_metricas_validada": false,
+    "instalacion_desde_entorno_limpio_validada": false,
+    "duracion_total_tipo": "Suma de las últimas ejecuciones de cada notebook"
+}

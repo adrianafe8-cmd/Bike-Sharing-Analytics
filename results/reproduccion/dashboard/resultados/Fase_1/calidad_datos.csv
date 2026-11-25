@@ -1,0 +1,17 @@
+Variable,Tipo_dato,Valores_faltantes,Porcentaje_faltantes,Valores_unicos
+instant,int64,0,0.0,731
+dteday,datetime64[ns],0,0.0,731
+season,int64,0,0.0,4
+yr,int64,0,0.0,2
+mnth,int64,0,0.0,12
+holiday,int64,0,0.0,2
+weekday,int64,0,0.0,7
+workingday,int64,0,0.0,2
+weathersit,int64,0,0.0,3
+temp,float64,0,0.0,499
+atemp,float64,0,0.0,690
+hum,float64,0,0.0,595
+windspeed,float64,0,0.0,650
+casual,int64,0,0.0,606
+registered,int64,0,0.0,679
+cnt,int64,0,0.0,696

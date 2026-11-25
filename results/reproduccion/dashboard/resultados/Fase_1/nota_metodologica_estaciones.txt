@@ -1,0 +1,1 @@
+El README original presenta una inconsistencia en la descripción de las estaciones. La codificación utilizada en este dashboard fue contrastada con las fechas de las 731 observaciones, confirmando que 1 corresponde a invierno, 2 a primavera, 3 a verano y 4 a otoño.

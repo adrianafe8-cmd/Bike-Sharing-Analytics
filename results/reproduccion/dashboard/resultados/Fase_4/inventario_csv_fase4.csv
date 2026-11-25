@@ -1,0 +1,20 @@
+﻿Archivo,Filas,Columnas,Variables,Ruta_original
+categorias_aprendidas.csv,14,4,"Problema, Variable, Categorias, Columnas_generadas",/content/Bike-Sharing-Analytics/results/reproduccion/dashboard/evidencias/Fase_4/categorias_aprendidas.csv
+categorias_desconocidas.csv,42,4,"Problema, Conjunto, Variable, Categorias_desconocidas",/content/Bike-Sharing-Analytics/results/reproduccion/dashboard/evidencias/Fase_4/categorias_desconocidas.csv
+cumplimiento_requerimientos.csv,13,3,"Requerimiento, Estado, Evidencia",/content/Bike-Sharing-Analytics/results/reproduccion/dashboard/evidencias/Fase_4/cumplimiento_requerimientos.csv
+detalle_outliers.csv,15,8,"Variable_atipica, dteday, season, weathersit, temp, hum, windspeed, cnt",/content/Bike-Sharing-Analytics/results/reproduccion/dashboard/evidencias/Fase_4/detalle_outliers.csv
+estrategia_balanceo.csv,4,3,"Tecnica, Aplicada, Justificacion",/content/Bike-Sharing-Analytics/results/reproduccion/dashboard/evidencias/Fase_4/estrategia_balanceo.csv
+estrategia_outliers.csv,5,2,"Variable, Tratamiento",/content/Bike-Sharing-Analytics/results/reproduccion/dashboard/evidencias/Fase_4/estrategia_outliers.csv
+limites_winsorization.csv,4,4,"Problema, Variable, P1, P99",/content/Bike-Sharing-Analytics/results/reproduccion/dashboard/evidencias/Fase_4/limites_winsorization.csv
+matrices_finales.csv,6,5,"Problema, Conjunto, Registros, Caracteristicas, Valores_faltantes",/content/Bike-Sharing-Analytics/results/reproduccion/dashboard/evidencias/Fase_4/matrices_finales.csv
+metricas_baseline_clasificacion.csv,6,9,"Modelo, Conjunto, Accuracy, Balanced_Accuracy, Precision, Recall, F1, F1_Macro, AUC_ROC",/content/Bike-Sharing-Analytics/results/reproduccion/dashboard/evidencias/Fase_4/metricas_baseline_clasificacion.csv
+metricas_baseline_regresion.csv,6,5,"Modelo, Conjunto, MAE, RMSE, R2",/content/Bike-Sharing-Analytics/results/reproduccion/dashboard/evidencias/Fase_4/metricas_baseline_regresion.csv
+parametros_standardscaler.csv,14,4,"Problema, Variable, Media_entrenamiento, Desviacion_entrenamiento",/content/Bike-Sharing-Analytics/results/reproduccion/dashboard/evidencias/Fase_4/parametros_standardscaler.csv
+pesos_clases.csv,2,3,"Clase, Observaciones, Peso_balanceado",/content/Bike-Sharing-Analytics/results/reproduccion/dashboard/evidencias/Fase_4/pesos_clases.csv
+resultados_codificacion.csv,6,5,"Problema, Conjunto, Registros, Variables_originales, Columnas_codificadas",/content/Bike-Sharing-Analytics/results/reproduccion/dashboard/evidencias/Fase_4/resultados_codificacion.csv
+resultados_winsorization.csv,12,6,"Problema, Conjunto, Variable, Registros, Valores_modificados, Porcentaje",/content/Bike-Sharing-Analytics/results/reproduccion/dashboard/evidencias/Fase_4/resultados_winsorization.csv
+resumen_final_clasificacion.csv,2,8,"Modelo, Accuracy, Balanced_Accuracy, Precision, Recall, F1, F1_Macro, AUC_ROC",/content/Bike-Sharing-Analytics/results/reproduccion/dashboard/evidencias/Fase_4/resumen_final_clasificacion.csv
+resumen_final_regresion.csv,2,4,"Modelo, MAE, RMSE, R2",/content/Bike-Sharing-Analytics/results/reproduccion/dashboard/evidencias/Fase_4/resumen_final_regresion.csv
+resumen_mejoras.csv,3,3,"Problema, Indicador, Resultado",/content/Bike-Sharing-Analytics/results/reproduccion/dashboard/evidencias/Fase_4/resumen_mejoras.csv
+resumen_preparacion.csv,11,2,"Indicador, Resultado",/content/Bike-Sharing-Analytics/results/reproduccion/dashboard/evidencias/Fase_4/resumen_preparacion.csv
+verificacion_estandarizacion.csv,14,4,"Problema, Variable, Media_transformada, Desviacion_transformada",/content/Bike-Sharing-Analytics/results/reproduccion/dashboard/evidencias/Fase_4/verificacion_estandarizacion.csv

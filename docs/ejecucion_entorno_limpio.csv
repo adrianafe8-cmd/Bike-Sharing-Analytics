@@ -1,0 +1,6 @@
+fase,estado,duracion_segundos,celdas_codigo,celdas_ejecutadas,kernel_aislado_verificado,notebook_fuente_conservado
+fase1,OK,14.96,9,9,True,True
+fase2,OK,18.78,20,20,True,True
+fase3,OK,64.55,24,24,True,True
+fase4,OK,17.05,17,17,True,True
+dashboard,OK,38.13,23,23,True,True

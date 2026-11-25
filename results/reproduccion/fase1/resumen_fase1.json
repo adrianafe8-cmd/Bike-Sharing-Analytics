@@ -1,0 +1,12 @@
+{
+    "fase": 1,
+    "tipo": "Reconstrucción independiente",
+    "filas": 731,
+    "columnas": 16,
+    "alquileres_totales": 3292679,
+    "crecimiento_anual_pct": 64.87579870694545,
+    "detecciones_iqr": 59,
+    "detecciones_zscore": 12,
+    "registros_eliminados": 0,
+    "modelos_entrenados": 0
+}

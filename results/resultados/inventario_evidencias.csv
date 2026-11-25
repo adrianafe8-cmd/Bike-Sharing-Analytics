@@ -1,0 +1,38 @@
+Grupo,Archivo,Formato,Tamaño_KB,Ruta
+Fases_2_3,Informe_Regresion_Bicicletas fase 2.pdf,.pdf,633.11,/content/Dashboard_Global_Bicicletas/evidencias/Fases_2_3/fase 2 y fase 3/fase 2/Informe_Regresion_Bicicletas fase 2.pdf
+Fases_2_3,Proyecto_Integrador_Bicicletas_Final.ipynb,.ipynb,680.6,/content/Dashboard_Global_Bicicletas/evidencias/Fases_2_3/fase 2 y fase 3/fase 2/Proyecto_Integrador_Bicicletas_Final.ipynb
+Fases_2_3,Fase_3_Modelado_Avanzado_Bicicletas.ipynb,.ipynb,708.29,/content/Dashboard_Global_Bicicletas/evidencias/Fases_2_3/fase 2 y fase 3/fase 3/Fase_3_Modelado_Avanzado_Bicicletas.ipynb
+Fases_2_3,Informe_Fase_3_Modelado_Avanzado_Bicicletas.pdf,.pdf,612.59,/content/Dashboard_Global_Bicicletas/evidencias/Fases_2_3/fase 2 y fase 3/fase 3/Informe_Fase_3_Modelado_Avanzado_Bicicletas.pdf
+Fase_4,analisis_desbalance.png,.png,37.78,/content/Dashboard_Global_Bicicletas/evidencias/Fase_4/analisis_desbalance.png
+Fase_4,categorias_aprendidas.csv,.csv,0.97,/content/Dashboard_Global_Bicicletas/evidencias/Fase_4/categorias_aprendidas.csv
+Fase_4,categorias_desconocidas.csv,.csv,1.48,/content/Dashboard_Global_Bicicletas/evidencias/Fase_4/categorias_desconocidas.csv
+Fase_4,comparacion_baseline_clasificacion.png,.png,74.31,/content/Dashboard_Global_Bicicletas/evidencias/Fase_4/comparacion_baseline_clasificacion.png
+Fase_4,comparacion_baseline_regresion.png,.png,55.2,/content/Dashboard_Global_Bicicletas/evidencias/Fase_4/comparacion_baseline_regresion.png
+Fase_4,comparacion_estandarizacion.png,.png,111.86,/content/Dashboard_Global_Bicicletas/evidencias/Fase_4/comparacion_estandarizacion.png
+Fase_4,comparacion_winsorization.png,.png,81.75,/content/Dashboard_Global_Bicicletas/evidencias/Fase_4/comparacion_winsorization.png
+Fase_4,completitud_datos.png,.png,58.42,/content/Dashboard_Global_Bicicletas/evidencias/Fase_4/completitud_datos.png
+Fase_4,cumplimiento_requerimientos.csv,.csv,0.93,/content/Dashboard_Global_Bicicletas/evidencias/Fase_4/cumplimiento_requerimientos.csv
+Fase_4,curvas_roc_baseline.png,.png,83.89,/content/Dashboard_Global_Bicicletas/evidencias/Fase_4/curvas_roc_baseline.png
+Fase_4,detalle_outliers.csv,.csv,0.87,/content/Dashboard_Global_Bicicletas/evidencias/Fase_4/detalle_outliers.csv
+Fase_4,deteccion_outliers.png,.png,66.41,/content/Dashboard_Global_Bicicletas/evidencias/Fase_4/deteccion_outliers.png
+Fase_4,entorno_ejecucion.json,.json,0.17,/content/Dashboard_Global_Bicicletas/evidencias/Fase_4/entorno_ejecucion.json
+Fase_4,estrategia_balanceo.csv,.csv,0.25,/content/Dashboard_Global_Bicicletas/evidencias/Fase_4/estrategia_balanceo.csv
+Fase_4,estrategia_outliers.csv,.csv,0.12,/content/Dashboard_Global_Bicicletas/evidencias/Fase_4/estrategia_outliers.csv
+Fase_4,identificacion_dataset.json,.json,0.16,/content/Dashboard_Global_Bicicletas/evidencias/Fase_4/identificacion_dataset.json
+Fase_4,ingenieria_caracteristicas.png,.png,54.15,/content/Dashboard_Global_Bicicletas/evidencias/Fase_4/ingenieria_caracteristicas.png
+Fase_4,limites_winsorization.csv,.csv,0.23,/content/Dashboard_Global_Bicicletas/evidencias/Fase_4/limites_winsorization.csv
+Fase_4,matrices_baseline_clasificacion.png,.png,44.18,/content/Dashboard_Global_Bicicletas/evidencias/Fase_4/matrices_baseline_clasificacion.png
+Fase_4,matrices_finales.csv,.csv,0.25,/content/Dashboard_Global_Bicicletas/evidencias/Fase_4/matrices_finales.csv
+Fase_4,metricas_baseline_clasificacion.csv,.csv,0.88,/content/Dashboard_Global_Bicicletas/evidencias/Fase_4/metricas_baseline_clasificacion.csv
+Fase_4,metricas_baseline_regresion.csv,.csv,0.53,/content/Dashboard_Global_Bicicletas/evidencias/Fase_4/metricas_baseline_regresion.csv
+Fase_4,parametros_standardscaler.csv,.csv,0.89,/content/Dashboard_Global_Bicicletas/evidencias/Fase_4/parametros_standardscaler.csv
+Fase_4,particion_estratificada.png,.png,46.43,/content/Dashboard_Global_Bicicletas/evidencias/Fase_4/particion_estratificada.png
+Fase_4,pesos_clases.csv,.csv,0.08,/content/Dashboard_Global_Bicicletas/evidencias/Fase_4/pesos_clases.csv
+Fase_4,predicciones_baseline_regresion.png,.png,80.01,/content/Dashboard_Global_Bicicletas/evidencias/Fase_4/predicciones_baseline_regresion.png
+Fase_4,resultados_codificacion.csv,.csv,0.26,/content/Dashboard_Global_Bicicletas/evidencias/Fase_4/resultados_codificacion.csv
+Fase_4,resultados_winsorization.csv,.csv,0.67,/content/Dashboard_Global_Bicicletas/evidencias/Fase_4/resultados_winsorization.csv
+Fase_4,resumen_final_clasificacion.csv,.csv,0.31,/content/Dashboard_Global_Bicicletas/evidencias/Fase_4/resumen_final_clasificacion.csv
+Fase_4,resumen_final_regresion.csv,.csv,0.17,/content/Dashboard_Global_Bicicletas/evidencias/Fase_4/resumen_final_regresion.csv
+Fase_4,resumen_mejoras.csv,.csv,0.2,/content/Dashboard_Global_Bicicletas/evidencias/Fase_4/resumen_mejoras.csv
+Fase_4,resumen_preparacion.csv,.csv,0.32,/content/Dashboard_Global_Bicicletas/evidencias/Fase_4/resumen_preparacion.csv
+Fase_4,verificacion_estandarizacion.csv,.csv,0.89,/content/Dashboard_Global_Bicicletas/evidencias/Fase_4/verificacion_estandarizacion.csv

@@ -1,0 +1,13 @@
+{
+    "archivos_no_inspeccionados_inventariados": 40,
+    "instrucciones_portabilidad_identificadas": 55,
+    "dataset_filas": 731,
+    "dataset_columnas": 16,
+    "dataset_sha256": "a6bcf826782d3c0fbfdcbeead17cd0884185a0dafe8ff10cd48a874ee7ba18be",
+    "dataset_integridad_ok": true,
+    "dashboard_html_existe": true,
+    "modelos_reentrenados": 0,
+    "codigo_original_modificado": false,
+    "revision_manual_privacidad_completada": false,
+    "reproducibilidad_integral": false
+}

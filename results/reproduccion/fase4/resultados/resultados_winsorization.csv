@@ -1,0 +1,13 @@
+Problema,Conjunto,Variable,Registros,Valores_modificados,Porcentaje
+Regresión,Entrenamiento,hum,511,12,2.3483365949119372
+Regresión,Entrenamiento,windspeed,511,12,2.3483365949119372
+Regresión,Validación,hum,109,0,0.0
+Regresión,Validación,windspeed,109,0,0.0
+Regresión,Prueba,hum,111,0,0.0
+Regresión,Prueba,windspeed,111,1,0.9009009009009009
+Clasificación,Entrenamiento,hum,511,12,2.3483365949119372
+Clasificación,Entrenamiento,windspeed,511,12,2.3483365949119372
+Clasificación,Validación,hum,110,1,0.9090909090909091
+Clasificación,Validación,windspeed,110,0,0.0
+Clasificación,Prueba,hum,110,1,0.9090909090909091
+Clasificación,Prueba,windspeed,110,3,2.727272727272727

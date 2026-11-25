@@ -1,0 +1,11 @@
+{
+    "archivos_texto_revisados": 544,
+    "posibles_credenciales": 0,
+    "hallazgos_correos": 5,
+    "errores_lectura": 0,
+    "archivos_revision_manual": 115,
+    "referencias_evidencias_validas": true,
+    "revision_automatizada_superada": true,
+    "revision_manual_completada": false,
+    "publicacion_github_completada": false
+}

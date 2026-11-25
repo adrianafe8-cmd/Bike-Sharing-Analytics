@@ -1,0 +1,301 @@
+Python utilizado: /content/bike_sharing_entorno_limpio/bin/python
+Entorno aislado: /content/bike_sharing_entorno_limpio
+
+============================================================
+EJECUTANDO: FASE1
+============================================================
+Estado: OK
+Duración: 14.96 s
+Celdas ejecutadas: 9 / 9
+
+============================================================
+EJECUTANDO: FASE2
+============================================================
+Estado: OK
+Duración: 18.78 s
+Celdas ejecutadas: 20 / 20
+
+============================================================
+EJECUTANDO: FASE3
+============================================================
+/content/bike_sharing_entorno_limpio/lib/python3.13/site-packages/joblib/externals/loky/backend/resource_tracker.py:444: UserWarning: resource_tracker: There appear to be 6 leaked semlock objects to clean up at shutdown: {'/loky-62831-kt8yyr_r': 1, '/loky-62831-xdmxk_1e': 1, '/loky-62831-utxvpepr': 1, '/loky-62831-uhyvfq30': 1, '/loky-62831-xhr9r1te': 1, '/loky-62831-7jpgygec': 1}
+  warnings.warn(
+/content/bike_sharing_entorno_limpio/lib/python3.13/site-packages/joblib/externals/loky/backend/resource_tracker.py:444: UserWarning: resource_tracker: There appear to be 1 leaked folder objects to clean up at shutdown: {'/dev/shm/joblib_memmapping_folder_62831_9139f145349f4efd90836db3b5e679b0_1c47697f81be4fbea64530c7a36c16b6': 1}
+  warnings.warn(
+Estado: OK
+Duración: 64.55 s
+Celdas ejecutadas: 24 / 24
+
+============================================================
+EJECUTANDO: FASE4
+============================================================
+Estado: OK
+Duración: 17.05 s
+Celdas ejecutadas: 17 / 17
+
+============================================================
+EJECUTANDO: DASHBOARD
+============================================================
+Estado: ERROR
+Duración: 6.78 s
+Celdas ejecutadas: 7 / 23
+er_data=[
+        "Demanda_total",
+        "Dias_observados"
+    ],
+    title="Demanda diaria promedio según el clima"
+)
+
+figuras_fase1["demanda_clima"].update_layout(
+    showlegend=False
+)
+
+# ==========================================================
+# 8. COMPARACIÓN DE OUTLIERS
+# ==========================================================
+
+df_outliers_visual = (
+    df_outliers_eda.copy()
+    .sort_values("Outliers", ascending=True)
+)
+
+figuras_fase1["outliers"] = px.bar(
+    df_outliers_visual,
+    x="Outliers",
+    y="Variable",
+    orientation="h",
+    text="Outliers",
+    hover_data=["Porcentaje"],
+    color_discrete_sequence=[COLORES["acento"]],
+    title="Valores atípicos detectados mediante IQR"
+)
+
+# ==========================================================
+# 9. FACTORES ASOCIADOS A LA DEMANDA
+# ==========================================================
+
+df_correlacion_visual = (
+    correlacion_demanda
+    .reset_index()
+    .melt(
+        id_vars="Variable",
+        var_name="Metodo",
+        value_name="Correlacion"
+    )
+)
+
+figuras_fase1["factores_demanda"] = px.bar(
+    df_correlacion_visual,
+    x="Variable",
+    y="Correlacion",
+    color="Metodo",
+    barmode="group",
+    text_auto=".3f",
+    title="Correlación de factores meteorológicos"
+)
+
+figuras_fase1["factores_demanda"].add_hline(
+    y=0,
+    line_color="#64748B"
+)
+
+# ==========================================================
+# 10. PRUEBAS DE INDEPENDENCIA CHI-CUADRADO
+# ==========================================================
+
+df_chi2_visual = df_chi2.copy()
+
+df_chi2_visual["Relacion"] = (
+    df_chi2_visual["Variable_1"]
+    + " vs. "
+    + df_chi2_visual["Variable_2"]
+)
+
+figuras_fase1["chi_cuadrado"] = px.bar(
+    df_chi2_visual,
+    x="Relacion",
+    y="P_ajustado",
+    color="Conclusion",
+    text_auto=".3f",
+    hover_data=[
+        "P_valor",
+        "Chi2",
+        "V_Cramer",
+        "Frecuencias_esperadas_validas"
+    ],
+    title="Pruebas Chi-cuadrado: p-valores ajustados"
+)
+
+figuras_fase1["chi_cuadrado"].add_hline(
+    y=0.05,
+    line_dash="dash",
+    line_color=COLORES["negativo"],
+    annotation_text="Significancia: 0.05"
+)
+
+# ==========================================================
+# 11. CALIDAD Y COMPLETITUD DE DATOS
+# ==========================================================
+
+df_calidad_visual = df_calidad_eda.copy()
+
+df_calidad_visual["Completitud"] = (
+    100 - df_calidad_visual["Porcentaje_faltantes"]
+)
+
+figuras_fase1["calidad_datos"] = px.bar(
+    df_calidad_visual,
+    x="Completitud",
+    y="Variable",
+    orientation="h",
+    text_auto=".0f",
+    color_discrete_sequence=[COLORES["secundario"]],
+    title="Porcentaje de completitud por variable"
+)
+
+figuras_fase1["calidad_datos"].update_xaxes(
+    range=[0, 110],
+    ticksuffix="%"
+)
+
+# ==========================================================
+# 12. APLICAR ESTILO VISUAL UNIFICADO
+# ==========================================================
+
+for nombre, figura in figuras_fase1.items():
+
+    figura.update_layout(
+        template="plotly_white",
+        font=dict(
+            family="Arial",
+            size=12,
+            color=COLORES["texto"]
+        ),
+        title_font_size=17,
+        paper_bgcolor="white",
+        plot_bgcolor="white",
+        margin=dict(
+            l=45,
+            r=35,
+            t=70,
+            b=65
+        ),
+        height=450,
+        hoverlabel=dict(
+            bgcolor="white",
+            font_size=12
+        )
+    )
+
+# ==========================================================
+# 13. GUARDAR FIGURAS INTERACTIVAS
+# ==========================================================
+
+CARPETA_GRAFICAS_F1 = FASE1 / "graficas"
+
+CARPETA_GRAFICAS_F1.mkdir(
+    parents=True,
+    exist_ok=True
+)
+
+for nombre, figura in figuras_fase1.items():
+
+    figura.write_html(
+        str(CARPETA_GRAFICAS_F1 / f"{nombre}.html"),
+        include_plotlyjs=True
+    )
+
+    figura.write_json(
+        str(CARPETA_GRAFICAS_F1 / f"{nombre}.json")
+    )
+
+# ==========================================================
+# 14. VALIDACIONES
+# ==========================================================
+
+assert len(figuras_fase1) == 11
+
+assert all(
+    len(figura.data) > 0
+    for figura in figuras_fase1.values()
+)
+
+assert len(
+    list(CARPETA_GRAFICAS_F1.glob("*.html"))
+) == 11
+
+assert len(
+    list(CARPETA_GRAFICAS_F1.glob("*.json"))
+) == 11
+
+# ==========================================================
+# 15. PRESENTACIÓN DE RESULTADOS
+# ==========================================================
+
+print("=" * 60)
+print("FASE 1 - VISUALIZACIONES INTERACTIVAS")
+print("=" * 60)
+
+print("\nGráficas generadas:", len(figuras_fase1))
+
+for numero, nombre in enumerate(figuras_fase1, 1):
+
+    print(f"{numero:02d}. {nombre}: OK")
+
+print("\nArchivos HTML:", len(
+    list(CARPETA_GRAFICAS_F1.glob("*.html"))
+))
+
+print("Archivos JSON:", len(
+    list(CARPETA_GRAFICAS_F1.glob("*.json"))
+))
+
+print("\n=== DEMANDA PROMEDIO SEGÚN EL CLIMA ===")
+
+display(demanda_clima.round(2))
+
+print("\n=== VISTA PREVIA DE GRÁFICAS ===")
+
+# Mostrar tres figuras para verificar su funcionamiento.
+
+figuras_fase1["histograma_demanda"].show()
+
+figuras_fase1["correlacion_pearson"].show()
+
+figuras_fase1["dispersion_temperatura"].show()
+
+print("\nFase 1 - Visualizaciones generadas correctamente.")
+
+------------------
+
+
+[0;31m---------------------------------------------------------------------------[0m
+[0;31mAssertionError[0m                            Traceback (most recent call last)
+[0;32m/tmp/ipykernel_64918/630456833.py[0m in [0;36m<cell line: 0>[0;34m()[0m
+[1;32m    387[0m [0;34m)[0m[0;34m[0m[0;34m[0m[0m
+[1;32m    388[0m [0;34m[0m[0m
+[0;32m--> 389[0;31m assert len(
+[0m[1;32m    390[0m     [0mlist[0m[0;34m([0m[0mCARPETA_GRAFICAS_F1[0m[0;34m.[0m[0mglob[0m[0;34m([0m[0;34m"*.html"[0m[0;34m)[0m[0;34m)[0m[0;34m[0m[0;34m[0m[0m
+[1;32m    391[0m [0;34m)[0m [0;34m==[0m [0;36m11[0m[0;34m[0m[0;34m[0m[0m
+
+[0;31mAssertionError[0m: 
+
+
+=== RESUMEN DE EJECUCIÓN ===
+     fase estado  duracion_segundos  celdas_codigo  celdas_ejecutadas  kernel_aislado_verificado  notebook_fuente_conservado
+    fase1     OK              14.96              9                  9                       True                        True
+    fase2     OK              18.78             20                 20                       True                        True
+    fase3     OK              64.55             24                 24                       True                        True
+    fase4     OK              17.05             17                 17                       True                        True
+dashboard  ERROR               6.78             23                  7                      False                        True
+
+=== VALIDACIÓN FINAL ===
+notebooks_evaluados: 5
+notebooks_exitosos: 4
+notebooks_con_error: 1
+celdas_codigo: 93
+celdas_ejecutadas: 77
+kernels_aislados_verificados: False
+notebooks_fuente_conservados: True
+ejecucion_notebooks_entorno_limpio: False
+equivalencia_metricas_entorno_limpio_validada: False

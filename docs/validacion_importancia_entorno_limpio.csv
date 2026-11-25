@@ -1,0 +1,13 @@
+Variable,Importancia_RMSE_original,Importancia_RMSE_limpio,Importancia_RMSE_diferencia,Importancia_RMSE_equivalente,Desviacion_original,Desviacion_limpio,Desviacion_diferencia,Desviacion_equivalente
+categoricas__season_1,0.0,-0.0,0.0,True,0.0,0.0,0.0,True
+categoricas__season_2,6.427,6.427,0.0,True,5.755,5.755,0.0,True
+categoricas__season_3,0.0,-0.0,0.0,True,0.0,0.0,0.0,True
+categoricas__season_4,0.0,-0.0,0.0,True,0.0,0.0,0.0,True
+categoricas__weathersit_1,4.417,4.417,0.0,True,7.911,7.911,0.0,True
+categoricas__weathersit_2,5.451,5.451,0.0,True,7.987,7.987,0.0,True
+categoricas__weathersit_3,0.0,-0.0,0.0,True,0.0,0.0,0.0,True
+categoricas__yr_0,0.0,-0.0,0.0,True,0.0,0.0,0.0,True
+categoricas__yr_1,-0.0,-0.0,0.0,True,0.0,0.0,0.0,True
+numericas__hum,102.359,102.359,0.0,True,28.174,28.174,0.0,True
+numericas__temp_hum_interaccion,8.681,8.681,0.0,True,4.756,4.756,0.0,True
+numericas__windspeed,40.503,40.503,0.0,True,31.524,31.524,0.0,True

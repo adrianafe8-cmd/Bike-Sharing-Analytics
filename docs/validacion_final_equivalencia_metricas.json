@@ -1,0 +1,16 @@
+{
+    "fase2_equivalente": true,
+    "fase3_equivalente": true,
+    "fase4_equivalente": true,
+    "importancia_variables_equivalente": true,
+    "variables_importancia_comparadas": 12,
+    "comparaciones_totales": 48,
+    "comparaciones_equivalentes": 48,
+    "porcentaje_equivalencia": 100.0,
+    "tolerancia_relativa": 1e-06,
+    "tolerancia_absoluta": 1e-08,
+    "equivalencia_metricas_validada": true,
+    "alcance": "Tablas de resultados visibles de fases 2 y 3 y archivos CSV originales de fase 4.",
+    "instalacion_desde_entorno_limpio_validada": false,
+    "modelos_reentrenados_en_esta_celda": 0
+}

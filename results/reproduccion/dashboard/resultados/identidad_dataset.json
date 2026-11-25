@@ -1,0 +1,10 @@
+{
+    "Nombre": "Bike Sharing Dataset",
+    "Archivo": "day.csv",
+    "DOI": "10.24432/C5W894",
+    "Licencia": "CC BY 4.0",
+    "Registros": 731,
+    "Variables": 16,
+    "SHA256": "a6bcf826782d3c0fbfdcbeead17cd0884185a0dafe8ff10cd48a874ee7ba18be",
+    "URL": "https://archive.ics.uci.edu/static/public/275/bike+sharing+dataset.zip"
+}

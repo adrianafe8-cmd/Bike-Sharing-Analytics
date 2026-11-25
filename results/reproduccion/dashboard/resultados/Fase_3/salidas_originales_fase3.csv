@@ -1,0 +1,275 @@
+﻿Celda,Salida,Tipo_salida,Resultado
+2,1,stream,"Dataset cargado correctamente
+Dimensiones: (731, 16)
+Columnas: ['instant', 'dteday', 'season', 'yr', 'mnth', 'holiday', 'weekday', 'workingday', 'weathersit', 'temp', 'atemp', 'hum', 'windspeed', 'casual', 'registered', 'cnt']
+"
+2,2,display_data,"   instant      dteday  season  yr  mnth  holiday  weekday  workingday  \
+0        1  2011-01-01       1   0     1        0        6           0   
+1        2  2011-01-02       1   0     1        0        0           0   
+2        3  2011-01-03       1   0     1        0        1           1   
+3        4  2011-01-04       1   0     1        0        2           1   
+4        5  2011-01-05       1   0     1        0        3           1   
+
+   weathersit      temp     atemp       hum  windspeed  casual  registered  \
+0           2  0.344167  0.363625  0.805833   0.160446     331         654   
+1           2  0.363478  0.353739  0.696087   0.248539     131         670   
+2           1  0.196364  0.189405  0.437273   0.248309     120        1229   
+3           1  0.200000  0.212122  0.590435   0.160296     108        1454   
+4           1  0.226957  0.229270  0.436957   0.186900      82        1518   
+
+    cnt  
+0   985  
+1   801  
+2  1349  
+3  1562  
+4  1600  "
+3,1,stream,"Dimensiones: (731, 16)
+Valores faltantes: 0
+Fechas duplicadas: 0
+Periodo: 2011-01-01 a 2012-12-31
+Promedio de alquileres: 4504.35
+Validación de calidad superada.
+"
+4,1,stream,"Entrenamiento: 511 registros | 2011-01-01 a 2012-05-25
+Validación: 109 registros | 2012-05-26 a 2012-09-11
+Prueba: 111 registros | 2012-09-12 a 2012-12-31
+División cronológica correcta.
+"
+6,1,stream,"Entrenamiento: 511 filas, 18 columnas
+Validación: 109 filas, 18 columnas
+Prueba: 111 filas, 18 columnas
+
+Ejemplo de las nuevas características:
+"
+6,2,display_data,"      dteday      temp       hum  fin_de_semana  temp_hum_interaccion   cnt
+0 2011-01-01  0.344167  0.805833              1              0.277341   985
+1 2011-01-02  0.363478  0.696087              1              0.253012   801
+2 2011-01-03  0.196364  0.437273              0              0.085865  1349
+3 2011-01-04  0.200000  0.590435              0              0.118087  1562
+4 2011-01-05  0.226957  0.436957              0              0.099170  1600
+5 2011-01-06  0.204348  0.518261              0              0.105906  1606
+6 2011-01-07  0.196522  0.498696              0              0.098005  1510
+7 2011-01-08  0.165000  0.535833              1              0.088412   959
+8 2011-01-09  0.138333  0.434167              1              0.060060   822
+9 2011-01-10  0.150833  0.482917              0              0.072840  1321"
+6,3,stream,"
+Ingeniería de características completada.
+"
+8,1,stream,"Entrenamiento: (511, 17)
+Validación: (109, 17)
+Prueba: (111, 17)
+Preprocesamiento completado sin fuga de información.
+"
+10,1,display_data,<pandas.io.formats.style.Styler at 0x7c3e124d4a50>
+10,2,stream,"Mejor alpha: 0.1
+RMSE de validación: 919.6
+Optimización Ridge completada.
+"
+12,1,display_data,<pandas.io.formats.style.Styler at 0x7c3e0db8bc50>
+12,2,stream,"
+Mejor configuración: (200, 10, 3)
+RMSE de validación: 831.34
+Optimización Random Forest completada.
+"
+13,1,display_data,"          Modelo       MAE      RMSE      R2
+0          Ridge  730.4686  919.6018 -0.1677
+1  Random Forest  672.4859  831.3365  0.0457"
+13,2,display_data,<Figure size 1500x400 with 3 Axes>
+13,3,stream,"Mejor modelo: Random Forest
+Gráfico guardado en: /content/Fase_3_Bicicletas/resultados/comparacion_regresion.png
+Comparación completada.
+"
+16,1,stream,"Umbral de demanda: 3974.0 alquileres diarios
+"
+16,2,display_data,"              Entrenamiento  Validación  Prueba
+cnt                                            
+Demanda baja            255           0      21
+Demanda alta            256         109      90"
+16,3,stream,"Variable objetivo de clasificación creada.
+"
+17,1,stream,"
+Entrenamiento
+Clases presentes: 2
+Distribución: {0: 255, 1: 256}
+AUC-ROC podrá calcularse cuando dispongamos de probabilidades del modelo.
+
+Validación
+Clases presentes: 1
+Distribución: {1: 109}
+ADVERTENCIA: AUC-ROC no está definida porque solo existe una clase real.
+
+Prueba
+Clases presentes: 2
+Distribución: {0: 21, 1: 90}
+AUC-ROC podrá calcularse cuando dispongamos de probabilidades del modelo.
+
+Diagnóstico de clasificación completado.
+"
+20,1,display_data,"   Fold  N_entrenamiento  N_validacion  Clases_entrenamiento  \
+0     1               86            85                     1   
+1     2              171            85                     2   
+2     3              256            85                     2   
+3     4              341            85                     2   
+4     5              426            85                     2   
+
+   Clases_validacion  AUC_calculable  Fold_utilizable  
+0                  2            True            False  
+1                  2            True             True  
+2                  2            True             True  
+3                  2            True             True  
+4                  2            True             True  "
+20,2,stream,"Particiones utilizables: 4 de 5
+Diagnóstico temporal completado.
+"
+22,1,display_data,<pandas.io.formats.style.Styler at 0x7c3e047c5bd0>
+22,2,stream,"Mejor k: 11
+F1 promedio: 0.6428
+Optimización KNN completada.
+"
+24,1,display_data,<pandas.io.formats.style.Styler at 0x7c3e047c7110>
+24,2,stream,"Mejor configuración: 200 5 1
+F1 promedio: 0.6134
+Optimización Random Forest Classifier completada.
+"
+25,1,display_data,<pandas.io.formats.style.Styler at 0x7c3e047c7750>
+25,2,display_data,<Figure size 1200x500 with 1 Axes>
+25,3,stream,"Mejor clasificador: KNN
+Gráfico guardado en: /content/Fase_3_Bicicletas/resultados/comparacion_clasificacion.png
+Comparación de clasificación completada.
+"
+28,1,stream,"Registros para clustering: 731
+Características transformadas: 14
+Variables originales: ['temp', 'hum', 'windspeed', 'season', 'weathersit', 'workingday', 'yr']
+Preparación para clustering completada.
+"
+30,1,display_data,<pandas.io.formats.style.Styler at 0x7c3e04696710>
+30,2,stream,"Mejor K según silueta: 2
+"
+30,3,display_data,<Figure size 1300x400 with 2 Axes>
+30,4,stream,"Análisis K-Means completado.
+Gráfico guardado en: /content/Fase_3_Bicicletas/resultados/kmeans_codo_silueta.png
+"
+32,1,stream,"Distribución de observaciones:
+"
+32,2,display_data,"                Cantidad de días
+cluster_kmeans                  
+0                            293
+1                            438"
+32,3,stream,"
+Perfil de los clústeres:
+"
+32,4,display_data,"                dias  demanda_promedio  demanda_mediana  temperatura_promedio  \
+cluster_kmeans                                                                  
+0                293          3540.512           3322.0                 0.345   
+1                438          5149.107           4911.5                 0.596   
+
+                humedad_promedio  viento_promedio  proporcion_laborales  
+cluster_kmeans                                                           
+0                          0.542            0.236                 0.652  
+1                          0.685            0.160                 0.705  "
+32,5,display_data,<Figure size 800x400 with 1 Axes>
+32,6,stream,"Caracterización K-Means completada.
+"
+34,1,stream,"Comparación de algoritmos:
+"
+34,2,display_data,<pandas.io.formats.style.Styler at 0x7c3e047c6210>
+34,3,stream,"Índice Rand ajustado (ARI): 0.4276
+
+Distribución Agglomerative:
+"
+34,4,display_data,"                      Cantidad de días
+cluster_aglomerativo                  
+0                                  446
+1                                  285"
+34,5,stream,"Clustering jerárquico completado.
+"
+36,1,stream,"Perfil de Agglomerative Clustering:
+"
+36,2,display_data,"                      dias  demanda_promedio  demanda_mediana  \
+cluster_aglomerativo                                            
+0                      446          4830.417           4735.5   
+1                      285          3994.081           3910.0   
+
+                      temperatura_promedio  humedad_promedio  viento_promedio  \
+cluster_aglomerativo                                                            
+0                                    0.578             0.689            0.179   
+1                                    0.366             0.533            0.209   
+
+                      proporcion_laborales  
+cluster_aglomerativo                        
+0                                     0.70  
+1                                     0.66  "
+36,3,display_data,<Figure size 1200x400 with 2 Axes>
+36,4,stream,"Caracterización de Agglomerative completada.
+"
+38,1,stream,"Importancia por permutación:
+"
+38,2,display_data,"                           Variable  Importancia_RMSE  Desviacion
+0                    numericas__hum           102.359      28.174
+1              numericas__windspeed            40.503      31.524
+2   numericas__temp_hum_interaccion             8.681       4.756
+3             categoricas__season_2             6.427       5.755
+4         categoricas__weathersit_2             5.451       7.987
+5         categoricas__weathersit_1             4.417       7.911
+6             categoricas__season_3             0.000       0.000
+7                 categoricas__yr_1             0.000       0.000
+8             categoricas__season_4             0.000       0.000
+9                 categoricas__yr_0             0.000       0.000
+10            categoricas__season_1            -0.000       0.000
+11        categoricas__weathersit_3            -0.000       0.000"
+38,3,display_data,<Figure size 1000x600 with 1 Axes>
+38,4,stream,"Análisis de interpretabilidad completado.
+"
+40,1,stream,"Evaluación final de regresión:
+"
+40,2,display_data,<pandas.io.formats.style.Styler at 0x7c3e124d4e10>
+40,3,display_data,<Figure size 1300x500 with 2 Axes>
+40,4,stream,"Evaluación final de regresión completada.
+"
+42,1,stream,"Evaluación final de clasificación:
+"
+42,2,display_data,<pandas.io.formats.style.Styler at 0x7c3e0c22e990>
+42,3,display_data,<Figure size 1200x400 with 2 Axes>
+42,4,stream,"Evaluación final de clasificación completada.
+"
+44,1,stream,"=======================================================
+RESUMEN FINAL - FASE 3
+=======================================================
+
+1. REGRESIÓN - CONJUNTO DE PRUEBA
+"
+44,2,display_data,"          Modelo        MAE       RMSE      R2
+0          Ridge   938.5730  1232.4841  0.6215
+1  Random Forest  1210.5284  1386.5265  0.5210"
+44,3,stream,"
+2. CLASIFICACIÓN - CONJUNTO DE PRUEBA
+"
+44,4,display_data,"          Modelo  Accuracy  Precision  Recall      F1  AUC_ROC
+0  Random Forest    0.7027     0.9524  0.6667  0.7843   0.9011
+1            KNN    0.6306     0.9623  0.5667  0.7133   0.8730"
+44,5,stream,"
+3. CLUSTERING - COMPARACIÓN
+"
+44,6,display_data,"       Algoritmo  Clusters  Silueta
+0        K-Means         2   0.1918
+1  Agglomerative         2   0.1543"
+44,7,stream,"
+4. CONFIGURACIONES SELECCIONADAS
+Ridge alpha: 0.1
+Random Forest Regressor: (200, 10, 3)
+KNN k: 11
+Random Forest Classifier: 200 5 1
+K-Means K: 2
+
+5. VERIFICACIÓN DE GRÁFICOS
+OK: comparacion_regresion.png
+OK: comparacion_clasificacion.png
+OK: kmeans_codo_silueta.png
+OK: perfil_kmeans.png
+OK: comparacion_perfiles_clusters.png
+OK: importancia_variables_regresion.png
+OK: evaluacion_final_regresion.png
+OK: evaluacion_final_clasificacion.png
+
+VERIFICACIÓN FINAL COMPLETADA.
+"

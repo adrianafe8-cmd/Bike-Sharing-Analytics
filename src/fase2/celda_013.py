@@ -1,0 +1,10 @@
+df_modelo=df_modelo.sort_values('dteday').reset_index(drop=True)
+n=len(df_modelo);n_train=int(n*.70);n_val=int(n*.15)
+train_df=df_modelo.iloc[:n_train].copy()
+val_df=df_modelo.iloc[n_train:n_train+n_val].copy()
+test_df=df_modelo.iloc[n_train+n_val:].copy()
+for nombre,conjunto in [('Entrenamiento',train_df),('Validación',val_df),('Prueba',test_df)]:
+    print(nombre,len(conjunto),conjunto.dteday.min().date(),'a',conjunto.dteday.max().date())
+assert len(train_df)+len(val_df)+len(test_df)==len(df_modelo)
+assert train_df.dteday.max()<val_df.dteday.min()<test_df.dteday.min()
+print('Partición cronológica correcta.')

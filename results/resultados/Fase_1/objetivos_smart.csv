@@ -1,0 +1,4 @@
+﻿Objetivo,Descripcion,Indicador,Plazo
+Específico 1,"Caracterizar las 731 observaciones y las 16 variables originales mediante estadísticas descriptivas, frecuencias y visualizaciones durante la Fase 1.",16 variables caracterizadas,Finalización de la Fase 1
+Específico 2,"Cuantificar la asociación entre las variables meteorológicas y la demanda mediante Pearson, Spearman y pruebas exploratorias Chi-cuadrado.",2 matrices de correlación y 4 pruebas Chi-cuadrado,Finalización de la Fase 1
+Específico 3,"Evaluar la calidad de las 731 observaciones mediante la identificación de valores faltantes, duplicados, inconsistencias y outliers utilizando IQR y Z-score.",100 % de los registros evaluados y 2 métodos de detección de outliers,Antes del modelado predictivo

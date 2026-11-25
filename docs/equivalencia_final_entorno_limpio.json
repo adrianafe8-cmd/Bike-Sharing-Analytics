@@ -1,0 +1,13 @@
+{
+    "comparaciones_realizadas": 67,
+    "comparaciones_equivalentes": 67,
+    "comparaciones_con_diferencias": 0,
+    "porcentaje_equivalencia": 100.0,
+    "tolerancia_relativa": 1e-06,
+    "tolerancia_absoluta": 1e-08,
+    "equivalencia_metricas_entorno_limpio_validada": true,
+    "alcance": "CSV de las cuatro fases y tablas de los notebooks de las fases 2 y 3",
+    "modelos_reentrenados_en_esta_celda": 0,
+    "variables_importancia_evaluadas": 12,
+    "importancia_variables_equivalente": true
+}

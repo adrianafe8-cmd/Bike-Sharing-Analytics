@@ -1,0 +1,9 @@
+{
+    "configuracion_centralizada": true,
+    "script_verificacion_creado": true,
+    "verificacion_inicial_ok": true,
+    "codigo_retorno": 0,
+    "notebooks_originales_modificados": false,
+    "modelos_reentrenados": 0,
+    "reproducibilidad_integral": false
+}

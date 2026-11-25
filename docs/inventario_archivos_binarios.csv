@@ -1,0 +1,41 @@
+archivo,extension,categoria,tamano_kb
+.nojekyll,,Configuración GitHub Pages,0.0
+docs/evidencias/Fases_2_3/fase 2 y fase 3/fase 2/Informe_Regresion_Bicicletas fase 2.pdf,.pdf,Documento o archivo Office,633.11
+docs/evidencias/Fases_2_3/fase 2 y fase 3/fase 3/Informe_Fase_3_Modelado_Avanzado_Bicicletas.pdf,.pdf,Documento o archivo Office,612.59
+results/evidencias/Fase_4/analisis_desbalance.png,.png,Imagen o gráfica,37.78
+results/evidencias/Fase_4/comparacion_baseline_clasificacion.png,.png,Imagen o gráfica,74.31
+results/evidencias/Fase_4/comparacion_baseline_regresion.png,.png,Imagen o gráfica,55.2
+results/evidencias/Fase_4/comparacion_estandarizacion.png,.png,Imagen o gráfica,111.86
+results/evidencias/Fase_4/comparacion_winsorization.png,.png,Imagen o gráfica,81.75
+results/evidencias/Fase_4/completitud_datos.png,.png,Imagen o gráfica,58.42
+results/evidencias/Fase_4/curvas_roc_baseline.png,.png,Imagen o gráfica,83.89
+results/evidencias/Fase_4/deteccion_outliers.png,.png,Imagen o gráfica,66.41
+results/evidencias/Fase_4/ingenieria_caracteristicas.png,.png,Imagen o gráfica,54.15
+results/evidencias/Fase_4/matrices_baseline_clasificacion.png,.png,Imagen o gráfica,44.18
+results/evidencias/Fase_4/particion_estratificada.png,.png,Imagen o gráfica,46.43
+results/evidencias/Fase_4/predicciones_baseline_regresion.png,.png,Imagen o gráfica,80.01
+results/resultados/Fase_2/imagenes_originales/celda_09_salida_02.png,.png,Imagen o gráfica,51.05
+results/resultados/Fase_2/imagenes_originales/celda_21_salida_02.png,.png,Imagen o gráfica,93.21
+results/resultados/Fase_2/imagenes_originales/celda_23_salida_01.png,.png,Imagen o gráfica,63.19
+results/resultados/Fase_2/imagenes_originales/celda_23_salida_02.png,.png,Imagen o gráfica,91.22
+results/resultados/Fase_2/imagenes_originales/celda_23_salida_03.png,.png,Imagen o gráfica,72.28
+results/resultados/Fase_3/imagenes_originales/celda_13_salida_02.png,.png,Imagen o gráfica,34.19
+results/resultados/Fase_3/imagenes_originales/celda_25_salida_02.png,.png,Imagen o gráfica,26.93
+results/resultados/Fase_3/imagenes_originales/celda_30_salida_03.png,.png,Imagen o gráfica,60.61
+results/resultados/Fase_3/imagenes_originales/celda_32_salida_05.png,.png,Imagen o gráfica,20.46
+results/resultados/Fase_3/imagenes_originales/celda_36_salida_03.png,.png,Imagen o gráfica,30.5
+results/resultados/Fase_3/imagenes_originales/celda_38_salida_03.png,.png,Imagen o gráfica,47.79
+results/resultados/Fase_3/imagenes_originales/celda_40_salida_03.png,.png,Imagen o gráfica,64.19
+results/resultados/Fase_3/imagenes_originales/celda_42_salida_03.png,.png,Imagen o gráfica,21.9
+results/resultados/Fase_4/imagenes_originales/analisis_desbalance.png,.png,Imagen o gráfica,37.78
+results/resultados/Fase_4/imagenes_originales/comparacion_baseline_clasificacion.png,.png,Imagen o gráfica,74.31
+results/resultados/Fase_4/imagenes_originales/comparacion_baseline_regresion.png,.png,Imagen o gráfica,55.2
+results/resultados/Fase_4/imagenes_originales/comparacion_estandarizacion.png,.png,Imagen o gráfica,111.86
+results/resultados/Fase_4/imagenes_originales/comparacion_winsorization.png,.png,Imagen o gráfica,81.75
+results/resultados/Fase_4/imagenes_originales/completitud_datos.png,.png,Imagen o gráfica,58.42
+results/resultados/Fase_4/imagenes_originales/curvas_roc_baseline.png,.png,Imagen o gráfica,83.89
+results/resultados/Fase_4/imagenes_originales/deteccion_outliers.png,.png,Imagen o gráfica,66.41
+results/resultados/Fase_4/imagenes_originales/ingenieria_caracteristicas.png,.png,Imagen o gráfica,54.15
+results/resultados/Fase_4/imagenes_originales/matrices_baseline_clasificacion.png,.png,Imagen o gráfica,44.18
+results/resultados/Fase_4/imagenes_originales/particion_estratificada.png,.png,Imagen o gráfica,46.43
+results/resultados/Fase_4/imagenes_originales/predicciones_baseline_regresion.png,.png,Imagen o gráfica,80.01

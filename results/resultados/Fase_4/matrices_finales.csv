@@ -1,0 +1,7 @@
+Problema,Conjunto,Registros,Caracteristicas,Valores_faltantes
+Regresión,Entrenamiento,511,29,0
+Regresión,Validación,109,29,0
+Regresión,Prueba,111,29,0
+Clasificación,Entrenamiento,511,29,0
+Clasificación,Validación,110,29,0
+Clasificación,Prueba,110,29,0

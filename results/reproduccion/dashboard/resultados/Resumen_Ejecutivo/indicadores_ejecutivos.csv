@@ -1,0 +1,12 @@
+﻿Indicador,Valor,Unidad,Fuente
+Total de alquileres,3292679.0,Alquileres,Dataset original
+Promedio diario,4504.3488372093025,Alquileres/día,Dataset original
+Crecimiento anual,64.87579870694545,%,Dataset original
+Completitud,100.0,%,Fase 1
+Reducción MAE regresión múltiple,56.56274805046646,%,Fase 2 - Validación
+R2 regresión múltiple,0.6218,Coeficiente,Fase 2 - Prueba
+Silueta K-Means,0.1918,Coeficiente,Fase 3
+Accuracy regresión logística,90.0,%,Fase 4 - Prueba estratificada
+AUC-ROC regresión logística,0.9751400560224088,Coeficiente,Fase 4 - Prueba estratificada
+Características predictoras,29.0,Características,Fase 4
+Cumplimiento aplicable,100.0,%,Fase 4 - Verificación interna

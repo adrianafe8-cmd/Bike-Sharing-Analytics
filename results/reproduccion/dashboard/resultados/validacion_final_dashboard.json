@@ -1,0 +1,18 @@
+{
+    "Pestanas": 5,
+    "Graficas_interactivas": 47,
+    "Tablas_interactivas": 41,
+    "Imagenes_originales": 25,
+    "Componentes_interfaz": 661,
+    "Callbacks": 2,
+    "Pruebas_filtros": 18,
+    "Pruebas_navegacion": 5,
+    "Modelos_reentrenados": 0,
+    "Identidad_dataset": "OK",
+    "Licencia": "CC BY 4.0",
+    "Endpoints": {
+        "/": 200,
+        "/_dash-layout": 200,
+        "/_dash-dependencies": 200
+    }
+}

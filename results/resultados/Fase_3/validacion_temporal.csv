@@ -1,0 +1,6 @@
+﻿Fold,N_entrenamiento,N_validacion,Clases_entrenamiento,Clases_validacion,AUC_calculable,Fold_utilizable
+1,86,85,1,2,True,False
+2,171,85,2,2,True,True
+3,256,85,2,2,True,True
+4,341,85,2,2,True,True
+5,426,85,2,2,True,True

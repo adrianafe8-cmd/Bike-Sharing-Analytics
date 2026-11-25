@@ -1,0 +1,13 @@
+
+Los sistemas de bicicletas compartidas requieren una
+planificación eficiente de sus recursos para responder
+a las variaciones de la demanda.
+
+La demanda de alquileres puede estar asociada con factores
+meteorológicos, estacionales y temporales. Comprender estas
+relaciones permite apoyar la planificación operativa,
+la disponibilidad de bicicletas y la toma de decisiones
+basada en datos.
+
+El proyecto analiza 731 observaciones diarias del sistema
+Capital Bikeshare durante los años 2011 y 2012.

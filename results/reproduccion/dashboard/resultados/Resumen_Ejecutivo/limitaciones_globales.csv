@@ -1,0 +1,12 @@
+﻿Ambito,Limitacion
+Procedencia,La Fase 1 fue reconstruida a partir del dataset original.
+Representatividad,El dataset corresponde exclusivamente al periodo 2011-2012.
+Correlación,Las asociaciones estadísticas no demuestran causalidad.
+Fuga de información,"casual y registered no deben utilizarse para predecir cnt, porque su suma define directamente la variable objetivo."
+Regresión,Las fases utilizan diferentes características y estrategias de preprocesamiento.
+Regresión en R,Se identificaron cinco coeficientes no estimables por singularidades.
+Clasificación temporal,La validación externa de Fase 3 contiene exclusivamente demanda alta.
+Comparabilidad,La clasificación de Fase 3 es cronológica y la de Fase 4 aleatoria estratificada.
+Umbral de clasificación,El umbral de 3974 alquileres fue heredado de Fase 3. Existe posible solapamiento entre su conjunto de estimación y las particiones aleatorias de Fase 4.
+Generalización,El desempeño de clasificación de Fase 4 no demuestra capacidad de predicción sobre periodos futuros.
+Evidencias,Los modelos de las fases anteriores no fueron reentrenados en este dashboard.

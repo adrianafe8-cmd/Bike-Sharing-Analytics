@@ -1,0 +1,14 @@
+﻿Indicador,Valor
+Completitud del dataset (%),100.0
+Características predictoras,29.0
+Variables derivadas,4.0
+RMSE regresión lineal en prueba,2568.032012246994
+RMSE Dummy Regressor en prueba,2679.2467522629886
+Reducción relativa RMSE (%),4.150970414429311
+Accuracy regresión logística,0.9
+AUC-ROC regresión logística,0.9751400560224088
+Mejora Accuracy (pp),28.181818181818187
+Mejora F1 Macro (pp),51.15664824474641
+Requerimientos cumplidos,12.0
+Requerimientos no aplicables,1.0
+Cumplimiento aplicable (%),100.0

@@ -1,0 +1,6 @@
+﻿Modelo,Hiperparametros,Configuracion
+Ridge,alpha,0.1
+Random Forest Regressor,"n_estimators, max_depth, min_samples_leaf","(200, 10, 3)"
+KNN,n_neighbors,11
+Random Forest Classifier,"n_estimators, max_depth, min_samples_leaf",200 5 1
+K-Means,n_clusters,2

@@ -1,0 +1,210 @@
+archivo,seccion,categoria,coincidencias,primera_linea
+README.md,Contenido,Instalación pip,1,62
+dashboard/index.html,Contenido,Ruta Windows,9,307
+docs/entorno_ejecucion.json,Contenido,Integración R,1,21
+notebooks/04_Preprocesamiento_Bicicletas.ipynb,Celda 2 - fuente,Ruta absoluta Colab,1,29
+notebooks/04_Preprocesamiento_Bicicletas.ipynb,Celda 2 - salida,Ruta absoluta Colab,1,1
+notebooks/04_Preprocesamiento_Bicicletas.ipynb,Celda 2 - salida,Dependencia Google Colab,4,1
+notebooks/04_Preprocesamiento_Bicicletas.ipynb,Celda 4 - salida,Dependencia Google Colab,4,1
+notebooks/04_Preprocesamiento_Bicicletas.ipynb,Celda 6 - salida,Dependencia Google Colab,6,1
+notebooks/04_Preprocesamiento_Bicicletas.ipynb,Celda 8 - salida,Ruta absoluta Colab,1,1
+notebooks/04_Preprocesamiento_Bicicletas.ipynb,Celda 8 - salida,Dependencia Google Colab,4,1
+notebooks/04_Preprocesamiento_Bicicletas.ipynb,Celda 10 - salida,Dependencia Google Colab,14,1
+notebooks/04_Preprocesamiento_Bicicletas.ipynb,Celda 12 - salida,Dependencia Google Colab,12,1
+notebooks/04_Preprocesamiento_Bicicletas.ipynb,Celda 14 - salida,Dependencia Google Colab,16,1
+notebooks/04_Preprocesamiento_Bicicletas.ipynb,Celda 16 - salida,Dependencia Google Colab,10,1
+notebooks/04_Preprocesamiento_Bicicletas.ipynb,Celda 18 - salida,Dependencia Google Colab,8,1
+notebooks/04_Preprocesamiento_Bicicletas.ipynb,Celda 20 - salida,Dependencia Google Colab,20,1
+notebooks/04_Preprocesamiento_Bicicletas.ipynb,Celda 22 - salida,Dependencia Google Colab,18,1
+notebooks/04_Preprocesamiento_Bicicletas.ipynb,Celda 24 - salida,Dependencia Google Colab,4,1
+notebooks/04_Preprocesamiento_Bicicletas.ipynb,Celda 26 - salida,Dependencia Google Colab,4,1
+notebooks/04_Preprocesamiento_Bicicletas.ipynb,Celda 28 - salida,Dependencia Google Colab,30,1
+notebooks/04_Preprocesamiento_Bicicletas.ipynb,Celda 30 - salida,Ruta absoluta Colab,1,1
+notebooks/04_Preprocesamiento_Bicicletas.ipynb,Celda 31 - fuente,Ruta absoluta Colab,1,4
+notebooks/04_Preprocesamiento_Bicicletas.ipynb,Celda 31 - fuente,Descarga Colab,1,3
+notebooks/04_Preprocesamiento_Bicicletas.ipynb,Celda 31 - fuente,Dependencia Google Colab,1,1
+notebooks/04_Preprocesamiento_Bicicletas.ipynb,Celda 31 - salida,Dependencia Google Colab,2,1
+notebooks/05_Dashboard_Global_Bicicletas.ipynb,Celda 2 - fuente,Ruta absoluta Colab,1,32
+notebooks/05_Dashboard_Global_Bicicletas.ipynb,Celda 2 - fuente,Instalación pip,1,7
+notebooks/05_Dashboard_Global_Bicicletas.ipynb,Celda 2 - salida,Ruta absoluta Colab,4,1
+notebooks/05_Dashboard_Global_Bicicletas.ipynb,Celda 3 - salida,Dependencia Google Colab,8,1
+notebooks/05_Dashboard_Global_Bicicletas.ipynb,Celda 4 - fuente,Carga manual Colab,1,39
+notebooks/05_Dashboard_Global_Bicicletas.ipynb,Celda 4 - fuente,Dependencia Google Colab,1,7
+notebooks/05_Dashboard_Global_Bicicletas.ipynb,Celda 4 - salida,Ruta Windows,1,1
+notebooks/05_Dashboard_Global_Bicicletas.ipynb,Celda 4 - salida,Dependencia Google Colab,22,1
+notebooks/05_Dashboard_Global_Bicicletas.ipynb,Celda 5 - salida,Dependencia Google Colab,14,1
+notebooks/05_Dashboard_Global_Bicicletas.ipynb,Celda 6 - salida,Dependencia Google Colab,36,1
+notebooks/05_Dashboard_Global_Bicicletas.ipynb,Celda 7 - salida,Dependencia Google Colab,4,1
+notebooks/05_Dashboard_Global_Bicicletas.ipynb,Celda 8 - fuente,Ruta absoluta Colab,1,10
+notebooks/05_Dashboard_Global_Bicicletas.ipynb,Celda 8 - salida,Ruta Windows,3,1
+notebooks/05_Dashboard_Global_Bicicletas.ipynb,Celda 8 - salida,Dependencia Google Colab,6,1
+notebooks/05_Dashboard_Global_Bicicletas.ipynb,Celda 8 - salida,Integración R,2,1
+notebooks/05_Dashboard_Global_Bicicletas.ipynb,Celda 9 - fuente,Ruta Windows,4,123
+notebooks/05_Dashboard_Global_Bicicletas.ipynb,Celda 9 - salida,Ruta absoluta Colab,13,1
+notebooks/05_Dashboard_Global_Bicicletas.ipynb,Celda 9 - salida,Dependencia Google Colab,28,1
+notebooks/05_Dashboard_Global_Bicicletas.ipynb,Celda 10 - salida,Ruta absoluta Colab,2,1
+notebooks/05_Dashboard_Global_Bicicletas.ipynb,Celda 10 - salida,Ruta Windows,5,1
+notebooks/05_Dashboard_Global_Bicicletas.ipynb,Celda 11 - fuente,Ruta Windows,8,123
+notebooks/05_Dashboard_Global_Bicicletas.ipynb,Celda 17 - salida,Dependencia Google Colab,2,1
+notebooks/05_Dashboard_Global_Bicicletas.ipynb,Celda 18 - salida,Ruta Windows,1,1
+notebooks/05_Dashboard_Global_Bicicletas.ipynb,Celda 21 - fuente,Ruta absoluta Colab,1,465
+notebooks/05_Dashboard_Global_Bicicletas.ipynb,Celda 21 - fuente,Descarga Colab,1,553
+notebooks/05_Dashboard_Global_Bicicletas.ipynb,Celda 21 - fuente,Dependencia Google Colab,1,551
+notebooks/05_Dashboard_Global_Bicicletas.ipynb,Celda 21 - salida,Ruta absoluta Colab,1,1
+notebooks/05_Dashboard_Global_Bicicletas.ipynb,Celda 21 - salida,Ruta Windows,1,1
+notebooks/05_Dashboard_Global_Bicicletas.ipynb,Celda 21 - salida,Dependencia Google Colab,2,1
+notebooks/05_Dashboard_Global_Bicicletas.ipynb,Celda 22 - salida,Dependencia Google Colab,2,1
+notebooks/05_Dashboard_Global_Bicicletas.ipynb,Celda 23 - fuente,Ruta absoluta Colab,1,19
+notebooks/05_Dashboard_Global_Bicicletas.ipynb,Celda 23 - fuente,Descarga Colab,1,1233
+notebooks/05_Dashboard_Global_Bicicletas.ipynb,Celda 23 - fuente,Dependencia Google Colab,1,13
+notebooks/05_Dashboard_Global_Bicicletas.ipynb,Celda 23 - salida,Ruta absoluta Colab,1,1
+notebooks/05_Dashboard_Global_Bicicletas.ipynb,Celda 23 - salida,Dependencia Google Colab,2,1
+notebooks/05_Dashboard_Global_Bicicletas.ipynb,Celda 24 - fuente,Ruta absoluta Colab,2,5
+notebooks/05_Dashboard_Global_Bicicletas.ipynb,Celda 24 - fuente,Descarga Colab,1,15
+notebooks/05_Dashboard_Global_Bicicletas.ipynb,Celda 24 - fuente,Dependencia Google Colab,1,3
+notebooks/05_Dashboard_Global_Bicicletas.ipynb,Celda 24 - salida,Dependencia Google Colab,2,1
+notebooks/05_Dashboard_Global_Bicicletas.ipynb,Celda 25 - fuente,Descarga Colab,1,650
+notebooks/05_Dashboard_Global_Bicicletas.ipynb,Celda 25 - fuente,Dependencia Google Colab,1,17
+notebooks/05_Dashboard_Global_Bicicletas.ipynb,Celda 25 - fuente,Instalación pip,1,406
+notebooks/05_Dashboard_Global_Bicicletas.ipynb,Celda 25 - fuente,Integración R,1,285
+notebooks/05_Dashboard_Global_Bicicletas.ipynb,Celda 25 - salida,Ruta Windows,1,1
+notebooks/05_Dashboard_Global_Bicicletas.ipynb,Celda 25 - salida,Dependencia Google Colab,2,1
+notebooks/05_Dashboard_Global_Bicicletas.ipynb,Celda 25 - salida,Integración R,1,1
+notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 2/Proyecto_Integrador_Bicicletas_Final.ipynb,Celda 1 - fuente,Integración R,1,6
+notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 2/Proyecto_Integrador_Bicicletas_Final.ipynb,Celda 3 - fuente,Ruta absoluta Colab,1,17
+notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 2/Proyecto_Integrador_Bicicletas_Final.ipynb,Celda 3 - salida,Ruta absoluta Colab,1,1
+notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 2/Proyecto_Integrador_Bicicletas_Final.ipynb,Celda 5 - fuente,Carga manual Colab,1,11
+notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 2/Proyecto_Integrador_Bicicletas_Final.ipynb,Celda 5 - fuente,Dependencia Google Colab,1,10
+notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 2/Proyecto_Integrador_Bicicletas_Final.ipynb,Celda 5 - salida,Dependencia Google Colab,4,1
+notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 2/Proyecto_Integrador_Bicicletas_Final.ipynb,Celda 7 - salida,Dependencia Google Colab,6,1
+notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 2/Proyecto_Integrador_Bicicletas_Final.ipynb,Celda 9 - salida,Dependencia Google Colab,4,1
+notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 2/Proyecto_Integrador_Bicicletas_Final.ipynb,Celda 11 - salida,Dependencia Google Colab,4,1
+notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 2/Proyecto_Integrador_Bicicletas_Final.ipynb,Celda 17 - salida,Dependencia Google Colab,4,1
+notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 2/Proyecto_Integrador_Bicicletas_Final.ipynb,Celda 19 - salida,Dependencia Google Colab,4,1
+notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 2/Proyecto_Integrador_Bicicletas_Final.ipynb,Celda 21 - salida,Dependencia Google Colab,4,1
+notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 2/Proyecto_Integrador_Bicicletas_Final.ipynb,Celda 27 - fuente,Integración R,1,2
+notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 2/Proyecto_Integrador_Bicicletas_Final.ipynb,Celda 28 - fuente,Integración R,1,12
+notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 2/Proyecto_Integrador_Bicicletas_Final.ipynb,Celda 28 - salida,Integración R,1,1
+notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 2/Proyecto_Integrador_Bicicletas_Final.ipynb,Celda 29 - fuente,Integración R,4,1
+notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 2/Proyecto_Integrador_Bicicletas_Final.ipynb,Celda 29 - salida,Integración R,2,1
+notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 2/Proyecto_Integrador_Bicicletas_Final.ipynb,Celda 30 - fuente,Integración R,3,19
+notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 2/Proyecto_Integrador_Bicicletas_Final.ipynb,Celda 30 - salida,Ruta Windows,2,1
+notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 2/Proyecto_Integrador_Bicicletas_Final.ipynb,Celda 32 - salida,Ruta Windows,1,1
+notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 2/Proyecto_Integrador_Bicicletas_Final.ipynb,Celda 34 - fuente,Descarga Colab,1,6
+notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 2/Proyecto_Integrador_Bicicletas_Final.ipynb,Celda 34 - fuente,Dependencia Google Colab,1,5
+notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 2/Proyecto_Integrador_Bicicletas_Final.ipynb,Celda 34 - salida,Ruta absoluta Colab,1,1
+notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 2/Proyecto_Integrador_Bicicletas_Final.ipynb,Celda 34 - salida,Dependencia Google Colab,2,1
+notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 3/Fase_3_Modelado_Avanzado_Bicicletas.ipynb,Celda 2 - fuente,Ruta absoluta Colab,1,20
+notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 3/Fase_3_Modelado_Avanzado_Bicicletas.ipynb,Celda 2 - salida,Dependencia Google Colab,4,1
+notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 3/Fase_3_Modelado_Avanzado_Bicicletas.ipynb,Celda 6 - salida,Ruta Windows,1,1
+notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 3/Fase_3_Modelado_Avanzado_Bicicletas.ipynb,Celda 6 - salida,Dependencia Google Colab,4,1
+notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 3/Fase_3_Modelado_Avanzado_Bicicletas.ipynb,Celda 13 - salida,Ruta absoluta Colab,1,1
+notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 3/Fase_3_Modelado_Avanzado_Bicicletas.ipynb,Celda 13 - salida,Dependencia Google Colab,4,1
+notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 3/Fase_3_Modelado_Avanzado_Bicicletas.ipynb,Celda 16 - salida,Dependencia Google Colab,6,1
+notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 3/Fase_3_Modelado_Avanzado_Bicicletas.ipynb,Celda 20 - salida,Dependencia Google Colab,6,1
+notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 3/Fase_3_Modelado_Avanzado_Bicicletas.ipynb,Celda 25 - salida,Ruta absoluta Colab,1,1
+notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 3/Fase_3_Modelado_Avanzado_Bicicletas.ipynb,Celda 30 - salida,Ruta absoluta Colab,1,1
+notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 3/Fase_3_Modelado_Avanzado_Bicicletas.ipynb,Celda 32 - salida,Ruta Windows,2,1
+notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 3/Fase_3_Modelado_Avanzado_Bicicletas.ipynb,Celda 32 - salida,Dependencia Google Colab,10,1
+notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 3/Fase_3_Modelado_Avanzado_Bicicletas.ipynb,Celda 34 - salida,Ruta Windows,2,1
+notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 3/Fase_3_Modelado_Avanzado_Bicicletas.ipynb,Celda 34 - salida,Dependencia Google Colab,4,1
+notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 3/Fase_3_Modelado_Avanzado_Bicicletas.ipynb,Celda 36 - salida,Ruta Windows,1,1
+notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 3/Fase_3_Modelado_Avanzado_Bicicletas.ipynb,Celda 36 - salida,Dependencia Google Colab,6,1
+notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 3/Fase_3_Modelado_Avanzado_Bicicletas.ipynb,Celda 38 - salida,Ruta Windows,1,1
+notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 3/Fase_3_Modelado_Avanzado_Bicicletas.ipynb,Celda 38 - salida,Dependencia Google Colab,4,1
+notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 3/Fase_3_Modelado_Avanzado_Bicicletas.ipynb,Celda 40 - salida,Ruta Windows,1,1
+notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 3/Fase_3_Modelado_Avanzado_Bicicletas.ipynb,Celda 42 - salida,Ruta Windows,1,1
+notebooks/evidencias/Fases_2_3/fase 2 y fase 3/fase 3/Fase_3_Modelado_Avanzado_Bicicletas.ipynb,Celda 44 - salida,Dependencia Google Colab,12,1
+requirements.txt,Contenido,Integración R,1,13
+results/resultados/Fase_1/graficas/boxplot_clima.html,Contenido,Ruta Windows,9,12
+results/resultados/Fase_1/graficas/calidad_datos.html,Contenido,Ruta Windows,9,12
+results/resultados/Fase_1/graficas/chi_cuadrado.html,Contenido,Ruta Windows,9,12
+results/resultados/Fase_1/graficas/comparacion_outliers.html,Contenido,Ruta Windows,9,12
+results/resultados/Fase_1/graficas/correlacion_pearson.html,Contenido,Ruta Windows,9,12
+results/resultados/Fase_1/graficas/correlacion_spearman.html,Contenido,Ruta Windows,9,12
+results/resultados/Fase_1/graficas/demanda_clima.html,Contenido,Ruta Windows,9,12
+results/resultados/Fase_1/graficas/demanda_estacion.html,Contenido,Ruta Windows,9,12
+results/resultados/Fase_1/graficas/dispersion_temperatura.html,Contenido,Ruta Windows,9,12
+results/resultados/Fase_1/graficas/factores_demanda.html,Contenido,Ruta Windows,9,12
+results/resultados/Fase_1/graficas/histograma_demanda.html,Contenido,Ruta Windows,9,12
+results/resultados/Fase_1/graficas/outliers.html,Contenido,Ruta Windows,9,12
+results/resultados/Fase_2/graficas/comparacion_modelos.html,Contenido,Ruta Windows,9,12
+results/resultados/Fase_2/graficas/comparacion_r2.html,Contenido,Ruta Windows,9,12
+results/resultados/Fase_2/graficas/evaluacion_final.html,Contenido,Ruta Windows,9,12
+results/resultados/Fase_2/graficas/mejora_mae.html,Contenido,Ruta Windows,9,12
+results/resultados/Fase_2/graficas/particion_datos.html,Contenido,Ruta Windows,9,12
+results/resultados/Fase_2/graficas/r2_evaluacion.html,Contenido,Ruta Windows,9,12
+results/resultados/Fase_2/inventario_imagenes.csv,Contenido,Ruta absoluta Colab,5,2
+results/resultados/Fase_2/inventario_notebook_fase2.csv,Contenido,Integración R,2,30
+results/resultados/Fase_2/salidas_originales_fase2.csv,Contenido,Ruta absoluta Colab,2,2
+results/resultados/Fase_2/salidas_originales_fase2.csv,Contenido,Integración R,3,113
+results/resultados/Fase_3/graficas/clasificacion_cv.html,Contenido,Ruta Windows,9,12
+results/resultados/Fase_3/graficas/clasificacion_prueba.html,Contenido,Ruta Windows,9,12
+results/resultados/Fase_3/graficas/clustering_ari.html,Contenido,Ruta Windows,9,12
+results/resultados/Fase_3/graficas/clustering_silueta.html,Contenido,Ruta Windows,9,12
+results/resultados/Fase_3/graficas/distribucion_clases.html,Contenido,Ruta Windows,9,12
+results/resultados/Fase_3/graficas/regresion_errores.html,Contenido,Ruta Windows,9,12
+results/resultados/Fase_3/graficas/regresion_r2.html,Contenido,Ruta Windows,9,12
+results/resultados/Fase_3/graficas/validacion_temporal.html,Contenido,Ruta Windows,9,12
+results/resultados/Fase_3/inventario_imagenes_fase3.csv,Contenido,Ruta absoluta Colab,8,2
+results/resultados/Fase_3/metricas_detectadas_fase3.csv,Contenido,Ruta absoluta Colab,2,85
+results/resultados/Fase_3/resultados_clasificacion.csv,Contenido,Ruta absoluta Colab,1,33
+results/resultados/Fase_3/resultados_clustering.csv,Contenido,Ruta absoluta Colab,1,8
+results/resultados/Fase_3/salidas_originales_fase3.csv,Contenido,Ruta absoluta Colab,3,79
+results/resultados/Fase_4/graficas/caracteristicas.html,Contenido,Ruta Windows,9,12
+results/resultados/Fase_4/graficas/clasificacion_accuracy.html,Contenido,Ruta Windows,9,12
+results/resultados/Fase_4/graficas/clasificacion_auc.html,Contenido,Ruta Windows,9,12
+results/resultados/Fase_4/graficas/clasificacion_f1_macro.html,Contenido,Ruta Windows,9,12
+results/resultados/Fase_4/graficas/clasificacion_prueba.html,Contenido,Ruta Windows,9,12
+results/resultados/Fase_4/graficas/completitud.html,Contenido,Ruta Windows,9,12
+results/resultados/Fase_4/graficas/cumplimiento.html,Contenido,Ruta Windows,9,12
+results/resultados/Fase_4/graficas/estandarizacion.html,Contenido,Ruta Windows,9,12
+results/resultados/Fase_4/graficas/outliers.html,Contenido,Ruta Windows,9,12
+results/resultados/Fase_4/graficas/particiones.html,Contenido,Ruta Windows,9,12
+results/resultados/Fase_4/graficas/regresion_errores.html,Contenido,Ruta Windows,9,12
+results/resultados/Fase_4/graficas/regresion_r2.html,Contenido,Ruta Windows,9,12
+results/resultados/Fase_4/graficas/winsorization.html,Contenido,Ruta Windows,9,12
+results/resultados/Fase_4/inventario_csv_fase4.csv,Contenido,Ruta absoluta Colab,19,2
+results/resultados/Fase_4/inventario_imagenes_fase4.csv,Contenido,Ruta absoluta Colab,12,2
+results/resultados/Resumen_Ejecutivo/graficas/clasificacion_por_fase.html,Contenido,Ruta Windows,9,12
+results/resultados/Resumen_Ejecutivo/graficas/demanda_anual.html,Contenido,Ruta Windows,9,12
+results/resultados/Resumen_Ejecutivo/graficas/demanda_diaria.html,Contenido,Ruta Windows,9,12
+results/resultados/Resumen_Ejecutivo/graficas/demanda_mensual.html,Contenido,Ruta Windows,9,12
+results/resultados/Resumen_Ejecutivo/graficas/evidencias_por_fase.html,Contenido,Ruta Windows,9,12
+results/resultados/Resumen_Ejecutivo/graficas/regresion_global_r2.html,Contenido,Ruta Windows,9,12
+results/resultados/Resumen_Ejecutivo/graficas/regresion_global_rmse.html,Contenido,Ruta Windows,9,12
+results/resultados/Resumen_Ejecutivo/graficas/tipo_usuario.html,Contenido,Ruta Windows,9,12
+results/resultados/inventario_evidencias.csv,Contenido,Ruta absoluta Colab,37,2
+src/dashboard/celda_002.ipy,Contenido,Ruta absoluta Colab,1,32
+src/dashboard/celda_002.ipy,Contenido,Instalación pip,1,7
+src/dashboard/celda_004.py,Contenido,Carga manual Colab,1,39
+src/dashboard/celda_004.py,Contenido,Dependencia Google Colab,1,7
+src/dashboard/celda_008.py,Contenido,Ruta absoluta Colab,1,10
+src/dashboard/celda_009.py,Contenido,Ruta Windows,4,123
+src/dashboard/celda_011.py,Contenido,Ruta Windows,8,123
+src/dashboard/celda_021.py,Contenido,Ruta absoluta Colab,1,465
+src/dashboard/celda_021.py,Contenido,Descarga Colab,1,553
+src/dashboard/celda_021.py,Contenido,Dependencia Google Colab,1,551
+src/dashboard/celda_023.py,Contenido,Ruta absoluta Colab,1,19
+src/dashboard/celda_023.py,Contenido,Descarga Colab,1,1233
+src/dashboard/celda_023.py,Contenido,Dependencia Google Colab,1,13
+src/dashboard/celda_024.py,Contenido,Ruta absoluta Colab,2,5
+src/dashboard/celda_024.py,Contenido,Descarga Colab,1,15
+src/dashboard/celda_024.py,Contenido,Dependencia Google Colab,1,3
+src/dashboard/celda_025.py,Contenido,Descarga Colab,1,650
+src/dashboard/celda_025.py,Contenido,Dependencia Google Colab,1,17
+src/dashboard/celda_025.py,Contenido,Instalación pip,1,406
+src/dashboard/celda_025.py,Contenido,Integración R,1,285
+src/fase2/celda_003.py,Contenido,Ruta absoluta Colab,1,17
+src/fase2/celda_005.py,Contenido,Carga manual Colab,1,11
+src/fase2/celda_005.py,Contenido,Dependencia Google Colab,1,10
+src/fase2/celda_028.py,Contenido,Integración R,1,12
+src/fase2/celda_029.py,Contenido,Integración R,4,1
+src/fase2/celda_030.py,Contenido,Integración R,3,19
+src/fase2/celda_034.py,Contenido,Descarga Colab,1,6
+src/fase2/celda_034.py,Contenido,Dependencia Google Colab,1,5
+src/fase3/celda_002.py,Contenido,Ruta absoluta Colab,1,20
+src/fase4/celda_002.py,Contenido,Ruta absoluta Colab,1,29
+src/fase4/celda_031.py,Contenido,Ruta absoluta Colab,1,4
+src/fase4/celda_031.py,Contenido,Descarga Colab,1,3
+src/fase4/celda_031.py,Contenido,Dependencia Google Colab,1,1

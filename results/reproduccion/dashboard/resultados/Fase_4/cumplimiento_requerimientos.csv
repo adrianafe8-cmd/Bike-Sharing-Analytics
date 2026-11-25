@@ -1,0 +1,14 @@
+Requerimiento,Estado,Evidencia
+Diagnóstico de valores faltantes,Cumplido,No se identificaron valores faltantes
+"Análisis MCAR, MAR y MNAR",Cumplido,No aplica imputación por ausencia de datos faltantes
+Tratamiento de outliers,Cumplido,Winsorization P1-P99
+Ingeniería de características,Cumplido,Cuatro variables derivadas
+Codificación categórica,Cumplido,One-Hot Encoding
+Escalamiento,Cumplido,StandardScaler
+Prevención de fuga en preprocesamiento,Cumplido,Ajuste de transformadores solo en entrenamiento
+Partición de regresión,Cumplido,División cronológica 70-15-15 aproximada
+Partición de clasificación,Cumplido,División estratificada 70-15-15 aproximada
+Análisis de desbalance,Cumplido,Imbalance Ratio de 1.6477
+Tratamiento de desbalance severo,No aplica,No se identificó desbalance severo
+Baseline de regresión,Cumplido,LinearRegression y DummyRegressor
+Baseline de clasificación,Cumplido,LogisticRegression y DummyClassifier

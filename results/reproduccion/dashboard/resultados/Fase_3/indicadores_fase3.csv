@@ -1,0 +1,7 @@
+﻿Indicador,Valor
+Modelo regresión seleccionado en validación,Random Forest
+Clasificador seleccionado en validación temporal,KNN
+Umbral de demanda,3974.0
+Folds totales,5
+Folds utilizables,4
+ARI,0.4276

@@ -1,0 +1,6 @@
+fig=go.Figure()
+fig.add_trace(go.Scatter(x=resultados.dteday,y=resultados.cnt,name='Real',mode='lines+markers'))
+fig.add_trace(go.Scatter(x=resultados.dteday,y=resultados.prediccion,name='Predicción final',mode='lines'))
+fig.update_layout(title='Predicciones en prueba (70/15/15)',xaxis_title='Fecha',yaxis_title='Alquileres',hovermode='x unified')
+fig.write_html(str(SALIDA/'06_comparacion_interactiva.html'),include_plotlyjs=True)
+fig.show()

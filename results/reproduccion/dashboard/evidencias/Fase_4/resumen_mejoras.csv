@@ -1,0 +1,4 @@
+Problema,Indicador,Resultado
+Regresión,Reducción relativa del RMSE (%),4.150970414429307
+Clasificación,Mejora F1 Macro (pp),51.15664824474639
+Clasificación,Mejora Accuracy (pp),28.181818181818187

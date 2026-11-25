@@ -1,0 +1,19 @@
+{
+    "csv_reproducidos": 140,
+    "csv_originales": 101,
+    "csv_equivalentes": 55,
+    "csv_por_estado": {
+        "REFERENCIA_AMBIGUA": 59,
+        "EQUIVALENTE": 55,
+        "SIN_REFERENCIA_DIRECTA": 15,
+        "DIFERENCIAS_DE_VALORES": 6,
+        "ESTRUCTURA_DIFERENTE": 5
+    },
+    "indicadores_verificados": 17,
+    "indicadores_equivalentes": 17,
+    "fase1_indicadores_verificados_ok": true,
+    "dashboard_componentes_ok": true,
+    "tolerancia_relativa": 1e-06,
+    "tolerancia_absoluta": 1e-08,
+    "equivalencia_metricas_validada": false
+}

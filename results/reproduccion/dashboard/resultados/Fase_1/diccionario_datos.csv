@@ -1,0 +1,17 @@
+﻿Variable,Tipo,Descripcion,Rango_o_valores
+instant,Identificador,Índice único del registro,1 — 731
+dteday,Temporal,Fecha de observación,2011-01-01 a 2012-12-31
+season,Cualitativa nominal,Estación del año codificada,1: Invierno; 2: Primavera; 3: Verano; 4: Otoño
+yr,Cualitativa ordinal,Año de observación,0: 2011; 1: 2012
+mnth,Cualitativa ordinal cíclica,Mes del año,1 a 12
+holiday,Cualitativa nominal binaria,Indicador de día festivo,0: No; 1: Sí
+weekday,Cualitativa nominal cíclica,Día de la semana,0: Domingo; 1: Lunes; 2: Martes; 3: Miércoles; 4: Jueves; 5: Viernes; 6: Sábado
+workingday,Cualitativa nominal binaria,"Día laboral, excluye festivos y fines de semana",0: No; 1: Sí
+weathersit,Cualitativa ordinal,Categoría de condiciones meteorológicas,1: Despejado o parcialmente nublado; 2: Niebla o nublado; 3: Precipitación ligera o tormenta; 4: Condiciones severas
+temp,Cuantitativa continua,Temperatura normalizada,0.0591304 — 0.861667
+atemp,Cuantitativa continua,Sensación térmica normalizada,0.0790696 — 0.840896
+hum,Cuantitativa continua,Humedad relativa normalizada,0.0 — 0.9725
+windspeed,Cuantitativa continua,Velocidad del viento normalizada,0.0223917 — 0.507463
+casual,Cuantitativa discreta,Alquileres de usuarios casuales,2 — 3410
+registered,Cuantitativa discreta,Alquileres de usuarios registrados,20 — 6946
+cnt,Cuantitativa discreta,Total diario de alquileres; variable objetivo,22 — 8714

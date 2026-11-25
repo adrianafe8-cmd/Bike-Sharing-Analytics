@@ -1,0 +1,46 @@
+﻿Celda,Salida,Tipo_salida,Resultado
+10,2,stream,"Mejor alpha: 0.1
+RMSE de validación: 919.6
+Optimización Ridge completada.
+"
+12,2,stream,"
+Mejor configuración: (200, 10, 3)
+RMSE de validación: 831.34
+Optimización Random Forest completada.
+"
+13,1,display_data,"          Modelo       MAE      RMSE      R2
+0          Ridge  730.4686  919.6018 -0.1677
+1  Random Forest  672.4859  831.3365  0.0457"
+40,1,stream,"Evaluación final de regresión:
+"
+40,4,stream,"Evaluación final de regresión completada.
+"
+44,1,stream,"=======================================================
+RESUMEN FINAL - FASE 3
+=======================================================
+
+1. REGRESIÓN - CONJUNTO DE PRUEBA
+"
+44,2,display_data,"          Modelo        MAE       RMSE      R2
+0          Ridge   938.5730  1232.4841  0.6215
+1  Random Forest  1210.5284  1386.5265  0.5210"
+44,7,stream,"
+4. CONFIGURACIONES SELECCIONADAS
+Ridge alpha: 0.1
+Random Forest Regressor: (200, 10, 3)
+KNN k: 11
+Random Forest Classifier: 200 5 1
+K-Means K: 2
+
+5. VERIFICACIÓN DE GRÁFICOS
+OK: comparacion_regresion.png
+OK: comparacion_clasificacion.png
+OK: kmeans_codo_silueta.png
+OK: perfil_kmeans.png
+OK: comparacion_perfiles_clusters.png
+OK: importancia_variables_regresion.png
+OK: evaluacion_final_regresion.png
+OK: evaluacion_final_clasificacion.png
+
+VERIFICACIÓN FINAL COMPLETADA.
+"

@@ -1,0 +1,3 @@
+﻿Modelo,Accuracy,Precision,Recall,F1,AUC_ROC
+Random Forest,0.7027,0.9524,0.6667,0.7843,0.9011
+KNN,0.6306,0.9623,0.5667,0.7133,0.873

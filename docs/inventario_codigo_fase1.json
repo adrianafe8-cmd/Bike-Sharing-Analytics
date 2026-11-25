@@ -1,0 +1,58 @@
+[
+    {
+        "celda_original": "3",
+        "indice_notebook": 2,
+        "archivo": "src/fase1/celda_3_carga_validacion_dataset.py",
+        "lineas": 119,
+        "sha256": "6efe6a8dfbbf35bc947e6bd7f8b7ce69e36306d3b3cfb35667e93ea72d7c3457",
+        "sintaxis": "OK"
+    },
+    {
+        "celda_original": "5",
+        "indice_notebook": 4,
+        "archivo": "src/fase1/celda_5_indicadores_globales.py",
+        "lineas": 199,
+        "sha256": "16af4eb0d3c8421dc9ced38811e2990ff37c2321a51d158e3daac5b57cbe3b6d",
+        "sintaxis": "OK"
+    },
+    {
+        "celda_original": "6",
+        "indice_notebook": 5,
+        "archivo": "src/fase1/celda_6_analisis_exploratorio.py",
+        "lineas": 359,
+        "sha256": "cc30e1810102ef1707058d7bcebecb0f095e317463d22e137402b09a4fb53bc3",
+        "sintaxis": "OK"
+    },
+    {
+        "celda_original": "7",
+        "indice_notebook": 6,
+        "archivo": "src/fase1/celda_7_visualizaciones_eda.py",
+        "lineas": 434,
+        "sha256": "a01aa13122488b6ae8575ced38bd39a2d6548d6fa0414a3e553e32fb38ce66e7",
+        "sintaxis": "OK"
+    },
+    {
+        "celda_original": "18",
+        "indice_notebook": 17,
+        "archivo": "src/fase1/celda_18_complementos_academicos.py",
+        "lineas": 526,
+        "sha256": "6651aa942c3671ff21662b471fdb686568cb1abe6a9fc6c06ff80a48c28e208e",
+        "sintaxis": "OK"
+    },
+    {
+        "celda_original": "19A",
+        "indice_notebook": 18,
+        "archivo": "src/fase1/celda_19A_verificacion_metadatos.py",
+        "lineas": 162,
+        "sha256": "24ef56d26cc8f6bbb19cb64b78c830424f4ebb46fafaae706202bd1b39f3e50c",
+        "sintaxis": "OK"
+    },
+    {
+        "celda_original": "19B",
+        "indice_notebook": 19,
+        "archivo": "src/fase1/celda_19B_integracion_academica.py",
+        "lineas": 567,
+        "sha256": "314cd3d7d9e34e77bf809905fa96e92f2fcdf0b503ba37bfc437cb42974a58e9",
+        "sintaxis": "OK"
+    }
+]

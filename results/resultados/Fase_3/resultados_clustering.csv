@@ -1,0 +1,47 @@
+﻿Celda,Salida,Tipo_salida,Resultado
+28,1,stream,"Registros para clustering: 731
+Características transformadas: 14
+Variables originales: ['temp', 'hum', 'windspeed', 'season', 'weathersit', 'workingday', 'yr']
+Preparación para clustering completada.
+"
+30,4,stream,"Análisis K-Means completado.
+Gráfico guardado en: /content/Fase_3_Bicicletas/resultados/kmeans_codo_silueta.png
+"
+32,6,stream,"Caracterización K-Means completada.
+"
+34,3,stream,"Índice Rand ajustado (ARI): 0.4276
+
+Distribución Agglomerative:
+"
+34,5,stream,"Clustering jerárquico completado.
+"
+36,1,stream,"Perfil de Agglomerative Clustering:
+"
+36,4,stream,"Caracterización de Agglomerative completada.
+"
+44,5,stream,"
+3. CLUSTERING - COMPARACIÓN
+"
+44,6,display_data,"       Algoritmo  Clusters  Silueta
+0        K-Means         2   0.1918
+1  Agglomerative         2   0.1543"
+44,7,stream,"
+4. CONFIGURACIONES SELECCIONADAS
+Ridge alpha: 0.1
+Random Forest Regressor: (200, 10, 3)
+KNN k: 11
+Random Forest Classifier: 200 5 1
+K-Means K: 2
+
+5. VERIFICACIÓN DE GRÁFICOS
+OK: comparacion_regresion.png
+OK: comparacion_clasificacion.png
+OK: kmeans_codo_silueta.png
+OK: perfil_kmeans.png
+OK: comparacion_perfiles_clusters.png
+OK: importancia_variables_regresion.png
+OK: evaluacion_final_regresion.png
+OK: evaluacion_final_clasificacion.png
+
+VERIFICACIÓN FINAL COMPLETADA.
+"

@@ -1,0 +1,191 @@
+﻿Celda,Tipo_salida,Resultado
+3,stream,"Librerías listas. Carpeta: /content/resultados_regresion_bicicletas
+"
+5,stream,"Dataset descargado desde UCI.
+Dimensiones: (731, 16)
+"
+5,display_data,"   instant      dteday  season  yr  mnth  holiday  weekday  workingday  \
+0        1  2011-01-01       1   0     1        0        6           0   
+1        2  2011-01-02       1   0     1        0        0           0   
+2        3  2011-01-03       1   0     1        0        1           1   
+3        4  2011-01-04       1   0     1        0        2           1   
+4        5  2011-01-05       1   0     1        0        3           1   
+
+   weathersit      temp     atemp       hum  windspeed  casual  registered  \
+0           2  0.344167  0.363625  0.805833   0.160446     331         654   
+1           2  0.363478  0.353739  0.696087   0.248539     131         670   
+2           1  0.196364  0.189405  0.437273   0.248309     120        1229   
+3           1  0.200000  0.212122  0.590435   0.160296     108        1454   
+4           1  0.226957  0.229270  0.436957   0.186900      82        1518   
+
+    cnt  
+0   985  
+1   801  
+2  1349  
+3  1562  
+4  1600  "
+5,stream,"Columnas: ['instant', 'dteday', 'season', 'yr', 'mnth', 'holiday', 'weekday', 'workingday', 'weathersit', 'temp', 'atemp', 'hum', 'windspeed', 'casual', 'registered', 'cnt']
+"
+7,display_data,"            Valores faltantes  Porcentaje (%)
+instant                     0             0.0
+dteday                      0             0.0
+season                      0             0.0
+yr                          0             0.0
+mnth                        0             0.0
+holiday                     0             0.0
+weekday                     0             0.0
+workingday                  0             0.0
+weathersit                  0             0.0
+temp                        0             0.0
+atemp                       0             0.0
+hum                         0             0.0
+windspeed                   0             0.0
+casual                      0             0.0
+registered                  0             0.0
+cnt                         0             0.0"
+7,stream,"Fechas duplicadas: 0
+Período: 2011-01-01 a 2012-12-31
+Alquileres promedio: 4504.35
+Sin imputación: no existen datos faltantes.
+"
+9,display_data,"    Variable        Q1        Q3       IQR  Límite inferior  Límite superior  \
+0        cnt  3152.000  5956.000  2804.000        -1054.000        10162.000   
+1       temp     0.337     0.655     0.318           -0.140            1.133   
+2        hum     0.520     0.730     0.210            0.205            1.046   
+3  windspeed     0.135     0.233     0.098           -0.012            0.381   
+
+   Outliers  Porcentaje  
+0         0       0.000  
+1         0       0.000  
+2         2       0.274  
+3        13       1.778  "
+9,display_data,<Figure size 1200x800 with 4 Axes>
+9,stream,"Decisión: conservar observaciones; no aplicar imputación ni recorte.
+"
+11,display_data,"      dteday      temp       hum  fin_de_semana  temp_hum_interaccion   cnt
+0 2011-01-01  0.344167  0.805833              1              0.277341   985
+1 2011-01-02  0.363478  0.696087              1              0.253012   801
+2 2011-01-03  0.196364  0.437273              0              0.085865  1349
+3 2011-01-04  0.200000  0.590435              0              0.118087  1562
+4 2011-01-05  0.226957  0.436957              0              0.099170  1600
+5 2011-01-06  0.204348  0.518261              0              0.105906  1606
+6 2011-01-07  0.196522  0.498696              0              0.098005  1510
+7 2011-01-08  0.165000  0.535833              1              0.088412   959
+8 2011-01-09  0.138333  0.434167              1              0.060060   822
+9 2011-01-10  0.150833  0.482917              0              0.072840  1321"
+11,stream,"Dimensiones: (731, 18)
+fin_de_semana
+0    521
+1    210
+Name: count, dtype: int64
+"
+13,stream,"Entrenamiento 511 2011-01-01 a 2012-05-25
+Validación 109 2012-05-26 a 2012-09-11
+Prueba 111 2012-09-12 a 2012-12-31
+Partición cronológica correcta.
+"
+15,stream,"Entrenamiento (511, 17)
+Validación (109, 17)
+Prueba (111, 17)
+Codificación y escalamiento sin fuga de datos: verificados.
+"
+17,display_data,"                    Modelo        MAE       RMSE      R2
+0  Regresión lineal simple  1681.2355  1894.8082 -3.9577"
+17,stream,"Coeficiente: 5512.411790333314 Intercepto: 1225.3488108183424
+"
+19,display_data,"                      Modelo        MAE       RMSE      R2
+0    Regresión lineal simple  1681.2355  1894.8082 -3.9577
+1  Regresión lineal múltiple   730.2825   919.6126 -0.1678"
+19,stream,"Mejora relativa de MAE: 56.56%
+Modelo seleccionado según MAE de validación: multiple
+"
+21,display_data,"     Conjunto       MAE       RMSE      R2
+0  Validación  730.2825   919.6126 -0.1678
+1      Prueba  937.7764  1231.9848  0.6218"
+21,display_data,<Figure size 1200x500 with 1 Axes>
+21,stream,"Evaluación final realizada una sola vez.
+"
+23,display_data,<Figure size 1200x400 with 2 Axes>
+23,display_data,<Figure size 1200x400 with 1 Axes>
+23,display_data,<Figure size 800x500 with 1 Axes>
+28,stream,"Matrices equivalentes exportadas: (511, 18) (111, 18)
+Variables R: ['x00', 'x01', 'x02', 'x03', 'x04', 'x05', 'x06', 'x07', 'x08', 'x09', 'x10', 'x11', 'x12', 'x13', 'x14', 'x15', 'x16']
+Para ejecutar R, debe estar instalado Rscript.
+"
+29,stream,"Rscript disponible: /usr/bin/Rscript
+"
+30,stream,"Resumen de regresión múltiple en R
+
+Call:
+lm(formula = cnt ~ ., data = train)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-2833.8  -364.7    51.7   431.0  3213.9 
+
+Coefficients: (5 not defined because of singularities)
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept)  4960.16     279.93  17.719  < 2e-16 ***
+x00           988.91     147.12   6.722 4.93e-11 ***
+x01          -138.18      97.57  -1.416  0.15737    
+x02          -216.07      33.23  -6.502 1.92e-10 ***
+x03          -102.03     178.92  -0.570  0.56877    
+x04         -1426.23     107.10 -13.317  < 2e-16 ***
+x05          -378.20     103.08  -3.669  0.00027 ***
+x06          -762.08     131.26  -5.806 1.14e-08 ***
+x07               NA         NA      NA       NA    
+x08          1678.52     194.31   8.638  < 2e-16 ***
+x09          1301.27     182.39   7.134 3.45e-12 ***
+x10               NA         NA      NA       NA    
+x11          -532.39     187.74  -2.836  0.00476 ** 
+x12               NA         NA      NA       NA    
+x13         -1970.71      76.89 -25.630  < 2e-16 ***
+x14               NA         NA      NA       NA    
+x15          -494.86     192.51  -2.571  0.01044 *  
+x16               NA         NA      NA       NA    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 685.1 on 498 degrees of freedom
+Multiple R-squared:  0.8179,	Adjusted R-squared:  0.8135 
+F-statistic: 186.4 on 12 and 498 DF,  p-value: < 2.2e-16
+
+
+Diferencia máxima R vs Python: 2.8194335754960775e-11
+Equivalencia entre lm() y LinearRegression: confirmada.
+"
+32,stream,"=== RESUMEN REPRODUCIBLE ===
+Datos: 731 registros; nulos: 0
+Partición: 511 entrenamiento, 109 validación, 111 prueba
+Outliers IQR:
+ Variable  Outliers  Porcentaje
+      cnt         0        0.00
+     temp         0        0.00
+      hum         2        0.27
+windspeed        13        1.78
+Modelo seleccionado por MAE de validación: multiple
+Baseline MAE val: 1681.24; múltiple MAE val: 730.28
+MAE prueba: 937.78; RMSE prueba: 1231.98; R² prueba: 0.6218
+Interpretación: los resultados corresponden a una partición temporal única; el test no se usó para seleccionar modelos.
+Comprobaciones finales superadas.
+"
+34,stream,"Evidencias: /content/evidencias_proyecto_integrador_bicicletas.zip
+ - 01_outliers.png
+ - 02_real_vs_predicho.png
+ - 03_diagnostico_residuos.png
+ - 04_serie_temporal.png
+ - 05_dispersion_entrenamiento.png
+ - 06_comparacion_interactiva.html
+ - 07_dashboard_interactivo.html
+ - 07_regresion_R.png
+ - analisis_R.R
+ - datos_ordenados.csv
+ - metricas_finales.csv
+ - metricas_validacion.csv
+ - predicciones_R.csv
+ - predicciones_prueba.csv
+ - r_entrenamiento.csv
+ - r_prueba.csv
+"
+34,display_data,<IPython.core.display.Javascript object>
+34,display_data,<IPython.core.display.Javascript object>

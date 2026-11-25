@@ -1,0 +1,15 @@
+Problema,Variable,Media_transformada,Desviacion_transformada
+Regresión,temp,-2.7809891810571434e-16,0.9999999999999999
+Regresión,atemp,-1.1123956724228574e-16,0.9999999999999999
+Regresión,hum,-3.7543353944271436e-16,1.0
+Regresión,windspeed,1.181920401949286e-16,1.0
+Regresión,temp_hum_interaccion,-1.668593508634286e-16,1.0
+Regresión,mes_sin,2.7809891810571434e-17,1.0
+Regresión,mes_cos,1.1123956724228574e-16,1.0
+Clasificación,temp,-2.0857418857928576e-16,1.0
+Clasificación,atemp,2.1552666153192862e-16,0.9999999999999999
+Clasificación,hum,3.302424652505358e-16,1.0
+Clasificación,windspeed,-4.866731066850001e-17,0.9999999999999999
+Clasificación,temp_hum_interaccion,1.3904945905285717e-16,0.9999999999999999
+Clasificación,mes_sin,3.476236476321429e-18,1.0
+Clasificación,mes_cos,4.866731066850001e-17,1.0
